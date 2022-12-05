@@ -1,0 +1,295 @@
+{
+  "id": 6963,
+  "solo": true,
+  "begin_at": null,
+  "end_at": null,
+  "estimate_time": "60 hours",
+  "difficulty": 1000,
+  "objectives": ["Applicative"],
+  "description": "This project is a small 2D game with minilibx. You'll learn about textures, sprites and tiles.",
+  "duration_days": null,
+  "terminating_after": null,
+  "project_id": 2009,
+  "campus_id": 29,
+  "cursus_id": 21,
+  "created_at": "2021-12-08T02:54:28.961Z",
+  "updated_at": "2022-12-01T04:27:32.403Z",
+  "max_people": null,
+  "is_subscriptable": true,
+  "scales": [
+    {
+      "id": 18500,
+      "correction_number": 3,
+      "is_primary": false
+    },
+    {
+      "id": 19198,
+      "correction_number": 3,
+      "is_primary": true
+    },
+    {
+      "id": 18499,
+      "correction_number": 3,
+      "is_primary": false
+    },
+    {
+      "id": 10075,
+      "correction_number": 3,
+      "is_primary": false
+    }
+  ],
+  "uploads": [],
+  "team_behaviour": "user",
+  "commit": "de3431f065d91cd02c3f791b9b89c289718f5b0f",
+  "project": {
+    "id": 2009,
+    "name": "so_long",
+    "slug": "so_long",
+    "parent": null,
+    "children": [],
+    "attachments": [],
+    "created_at": "2021-05-30T22:18:01.476Z",
+    "updated_at": "2022-12-01T11:02:23.026Z",
+    "exam": false,
+    "git_id": 1,
+    "repository": "32"
+  },
+  "campus": {
+    "id": 29,
+    "name": "Seoul",
+    "time_zone": "Asia/Seoul",
+    "language": {
+      "id": 14,
+      "name": "Korean",
+      "identifier": "ko",
+      "created_at": "2020-01-08T10:56:47.481Z",
+      "updated_at": "2022-11-09T08:22:08.654Z"
+    },
+    "users_count": 4941,
+    "vogsphere_id": 19,
+    "country": "Korea, Republic of",
+    "address": "Gaepo Digital Innovation Park, 416, Gaepo-ro, Gangnam-gu,",
+    "zip": "06324",
+    "city": "Seoul",
+    "website": "https://www.42seoul.kr",
+    "facebook": "https://www.facebook.com/inno.aca/  ",
+    "twitter": "https://twitter.com/inno_aca",
+    "active": true,
+    "public": true,
+    "email_extension": "42seoul.kr",
+    "default_hidden_phone": false
+  },
+  "cursus": {
+    "id": 21,
+    "created_at": "2019-07-29T08:45:17.896Z",
+    "name": "42cursus",
+    "slug": "42cursus",
+    "kind": "main"
+  },
+  "evaluations": [
+    {
+      "id": 4723,
+      "kind": "scale"
+    }
+  ],
+  "project_sessions_rules": [
+    {
+      "id": 55039,
+      "required": true,
+      "position": 1,
+      "params": [],
+      "rule": {
+        "id": 21,
+        "kind": "correction",
+        "name": "On same campus",
+        "description": "be on the same campus",
+        "created_at": "2015-05-31T17:42:11.068Z",
+        "updated_at": "2022-12-03T11:29:26.124Z",
+        "slug": "correction-on-same-campus",
+        "internal_name": "OnSameCampus"
+      }
+    },
+    {
+      "id": 55040,
+      "required": true,
+      "position": 2,
+      "params": [
+        {
+          "id": 36079,
+          "param_id": 28,
+          "project_sessions_rule_id": 55040,
+          "value": "7-0,14-1,21-2,35-3,50-5,100-30,150-90",
+          "created_at": "2021-12-08T03:01:44.608Z",
+          "updated_at": "2021-12-08T03:01:44.608Z"
+        }
+      ],
+      "rule": {
+        "id": 35,
+        "kind": "correction",
+        "name": "Matching delay",
+        "description": "be able to correct an user more than once after a specified number of days if correctors are scarce",
+        "created_at": "2016-12-05T12:29:19.410Z",
+        "updated_at": "2022-12-03T11:29:26.136Z",
+        "slug": "correction-matching-delay",
+        "internal_name": "MatchingDelay"
+      }
+    },
+    {
+      "id": 55041,
+      "required": true,
+      "position": 3,
+      "params": [
+        {
+          "id": 36080,
+          "param_id": 15,
+          "project_sessions_rule_id": 55041,
+          "value": "42cursus",
+          "created_at": "2021-12-08T03:01:44.632Z",
+          "updated_at": "2021-12-08T03:01:44.632Z"
+        }
+      ],
+      "rule": {
+        "id": 19,
+        "kind": "correction",
+        "name": "In cursus",
+        "description": "be in cursus %{cursus}",
+        "created_at": "2015-04-17T17:34:57.709Z",
+        "updated_at": "2022-12-03T11:29:26.149Z",
+        "slug": "correction-in-cursus",
+        "internal_name": "InCursus"
+      }
+    },
+    {
+      "id": 55042,
+      "required": true,
+      "position": 4,
+      "params": [],
+      "rule": {
+        "id": 2,
+        "kind": "final_compilation",
+        "name": "Best mark",
+        "description": "take the best mark of all teams",
+        "created_at": "2014-12-17T23:51:09.326Z",
+        "updated_at": "2022-12-03T11:29:26.116Z",
+        "slug": "final_compilation-best-mark",
+        "internal_name": "BestMark"
+      }
+    },
+    {
+      "id": 55043,
+      "required": true,
+      "position": 5,
+      "params": [
+        {
+          "id": 36081,
+          "param_id": 23,
+          "project_sessions_rule_id": 55043,
+          "value": "1",
+          "created_at": "2021-12-08T03:01:44.668Z",
+          "updated_at": "2021-12-08T03:01:44.668Z"
+        }
+      ],
+      "rule": {
+        "id": 29,
+        "kind": "retriable",
+        "name": "in days",
+        "description": "delay will be %{nbr_days}",
+        "created_at": "2015-10-18T18:59:06.099Z",
+        "updated_at": "2022-12-03T11:29:26.205Z",
+        "slug": "retriable-in-days",
+        "internal_name": "InDays"
+      }
+    },
+    {
+      "id": 55046,
+      "required": true,
+      "position": 7,
+      "params": [
+        {
+          "id": 36083,
+          "param_id": 36,
+          "project_sessions_rule_id": 55046,
+          "value": "common-core-rank-01 42-to-42cursus-transfert",
+          "created_at": "2021-12-08T03:01:44.727Z",
+          "updated_at": "2021-12-08T03:01:44.727Z"
+        }
+      ],
+      "rule": {
+        "id": 46,
+        "kind": "inscription",
+        "name": "%Quest1 or %Quest2 validated",
+        "description": "have validated at least one of quests: %{quests}",
+        "created_at": "2020-01-02T15:19:51.588Z",
+        "updated_at": "2022-12-03T11:29:26.241Z",
+        "slug": "inscription-quest1-or-quest2-validated",
+        "internal_name": "QuestOrQuestValidated"
+      }
+    },
+    {
+      "id": 55045,
+      "required": true,
+      "position": 6,
+      "params": [],
+      "rule": {
+        "id": 31,
+        "kind": "correction",
+        "name": "Last Close",
+        "description": "never correct an user more than once on the same project. Gives priority to users who recently did this project",
+        "created_at": "2015-12-06T17:37:00.494Z",
+        "updated_at": "2022-12-03T11:29:26.107Z",
+        "slug": "correction-last-close",
+        "internal_name": "LastClose"
+      }
+    },
+    {
+      "id": 55047,
+      "required": true,
+      "position": 8,
+      "params": [
+        {
+          "id": 36084,
+          "param_id": 32,
+          "project_sessions_rule_id": 55047,
+          "value": "42cursus-fract-ol 42cursus-fdf 42cursus-minishell minirt cub3d",
+          "created_at": "2021-12-08T03:01:44.752Z",
+          "updated_at": "2022-11-02T04:54:53.840Z"
+        }
+      ],
+      "rule": {
+        "id": 42,
+        "kind": "inscription",
+        "name": "Neither ongoing or validated",
+        "description": "not have those projects ongoing or validated: %{projects}",
+        "created_at": "2019-09-24T12:28:53.593Z",
+        "updated_at": "2022-12-02T13:33:50.105Z",
+        "slug": "inscription-neither-ongoing-or-validated",
+        "internal_name": "NeitherOngoingOrValidated"
+      }
+    },
+    {
+      "id": 73174,
+      "required": true,
+      "position": 9,
+      "params": [
+        {
+          "id": 51602,
+          "param_id": 33,
+          "project_sessions_rule_id": 73174,
+          "value": "42cursus-fract-ol 42cursus-fdf 42cursus-minishell minirt cub3d",
+          "created_at": "2022-11-02T04:50:56.142Z",
+          "updated_at": "2022-11-02T04:54:53.852Z"
+        }
+      ],
+      "rule": {
+        "id": 43,
+        "kind": "retry_inscription",
+        "name": "Neither ongoing or validated",
+        "description": "not have those projects ongoing or validated: %{projects}",
+        "created_at": "2019-10-07T10:59:10.596Z",
+        "updated_at": "2022-12-02T10:12:34.344Z",
+        "slug": "retry_inscription-neither-ongoing-or-validated",
+        "internal_name": "NeitherOngoingOrValidated"
+      }
+    }
+  ]
+}
