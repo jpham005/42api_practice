@@ -1,0 +1,207 @@
+{
+  "id": 4865304,
+  "scale_id": 13212,
+  "comment": "libft 평가해드렸습니다!\r\n같이 함수 살펴보면서 문제가 될 수 있는 부분이나, 생각해보면 좋을 부분들에 대해 얘기 나눴어요.\r\n첫 과제인만큼 완벽할 순 없겠지만, 많이 고민하시면서 만드신 것 같아 좋았습니다!\r\n구현하셔야 하는 부분이 많아 힘드셨을텐데 고생 많으셨고, 앞으로도 화이팅입니다~",
+  "created_at": "2022-11-28T00:58:37.737Z",
+  "updated_at": "2022-11-28T03:54:32.079Z",
+  "feedback": "Makefile부터 시작해서 장장 한시간에 걸쳐 모든 코드를 세세하게 설명해주셨습니다. 1시간 동안 설명하느라 정말 수고 많으셨습니다. Makefile의 암묵적 규칙이 컴파일되는 과정(SRCS의 필요성, fsanitizer), atoi에서 범위를 제한해줘야하는지, 헤더도 목적에 맞는 헤더를 사용하면 좋다는 점과 padding, system call 줄이기, dangling pointer 등등 정말 많은 걸 알려주셨습니다. 마지막으로 정말 중요했던 우리가 만든 libft.a에 대한 설명을 해주셨습니다. 저는 그래도 디펜스는 문제 없을거라 생각했었는데 생각보다 많은 부분에 허점이 있어 놀랐습니다. 그리고 디펜스가 단지 코드의 오류를 지적하는 것이 아닌 피평가자가 더 넓고 효율적인 생각을 할 수 있도록 이끌어주셔서 이제껏 받은 평가 중 제일 좋았던 평가라고 생각합니다. 저도 평가를 iaham님처럼 할 수 있도록 노력해야할 거 같습니다. 평가 수고하셨습니다!",
+  "final_mark": 125,
+  "flag": {
+      "id": 1,
+      "name": "Ok",
+      "positive": true,
+      "icon": "check-4",
+      "created_at": "2015-09-14T23:06:52.000Z",
+      "updated_at": "2015-09-14T23:06:52.000Z"
+  },
+  "begin_at": "2022-11-28T02:30:00.000Z",
+  "correcteds": [
+      {
+          "id": 135658,
+          "login": "chbaek",
+          "url": "https://api.intra.42.fr/v2/users/chbaek"
+      }
+  ],
+  "corrector": {
+      "id": 99947,
+      "login": "jaham",
+      "url": "https://api.intra.42.fr/v2/users/jaham"
+  },
+  "truant": {},
+  "filled_at": "2022-11-28T03:43:53.400Z",
+  "questions_with_answers": [],
+  "scale": {
+      "id": 13212,
+      "evaluation_id": 4715,
+      "name": "scale 6 1669868640 pgkymazjo",
+      "is_primary": false,
+      "comment": "",
+      "introduction_md": "Please comply with the following rules:\n\n- Remain polite, courteous, respectful and constructive throughout the \n  evaluation process. The well-being of the community depends on it.\n\n- Identify with the student or group whose work is evaluated the possible \n  dysfunctions in their project. Take the time to discuss and debate the \n  problems that may have been identified.\n\n- You must consider that there might be some differences in how your peers \n  might have understood the project's instructions and the scope of its \n  functionalities. Always keep an open mind and grade them as honestly as \n  possible. The pedagogy is useful only and only if the peer-evaluation is \n  done seriously.\n",
+      "disclaimer_md": "",
+      "guidelines_md": "- Only grade the work that was turned in the Git repository of the evaluated \n  student or group.\n\n- Double-check that the Git repository belongs to the student(s). Ensure that \n  the project is the one expected. Also, check that 'git clone' is used in an \n  empty folder.\n\n- Check carefully that no malicious aliases was used to fool you and make you \n  evaluate something that is not the content of the official repository.\n\n- To avoid any surprises and if applicable, review together any scripts used \n  to facilitate the grading (scripts for testing or automation).\n\n- Do not blindly trust any scripts. The tester could be wrong!\n\n- Check the makefile: no wildcard, no relink, or the final grade is 0.\n\n- Use make, then make --debug to be sure.\n\n- If you have not completed the assignment you are going to evaluate, you have \n  to read the entire subject prior to starting the evaluation process.\n\n- Use the available flags to report an empty repository, a non-functioning \n  program, a Norm error, cheating, and so forth. \n  In these cases, the evaluation process ends and the final grade is 0, \n  or -42 in case of cheating. However, except for cheating, student are \n  strongly encouraged to review together the work that was turned in, in order \n  to identify any mistakes that shouldn't be repeated in the future.\n\n- You should never have to edit any file except the configuration file if it \n  exists. If you want to edit a file, take the time to explicit the reasons \n  with the evaluated student and make sure both of you are okay with this.\n\n- You must also verify the absence of memory leaks. Any memory allocated on \n  the heap must be properly freed before the end of execution. \n  You are allowed to use any of the different tools available on the computer, \n  such as leaks, valgrind, or e_fence. In case of memory leaks, tick the \n  appropriate flag.\n",
+      "created_at": "2022-03-22T08:56:14.905Z",
+      "correction_number": 3,
+      "duration": 1800,
+      "manual_subscription": true,
+      "languages": [
+          {
+              "id": 2,
+              "name": "English",
+              "identifier": "en",
+              "created_at": "2015-04-14T16:07:38.122Z",
+              "updated_at": "2022-12-03T11:29:30.121Z"
+          },
+          {
+              "id": 1,
+              "name": "Français",
+              "identifier": "fr",
+              "created_at": "2014-11-02T16:43:38.466Z",
+              "updated_at": "2022-12-02T10:22:32.339Z"
+          },
+          {
+              "id": 11,
+              "name": "Spanish",
+              "identifier": "es",
+              "created_at": "2019-08-09T15:14:32.544Z",
+              "updated_at": "2022-12-02T10:22:00.369Z"
+          }
+      ],
+      "flags": [
+          {
+              "id": 1,
+              "name": "Ok",
+              "positive": true,
+              "icon": "check-4",
+              "created_at": "2015-09-14T23:06:52.000Z",
+              "updated_at": "2015-09-14T23:06:52.000Z"
+          },
+          {
+              "id": 2,
+              "name": "Empty work",
+              "positive": false,
+              "icon": "file-1",
+              "created_at": "2015-09-14T23:06:52.000Z",
+              "updated_at": "2015-09-14T23:06:52.000Z"
+          },
+          {
+              "id": 3,
+              "name": "Incomplete work",
+              "positive": false,
+              "icon": "file-attention",
+              "created_at": "2015-09-14T23:06:52.000Z",
+              "updated_at": "2015-09-14T23:06:52.000Z"
+          },
+          {
+              "id": 5,
+              "name": "Invalid compilation",
+              "positive": false,
+              "icon": "skull-2",
+              "created_at": "2015-09-14T23:06:52.000Z",
+              "updated_at": "2015-09-14T23:06:52.000Z"
+          },
+          {
+              "id": 6,
+              "name": "Norme",
+              "positive": false,
+              "icon": "receipt-1",
+              "created_at": "2015-09-14T23:06:52.000Z",
+              "updated_at": "2015-09-14T23:06:52.000Z"
+          },
+          {
+              "id": 7,
+              "name": "Cheat",
+              "positive": false,
+              "icon": "layers",
+              "created_at": "2015-09-14T23:06:52.000Z",
+              "updated_at": "2015-09-14T23:06:52.000Z"
+          },
+          {
+              "id": 8,
+              "name": "Crash",
+              "positive": false,
+              "icon": "bomb",
+              "created_at": "2015-09-14T23:06:52.000Z",
+              "updated_at": "2015-09-14T23:06:52.000Z"
+          },
+          {
+              "id": 9,
+              "name": "Outstanding project",
+              "positive": true,
+              "icon": "star-1",
+              "created_at": "2017-05-18T14:07:37.380Z",
+              "updated_at": "2017-05-18T14:12:07.415Z"
+          },
+          {
+              "id": 11,
+              "name": "Concerning situation",
+              "positive": false,
+              "icon": "alert-2",
+              "created_at": "2017-11-03T12:27:44.876Z",
+              "updated_at": "2017-11-03T12:27:44.876Z"
+          },
+          {
+              "id": 12,
+              "name": "Leaks",
+              "positive": false,
+              "icon": "blood",
+              "created_at": "2018-02-09T15:50:28.558Z",
+              "updated_at": "2018-02-09T15:50:28.558Z"
+          },
+          {
+              "id": 13,
+              "name": "Forbidden Function",
+              "positive": false,
+              "icon": "delete-2",
+              "created_at": "2018-05-15T12:44:59.600Z",
+              "updated_at": "2018-05-15T12:44:59.600Z"
+          }
+      ],
+      "free": false
+  },
+  "team": {
+      "id": 4533391,
+      "name": "chbaek's group",
+      "url": "https://api.intra.42.fr/v2/teams/4533391",
+      "final_mark": 125,
+      "project_id": 1314,
+      "created_at": "2022-11-07T11:16:14.361Z",
+      "updated_at": "2022-11-28T03:55:42.019Z",
+      "status": "finished",
+      "terminating_at": null,
+      "users": [
+          {
+              "id": 135658,
+              "login": "chbaek",
+              "url": "https://api.intra.42.fr/v2/users/chbaek",
+              "leader": true,
+              "occurrence": 0,
+              "validated": true,
+              "projects_user_id": 2869058
+          }
+      ],
+      "locked?": true,
+      "validated?": true,
+      "closed?": true,
+      "repo_url": "git@vogsphere.42seoul.kr:vogsphere/intra-uuid-4d23817f-7470-45ca-82d5-f9623963f352-4533391-chbaek",
+      "repo_uuid": "intra-uuid-4d23817f-7470-45ca-82d5-f9623963f352-4533391-chbaek",
+      "locked_at": "2022-11-07T11:16:14.392Z",
+      "closed_at": "2022-11-27T14:22:27.727Z",
+      "project_session_id": 6957,
+      "project_gitlab_path": "pedago_world/42-cursus/inner-circle/libft"
+  },
+  "feedbacks": [
+      {
+          "id": 4846531,
+          "user": {
+              "login": "chbaek",
+              "id": 135658,
+              "url": "https://profile.intra.42.fr/users/chbaek"
+          },
+          "feedbackable_type": "ScaleTeam",
+          "feedbackable_id": 4865304,
+          "comment": "Makefile부터 시작해서 장장 한시간에 걸쳐 모든 코드를 세세하게 설명해주셨습니다. 1시간 동안 설명하느라 정말 수고 많으셨습니다. Makefile의 암묵적 규칙이 컴파일되는 과정(SRCS의 필요성, fsanitizer), atoi에서 범위를 제한해줘야하는지, 헤더도 목적에 맞는 헤더를 사용하면 좋다는 점과 padding, system call 줄이기, dangling pointer 등등 정말 많은 걸 알려주셨습니다. 마지막으로 정말 중요했던 우리가 만든 libft.a에 대한 설명을 해주셨습니다. 저는 그래도 디펜스는 문제 없을거라 생각했었는데 생각보다 많은 부분에 허점이 있어 놀랐습니다. 그리고 디펜스가 단지 코드의 오류를 지적하는 것이 아닌 피평가자가 더 넓고 효율적인 생각을 할 수 있도록 이끌어주셔서 이제껏 받은 평가 중 제일 좋았던 평가라고 생각합니다. 저도 평가를 iaham님처럼 할 수 있도록 노력해야할 거 같습니다. 평가 수고하셨습니다!",
+          "rating": 5,
+          "created_at": "2022-11-28T03:54:31.912Z"
+      }
+  ]
+},
