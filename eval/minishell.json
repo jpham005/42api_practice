@@ -1,0 +1,484 @@
+{
+  "id": 5129,
+  "solo": false,
+  "begin_at": null,
+  "end_at": null,
+  "estimate_time": "210 hours",
+  "difficulty": 2814,
+  "objectives": [
+      "Unix logic"
+  ],
+  "description": "The objective of this project is for you to create a simple shell.",
+  "duration_days": null,
+  "terminating_after": null,
+  "project_id": 1331,
+  "campus_id": 29,
+  "cursus_id": 21,
+  "created_at": "2020-11-02T04:36:53.486Z",
+  "updated_at": "2021-12-12T06:24:49.875Z",
+  "max_people": null,
+  "is_subscriptable": true,
+  "scales": [
+      {
+          "id": 7085,
+          "correction_number": 3,
+          "is_primary": true
+      },
+      {
+          "id": 6004,
+          "correction_number": 3,
+          "is_primary": false
+      },
+      {
+          "id": 5390,
+          "correction_number": 3,
+          "is_primary": false
+      },
+      {
+          "id": 4794,
+          "correction_number": 3,
+          "is_primary": false
+      },
+      {
+          "id": 4119,
+          "correction_number": 3,
+          "is_primary": false
+      }
+  ],
+  "uploads": [],
+  "team_behaviour": "user",
+  "commit": "c4ddfa06d32a3453d0e545f6472837f5270abc8b",
+  "project": {
+      "id": 1331,
+      "name": "minishell",
+      "slug": "42cursus-minishell",
+      "parent": null,
+      "children": [],
+      "attachments": [],
+      "created_at": "2019-07-29T15:05:14.659Z",
+      "updated_at": "2022-12-06T12:31:55.629Z",
+      "exam": false,
+      "git_id": 1,
+      "repository": "25"
+  },
+  "campus": {
+      "id": 29,
+      "name": "Seoul",
+      "time_zone": "Asia/Seoul",
+      "language": {
+          "id": 14,
+          "name": "Korean",
+          "identifier": "ko",
+          "created_at": "2020-01-08T10:56:47.481Z",
+          "updated_at": "2022-11-09T08:22:08.654Z"
+      },
+      "users_count": 4941,
+      "vogsphere_id": 19,
+      "country": "Korea, Republic of",
+      "address": "Gaepo Digital Innovation Park, 416, Gaepo-ro, Gangnam-gu,",
+      "zip": "06324",
+      "city": "Seoul",
+      "website": "https://www.42seoul.kr",
+      "facebook": "https://www.facebook.com/inno.aca/  ",
+      "twitter": "https://twitter.com/inno_aca",
+      "active": true,
+      "public": true,
+      "email_extension": "42seoul.kr",
+      "default_hidden_phone": false
+  },
+  "cursus": {
+      "id": 21,
+      "created_at": "2019-07-29T08:45:17.896Z",
+      "name": "42cursus",
+      "slug": "42cursus",
+      "kind": "main"
+  },
+  "evaluations": [
+      {
+          "id": 2821,
+          "kind": "scale"
+      }
+  ],
+  "project_sessions_rules": [
+      {
+          "id": 44316,
+          "required": true,
+          "position": 16,
+          "params": [
+              {
+                  "id": 27804,
+                  "param_id": 24,
+                  "project_sessions_rule_id": 44316,
+                  "value": "1",
+                  "created_at": "2021-06-16T02:11:54.240Z",
+                  "updated_at": "2021-06-16T02:11:54.240Z"
+              },
+              {
+                  "id": 27805,
+                  "param_id": 25,
+                  "project_sessions_rule_id": 44316,
+                  "value": "minirt cub3d 42cursus-fdf 42cursus-fract-ol so_long",
+                  "created_at": "2021-06-16T02:11:54.254Z",
+                  "updated_at": "2021-07-19T07:21:41.426Z"
+              }
+          ],
+          "rule": {
+              "id": 30,
+              "kind": "inscription",
+              "name": "Minimum Project Validated",
+              "description": "have validated %{min} of %{projects}",
+              "created_at": "2015-10-25T20:54:17.870Z",
+              "updated_at": "2022-12-02T09:04:02.784Z",
+              "slug": "inscription-minimum-project-validated",
+              "internal_name": "MinimumProjectValidated"
+          }
+      },
+      {
+          "id": 44315,
+          "required": false,
+          "position": 13,
+          "params": [
+              {
+                  "id": 27803,
+                  "param_id": 1,
+                  "project_sessions_rule_id": 44315,
+                  "value": "42cursus-push_swap",
+                  "created_at": "2021-06-16T02:11:54.210Z",
+                  "updated_at": "2021-06-16T02:11:54.210Z"
+              }
+          ],
+          "rule": {
+              "id": 1,
+              "kind": "inscription",
+              "name": "projects validated",
+              "description": "have validated %{projects}",
+              "created_at": "2014-11-02T18:31:58.200Z",
+              "updated_at": "2022-12-02T08:52:06.767Z",
+              "slug": "inscription-projects-validated",
+              "internal_name": "ProjectsValidated"
+          }
+      },
+      {
+          "id": 35960,
+          "required": true,
+          "position": 8,
+          "params": [
+              {
+                  "id": 21097,
+                  "param_id": 32,
+                  "project_sessions_rule_id": 35960,
+                  "value": "exam-rank-04 cpp-module-00",
+                  "created_at": "2020-11-02T04:49:31.238Z",
+                  "updated_at": "2021-06-16T02:11:54.076Z"
+              }
+          ],
+          "rule": {
+              "id": 42,
+              "kind": "inscription",
+              "name": "Neither ongoing or validated",
+              "description": "not have those projects ongoing or validated: %{projects}",
+              "created_at": "2019-09-24T12:28:53.593Z",
+              "updated_at": "2022-12-02T13:33:50.105Z",
+              "slug": "inscription-neither-ongoing-or-validated",
+              "internal_name": "NeitherOngoingOrValidated"
+          }
+      },
+      {
+          "id": 35961,
+          "required": true,
+          "position": 9,
+          "params": [
+              {
+                  "id": 21098,
+                  "param_id": 33,
+                  "project_sessions_rule_id": 35961,
+                  "value": "exam-rank-04 cpp-module-00 42cursus-minishell",
+                  "created_at": "2020-11-02T04:49:31.257Z",
+                  "updated_at": "2022-12-01T05:23:38.308Z"
+              }
+          ],
+          "rule": {
+              "id": 43,
+              "kind": "retry_inscription",
+              "name": "Neither ongoing or validated",
+              "description": "not have those projects ongoing or validated: %{projects}",
+              "created_at": "2019-10-07T10:59:10.596Z",
+              "updated_at": "2022-12-02T10:12:34.344Z",
+              "slug": "retry_inscription-neither-ongoing-or-validated",
+              "internal_name": "NeitherOngoingOrValidated"
+          }
+      },
+      {
+          "id": 35964,
+          "required": true,
+          "position": 10,
+          "params": [
+              {
+                  "id": 21101,
+                  "param_id": 34,
+                  "project_sessions_rule_id": 35964,
+                  "value": "42-to-42cursus-transfert common-core-rank-00",
+                  "created_at": "2020-11-02T04:49:31.313Z",
+                  "updated_at": "2020-11-02T04:49:31.313Z"
+              }
+          ],
+          "rule": {
+              "id": 44,
+              "kind": "correction",
+              "name": "%Quest1 or %Quest2 validated",
+              "description": "have validated one of %{quests}",
+              "created_at": "2019-12-18T11:40:41.130Z",
+              "updated_at": "2022-12-03T11:29:26.222Z",
+              "slug": "correction-quest1-or-quest2-validated",
+              "internal_name": "QuestOrQuestValidated"
+          }
+      },
+      {
+          "id": 35962,
+          "required": true,
+          "position": 11,
+          "params": [
+              {
+                  "id": 21099,
+                  "param_id": 35,
+                  "project_sessions_rule_id": 35962,
+                  "value": "42-to-42cursus-transfert",
+                  "created_at": "2020-11-02T04:49:31.275Z",
+                  "updated_at": "2021-05-12T01:07:44.616Z"
+              }
+          ],
+          "rule": {
+              "id": 45,
+              "kind": "inscription",
+              "name": "(%Quest1 or %Quest2) not validated",
+              "description": "not have validated any of quests %{quests}",
+              "created_at": "2019-12-18T17:07:09.599Z",
+              "updated_at": "2022-12-01T08:47:10.530Z",
+              "slug": "inscription-quest1-or-quest2-not-validated",
+              "internal_name": "QuestsNotValidated"
+          }
+      },
+      {
+          "id": 35959,
+          "required": true,
+          "position": 15,
+          "params": [
+              {
+                  "id": 21095,
+                  "param_id": 24,
+                  "project_sessions_rule_id": 35959,
+                  "value": "1",
+                  "created_at": "2020-11-02T04:49:31.211Z",
+                  "updated_at": "2020-11-02T04:49:31.211Z"
+              },
+              {
+                  "id": 21096,
+                  "param_id": 25,
+                  "project_sessions_rule_id": 35959,
+                  "value": "pipex minitalk cub3d minirt",
+                  "created_at": "2020-11-02T04:49:31.220Z",
+                  "updated_at": "2021-07-19T07:23:21.731Z"
+              }
+          ],
+          "rule": {
+              "id": 30,
+              "kind": "inscription",
+              "name": "Minimum Project Validated",
+              "description": "have validated %{min} of %{projects}",
+              "created_at": "2015-10-25T20:54:17.870Z",
+              "updated_at": "2022-12-02T09:04:02.784Z",
+              "slug": "inscription-minimum-project-validated",
+              "internal_name": "MinimumProjectValidated"
+          }
+      },
+      {
+          "id": 45382,
+          "required": true,
+          "position": 1,
+          "params": [
+              {
+                  "id": 28676,
+                  "param_id": 2,
+                  "project_sessions_rule_id": 45382,
+                  "value": "2",
+                  "created_at": "2021-07-05T11:00:07.554Z",
+                  "updated_at": "2021-07-05T11:00:07.554Z"
+              },
+              {
+                  "id": 28677,
+                  "param_id": 3,
+                  "project_sessions_rule_id": 45382,
+                  "value": "2",
+                  "created_at": "2021-07-05T11:00:07.576Z",
+                  "updated_at": "2021-07-05T11:00:07.576Z"
+              }
+          ],
+          "rule": {
+              "id": 3,
+              "kind": "group_validation",
+              "name": "Group size between n and m",
+              "description": "contain between %{n} and %{m} students",
+              "created_at": "2014-12-22T23:28:19.682Z",
+              "updated_at": "2022-12-03T11:29:27.981Z",
+              "slug": "group_validation-group-size-between-n-and-m",
+              "internal_name": "GroupSizeBetweenNAndM"
+          }
+      },
+      {
+          "id": 35953,
+          "required": true,
+          "position": 2,
+          "params": [],
+          "rule": {
+              "id": 31,
+              "kind": "correction",
+              "name": "Last Close",
+              "description": "never correct an user more than once on the same project. Gives priority to users who recently did this project",
+              "created_at": "2015-12-06T17:37:00.494Z",
+              "updated_at": "2022-12-03T11:29:26.107Z",
+              "slug": "correction-last-close",
+              "internal_name": "LastClose"
+          }
+      },
+      {
+          "id": 35954,
+          "required": true,
+          "position": 3,
+          "params": [
+              {
+                  "id": 21092,
+                  "param_id": 28,
+                  "project_sessions_rule_id": 35954,
+                  "value": "7-0,14-1,21-2,35-3,50-5,100-30,150-90",
+                  "created_at": "2020-11-02T04:49:31.138Z",
+                  "updated_at": "2020-11-02T04:49:31.138Z"
+              }
+          ],
+          "rule": {
+              "id": 35,
+              "kind": "correction",
+              "name": "Matching delay",
+              "description": "be able to correct an user more than once after a specified number of days if correctors are scarce",
+              "created_at": "2016-12-05T12:29:19.410Z",
+              "updated_at": "2022-12-03T11:29:26.136Z",
+              "slug": "correction-matching-delay",
+              "internal_name": "MatchingDelay"
+          }
+      },
+      {
+          "id": 35955,
+          "required": true,
+          "position": 4,
+          "params": [],
+          "rule": {
+              "id": 21,
+              "kind": "correction",
+              "name": "On same campus",
+              "description": "be on the same campus",
+              "created_at": "2015-05-31T17:42:11.068Z",
+              "updated_at": "2022-12-03T11:29:26.124Z",
+              "slug": "correction-on-same-campus",
+              "internal_name": "OnSameCampus"
+          }
+      },
+      {
+          "id": 35956,
+          "required": true,
+          "position": 5,
+          "params": [
+              {
+                  "id": 21093,
+                  "param_id": 15,
+                  "project_sessions_rule_id": 35956,
+                  "value": "42cursus",
+                  "created_at": "2020-11-02T04:49:31.167Z",
+                  "updated_at": "2020-11-02T04:49:31.167Z"
+              }
+          ],
+          "rule": {
+              "id": 19,
+              "kind": "correction",
+              "name": "In cursus",
+              "description": "be in cursus %{cursus}",
+              "created_at": "2015-04-17T17:34:57.709Z",
+              "updated_at": "2022-12-03T11:29:26.149Z",
+              "slug": "correction-in-cursus",
+              "internal_name": "InCursus"
+          }
+      },
+      {
+          "id": 35957,
+          "required": true,
+          "position": 6,
+          "params": [],
+          "rule": {
+              "id": 2,
+              "kind": "final_compilation",
+              "name": "Best mark",
+              "description": "take the best mark of all teams",
+              "created_at": "2014-12-17T23:51:09.326Z",
+              "updated_at": "2022-12-03T11:29:26.116Z",
+              "slug": "final_compilation-best-mark",
+              "internal_name": "BestMark"
+          }
+      },
+      {
+          "id": 35958,
+          "required": true,
+          "position": 7,
+          "params": [
+              {
+                  "id": 21094,
+                  "param_id": 23,
+                  "project_sessions_rule_id": 35958,
+                  "value": "1",
+                  "created_at": "2020-11-02T04:49:31.193Z",
+                  "updated_at": "2021-12-08T04:03:16.019Z"
+              }
+          ],
+          "rule": {
+              "id": 29,
+              "kind": "retriable",
+              "name": "in days",
+              "description": "delay will be %{nbr_days}",
+              "created_at": "2015-10-18T18:59:06.099Z",
+              "updated_at": "2022-12-03T11:29:26.205Z",
+              "slug": "retriable-in-days",
+              "internal_name": "InDays"
+          }
+      },
+      {
+          "id": 47660,
+          "required": true,
+          "position": 17,
+          "params": [
+              {
+                  "id": 30484,
+                  "param_id": 24,
+                  "project_sessions_rule_id": 47660,
+                  "value": "1",
+                  "created_at": "2021-08-30T04:45:56.693Z",
+                  "updated_at": "2021-08-30T04:45:56.693Z"
+              },
+              {
+                  "id": 30485,
+                  "param_id": 25,
+                  "project_sessions_rule_id": 47660,
+                  "value": "push_swap libasm 42cursus-push_swap",
+                  "created_at": "2021-08-30T04:45:56.711Z",
+                  "updated_at": "2021-12-09T12:54:11.327Z"
+              }
+          ],
+          "rule": {
+              "id": 30,
+              "kind": "inscription",
+              "name": "Minimum Project Validated",
+              "description": "have validated %{min} of %{projects}",
+              "created_at": "2015-10-25T20:54:17.870Z",
+              "updated_at": "2022-12-02T09:04:02.784Z",
+              "slug": "inscription-minimum-project-validated",
+              "internal_name": "MinimumProjectValidated"
+          }
+      }
+  ]
+}

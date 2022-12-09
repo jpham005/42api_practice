@@ -1,10 +1,22 @@
 version: '3'
 
 services:
-  node:
-    image: node:19-alpine3.15
-    build: .
-    ports:
-      - '8080:80'
+  frontend:
+    container_name: frontend
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    restart: always
+    networks:
+      - net
     volumes:
-      - './:/tmp/'
+      - ./frontend:/app
+    ports:
+      - 3000:3000
+    env_file:
+      - ./frontend.env
+    entrypoint: sh /tmp/frontend_entry.sh
+
+networks:
+  net:
+    driver: bridge
