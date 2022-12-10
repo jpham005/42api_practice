@@ -1,0 +1,2558 @@
+{
+  "id": 2008,
+  "name": "FdF",
+  "slug": "42cursus-fdf",
+  "parent": null,
+  "children": [],
+  "attachments": [],
+  "created_at": "2021-05-25T15:08:29.797Z",
+  "updated_at": "2022-12-02T13:33:50.097Z",
+  "exam": false,
+  "git_id": 1,
+  "repository": "13",
+  "cursus": [
+      {
+          "id": 21,
+          "created_at": "2019-07-29T08:45:17.896Z",
+          "name": "42cursus",
+          "slug": "42cursus",
+          "kind": "main"
+      },
+      {
+          "id": 53,
+          "created_at": "2021-10-20T07:14:44.406Z",
+          "name": "42.zip",
+          "slug": "42-zip",
+          "kind": "main"
+      }
+  ],
+  "campus": [
+      {
+          "id": 1,
+          "name": "Paris",
+          "time_zone": "Europe/Paris",
+          "language": {
+              "id": 1,
+              "name": "Français",
+              "identifier": "fr",
+              "created_at": "2014-11-02T16:43:38.466Z",
+              "updated_at": "2022-12-06T15:15:14.833Z"
+          },
+          "users_count": 25046,
+          "vogsphere_id": 1,
+          "country": "France",
+          "address": "96, boulevard Bessières",
+          "zip": "75017",
+          "city": "Paris",
+          "website": "http://www.42.fr/",
+          "facebook": "https://facebook.com/42born2code",
+          "twitter": "https://twitter.com/42born2code",
+          "active": true,
+          "public": true,
+          "email_extension": "42.fr",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 7,
+          "name": "Fremont",
+          "time_zone": "America/Tijuana",
+          "language": {
+              "id": 2,
+              "name": "English",
+              "identifier": "en",
+              "created_at": "2015-04-14T16:07:38.122Z",
+              "updated_at": "2022-11-11T09:41:22.653Z"
+          },
+          "users_count": 18213,
+          "vogsphere_id": 2,
+          "country": "United States",
+          "address": "6 600 Dumbarton Circle",
+          "zip": "94555",
+          "city": "Fremont",
+          "website": "https://www.42.us.org/",
+          "facebook": "https://www.facebook.com/42SiliconValley",
+          "twitter": "https://twitter.com/42SiliconValley",
+          "active": false,
+          "public": false,
+          "email_extension": "42.us.org",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 8,
+          "name": "Kyiv",
+          "time_zone": "Europe/Kiev",
+          "language": {
+              "id": 5,
+              "name": "Ukrainian",
+              "identifier": "uk",
+              "created_at": "2016-08-21T11:42:57.272Z",
+              "updated_at": "2022-01-15T02:43:00.145Z"
+          },
+          "users_count": 2635,
+          "vogsphere_id": null,
+          "country": "Ukraine",
+          "address": "Dorohozhytska St, 3",
+          "zip": "04119",
+          "city": "Kyiv",
+          "website": "https://unit.ua/",
+          "facebook": "https://www.facebook.com/unit.factory/",
+          "twitter": "",
+          "active": false,
+          "public": false,
+          "email_extension": "unit.ua",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 9,
+          "name": "Lyon",
+          "time_zone": "Europe/Paris",
+          "language": {
+              "id": 1,
+              "name": "Français",
+              "identifier": "fr",
+              "created_at": "2014-11-02T16:43:38.466Z",
+              "updated_at": "2022-11-22T12:33:26.528Z"
+          },
+          "users_count": 2554,
+          "vogsphere_id": 4,
+          "country": "France",
+          "address": "Campus Région du Numérique – 78 route de Paris",
+          "zip": "69260",
+          "city": "Charbonnières-les-Bains",
+          "website": "https://www.42lyon.fr/",
+          "facebook": "",
+          "twitter": "https://twitter.com/42lyon",
+          "active": true,
+          "public": true,
+          "email_extension": "42lyon.fr",
+          "default_hidden_phone": true
+      },
+      {
+          "id": 10,
+          "name": "Bucharest",
+          "time_zone": "Europe/Bucharest",
+          "language": {
+              "id": 3,
+              "name": "Romanian",
+              "identifier": "ro",
+              "created_at": "2015-04-26T21:15:33.624Z",
+              "updated_at": "2022-07-27T13:20:37.556Z"
+          },
+          "users_count": 783,
+          "vogsphere_id": 1,
+          "country": "Romania",
+          "address": "Strada Fabricii nr. 46 G, Sector 6, Bucuresti",
+          "zip": "060821",
+          "city": "Bucuresti",
+          "website": "http://academyplus.ro",
+          "facebook": "https://www.facebook.com/academyplusbucuresti/",
+          "twitter": "https://twitter.com/AcademyPlus_",
+          "active": false,
+          "public": false,
+          "email_extension": null,
+          "default_hidden_phone": false
+      },
+      {
+          "id": 12,
+          "name": "Brussels",
+          "time_zone": "Europe/Brussels",
+          "language": {
+              "id": 2,
+              "name": "English",
+              "identifier": "en",
+              "created_at": "2015-04-14T16:07:38.122Z",
+              "updated_at": "2022-12-05T13:22:56.919Z"
+          },
+          "users_count": 1809,
+          "vogsphere_id": 5,
+          "country": "Belgium",
+          "address": "Cantersteen 10/12",
+          "zip": "1000",
+          "city": "Brussels",
+          "website": "https://www.campus19.be",
+          "facebook": "https://www.facebook.com/19network42/",
+          "twitter": "https://twitter.com/19network42/",
+          "active": true,
+          "public": true,
+          "email_extension": "s19.be",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 13,
+          "name": "Helsinki",
+          "time_zone": "Europe/Helsinki",
+          "language": {
+              "id": 2,
+              "name": "English",
+              "identifier": "en",
+              "created_at": "2015-04-14T16:07:38.122Z",
+              "updated_at": "2022-11-13T16:19:29.494Z"
+          },
+          "users_count": 1171,
+          "vogsphere_id": 13,
+          "country": "Finland",
+          "address": "Haapaniemenkatu 5",
+          "zip": "00530",
+          "city": "Helsinki",
+          "website": "https://www.hive.fi/",
+          "facebook": "https://www.facebook.com/HiveHelsinki",
+          "twitter": "https://twitter.com/hivehelsinki",
+          "active": true,
+          "public": true,
+          "email_extension": "hive.fi",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 14,
+          "name": "Amsterdam",
+          "time_zone": "Europe/Amsterdam",
+          "language": {
+              "id": 2,
+              "name": "English",
+              "identifier": "en",
+              "created_at": "2015-04-14T16:07:38.122Z",
+              "updated_at": "2022-11-29T07:58:55.961Z"
+          },
+          "users_count": 1832,
+          "vogsphere_id": 8,
+          "country": "Netherlands",
+          "address": "Kattenburgerstraat 7",
+          "zip": "1018 JA",
+          "city": "Amsterdam",
+          "website": "http://www.codam.nl",
+          "facebook": "https://www.facebook.com/codamcodingcollege/",
+          "twitter": "https://twitter.com/CodamCollege",
+          "active": true,
+          "public": true,
+          "email_extension": "codam.nl",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 16,
+          "name": "Khouribga",
+          "time_zone": "Africa/Casablanca",
+          "language": {
+              "id": 1,
+              "name": "Français",
+              "identifier": "fr",
+              "created_at": "2014-11-02T16:43:38.466Z",
+              "updated_at": "2022-12-07T15:27:19.959Z"
+          },
+          "users_count": 2869,
+          "vogsphere_id": 6,
+          "country": "Morocco",
+          "address": "Mail Central",
+          "zip": "25000",
+          "city": "Khouribga",
+          "website": "https://1337.ma",
+          "facebook": "",
+          "twitter": "https://twitter.com/1337FIL",
+          "active": true,
+          "public": true,
+          "email_extension": "1337.ma",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 17,
+          "name": "Moscow",
+          "time_zone": "Europe/Moscow",
+          "language": {
+              "id": 6,
+              "name": "Russian",
+              "identifier": "ru",
+              "created_at": "2018-06-08T10:49:26.608Z",
+              "updated_at": "2018-06-08T10:49:26.708Z"
+          },
+          "users_count": 8796,
+          "vogsphere_id": 7,
+          "country": "Russian Federation",
+          "address": "Vyatskaya 27, business park \"Factoria\"",
+          "zip": "127015",
+          "city": "Moscow",
+          "website": "21-school.ru",
+          "facebook": "https://www.facebook.com/21coding",
+          "twitter": "https://twitter.com/21coding",
+          "active": true,
+          "public": true,
+          "email_extension": "21-school.ru",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 20,
+          "name": "São-Paulo",
+          "time_zone": "America/Sao_Paulo",
+          "language": {
+              "id": 17,
+              "name": "Brazilian Portuguese",
+              "identifier": "pt_br",
+              "created_at": "2020-12-10T14:15:00.994Z",
+              "updated_at": "2022-11-09T08:21:50.258Z"
+          },
+          "users_count": 2660,
+          "vogsphere_id": 14,
+          "country": "Brazil",
+          "address": "Rua Aspicuelta, 422, cj. 71A",
+          "zip": "05433-010",
+          "city": "São Paulo",
+          "website": "https://42sp.org.br",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42sp.org.br",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 21,
+          "name": "Benguerir",
+          "time_zone": "Africa/Casablanca",
+          "language": {
+              "id": 1,
+              "name": "Français",
+              "identifier": "fr",
+              "created_at": "2014-11-02T16:43:38.466Z",
+              "updated_at": "2022-12-07T15:27:19.959Z"
+          },
+          "users_count": 2018,
+          "vogsphere_id": 11,
+          "country": "Morocco",
+          "address": "Lot 660, Hay Moulay Rachid, Ben Guerir 43150",
+          "zip": "43150",
+          "city": "Benguerir",
+          "website": "https://1337.ma",
+          "facebook": "https://www.facebook.com/1337FutureIsLoading",
+          "twitter": "https://twitter.com/1337FIL",
+          "active": true,
+          "public": true,
+          "email_extension": "1337.ma",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 22,
+          "name": "Madrid",
+          "time_zone": "Europe/Madrid",
+          "language": {
+              "id": 11,
+              "name": "Spanish",
+              "identifier": "es",
+              "created_at": "2019-08-09T15:14:32.544Z",
+              "updated_at": "2022-12-07T11:06:02.507Z"
+          },
+          "users_count": 3778,
+          "vogsphere_id": 15,
+          "country": "Spain",
+          "address": "Distrito Telefónica - Edificio Norte 3, Ronda de la Comunicación, s/n",
+          "zip": "28050",
+          "city": "Madrid",
+          "website": "http://www.42madrid.com/",
+          "facebook": "https://facebook.com/fundaciontef",
+          "twitter": "https://twitter.com/42MadridFTef",
+          "active": true,
+          "public": true,
+          "email_extension": "42madrid.com",
+          "default_hidden_phone": true
+      },
+      {
+          "id": 23,
+          "name": "Kazan",
+          "time_zone": "Europe/Moscow",
+          "language": {
+              "id": 6,
+              "name": "Russian",
+              "identifier": "ru",
+              "created_at": "2018-06-08T10:49:26.608Z",
+              "updated_at": "2018-06-08T10:49:26.708Z"
+          },
+          "users_count": 3824,
+          "vogsphere_id": 18,
+          "country": "Russian Federation",
+          "address": "Spartakovskaya, 2b2",
+          "zip": "420000",
+          "city": "Kazan",
+          "website": "21-school.ru",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "21-school.ru",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 25,
+          "name": "Quebec",
+          "time_zone": "America/New_York",
+          "language": {
+              "id": 1,
+              "name": "Français",
+              "identifier": "fr",
+              "created_at": "2014-11-02T16:43:38.466Z",
+              "updated_at": "2022-11-21T17:05:41.893Z"
+          },
+          "users_count": 519,
+          "vogsphere_id": 27,
+          "country": "Canada",
+          "address": "330, St-Vallier Est, bureau 300",
+          "zip": "G1K 9C5",
+          "city": "Québec",
+          "website": "42quebec.com",
+          "facebook": "https://www.facebook.com/42quebec/",
+          "twitter": "https://twitter.com/42_quebec",
+          "active": true,
+          "public": true,
+          "email_extension": "42quebec.com",
+          "default_hidden_phone": true
+      },
+      {
+          "id": 26,
+          "name": "Tokyo",
+          "time_zone": "Asia/Tokyo",
+          "language": {
+              "id": 13,
+              "name": "Japanese",
+              "identifier": "ja",
+              "created_at": "2019-11-15T13:34:10.581Z",
+              "updated_at": "2022-12-06T12:34:40.749Z"
+          },
+          "users_count": 4560,
+          "vogsphere_id": 17,
+          "country": "Japan",
+          "address": "Sumitomo Fudosan Roppongi Grand Tower 3-2-1 Roppongi Minato-ku reception: 24F",
+          "zip": "106-6224",
+          "city": "Tokyo",
+          "website": "https://42tokyo.jp",
+          "facebook": "https://www.facebook.com/42tokyo/",
+          "twitter": "https://twitter.com/42_tokyo",
+          "active": true,
+          "public": true,
+          "email_extension": "42tokyo.jp",
+          "default_hidden_phone": true
+      },
+      {
+          "id": 28,
+          "name": "Rio de Janeiro",
+          "time_zone": "America/Sao_Paulo",
+          "language": {
+              "id": 9,
+              "name": "Portuguese",
+              "identifier": "pt",
+              "created_at": "2019-01-29T15:17:48.227Z",
+              "updated_at": "2022-11-17T07:35:03.110Z"
+          },
+          "users_count": 672,
+          "vogsphere_id": 40,
+          "country": "Brazil",
+          "address": "Via Binario do Porto, 299 / 4th floor",
+          "zip": "20000-000",
+          "city": "Rio de Janeiro",
+          "website": "https://42.rio",
+          "facebook": "",
+          "twitter": "@Escola42Rio",
+          "active": true,
+          "public": true,
+          "email_extension": "42.rio",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 29,
+          "name": "Seoul",
+          "time_zone": "Asia/Seoul",
+          "language": {
+              "id": 14,
+              "name": "Korean",
+              "identifier": "ko",
+              "created_at": "2020-01-08T10:56:47.481Z",
+              "updated_at": "2022-11-09T08:22:08.654Z"
+          },
+          "users_count": 4941,
+          "vogsphere_id": 19,
+          "country": "Korea, Republic of",
+          "address": "Gaepo Digital Innovation Park, 416, Gaepo-ro, Gangnam-gu,",
+          "zip": "06324",
+          "city": "Seoul",
+          "website": "https://www.42seoul.kr",
+          "facebook": "https://www.facebook.com/inno.aca/  ",
+          "twitter": "https://twitter.com/inno_aca",
+          "active": true,
+          "public": true,
+          "email_extension": "42seoul.kr",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 30,
+          "name": "Rome",
+          "time_zone": "Europe/Rome",
+          "language": {
+              "id": 16,
+              "name": "Italian",
+              "identifier": "it",
+              "created_at": "2020-03-12T13:30:39.859Z",
+              "updated_at": "2022-11-30T16:23:57.095Z"
+          },
+          "users_count": 1662,
+          "vogsphere_id": 24,
+          "country": "Italy",
+          "address": "Via Marsala 29H Termini train station",
+          "zip": "00185",
+          "city": "Roma",
+          "website": "https://www.42roma.it",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42roma.it",
+          "default_hidden_phone": true
+      },
+      {
+          "id": 31,
+          "name": "Angouleme",
+          "time_zone": "Europe/Paris",
+          "language": {
+              "id": 1,
+              "name": "Français",
+              "identifier": "fr",
+              "created_at": "2014-11-02T16:43:38.466Z",
+              "updated_at": "2022-11-10T12:41:38.590Z"
+          },
+          "users_count": 379,
+          "vogsphere_id": 41,
+          "country": "France",
+          "address": "49-51 Boulevard Besson-Ney",
+          "zip": "16000",
+          "city": "Angoulême",
+          "website": "https://www.42angouleme.fr/",
+          "facebook": "https://facebook.com/ecole42angouleme/",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42angouleme.fr",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 32,
+          "name": "Yerevan",
+          "time_zone": "Asia/Yerevan",
+          "language": {
+              "id": 2,
+              "name": "English",
+              "identifier": "en",
+              "created_at": "2015-04-14T16:07:38.122Z",
+              "updated_at": "2022-11-21T12:38:40.388Z"
+          },
+          "users_count": 1638,
+          "vogsphere_id": 22,
+          "country": "Armenia",
+          "address": "16 Halabyan St",
+          "zip": "0038",
+          "city": "Yerevan",
+          "website": "https://42yerevan.am/",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42yerevan.am",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 33,
+          "name": "Bangkok",
+          "time_zone": "Asia/Bangkok",
+          "language": {
+              "id": 2,
+              "name": "English",
+              "identifier": "en",
+              "created_at": "2015-04-14T16:07:38.122Z",
+              "updated_at": "2022-12-07T15:27:16.367Z"
+          },
+          "users_count": 1578,
+          "vogsphere_id": 31,
+          "country": "Thailand",
+          "address": "1 Thanon Chalong Krung, Lat Krabang",
+          "zip": "10520",
+          "city": "Bangkok",
+          "website": "https://www.42bangkok.com/",
+          "facebook": "https://www.facebook.com/42Bangkok/",
+          "twitter": "https://twitter.com/42bangkok",
+          "active": true,
+          "public": true,
+          "email_extension": "42bangkok.com",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 34,
+          "name": "Kuala Lumpur",
+          "time_zone": "Asia/Kuala_Lumpur",
+          "language": {
+              "id": 2,
+              "name": "English",
+              "identifier": "en",
+              "created_at": "2015-04-14T16:07:38.122Z",
+              "updated_at": "2022-11-28T22:21:28.411Z"
+          },
+          "users_count": 748,
+          "vogsphere_id": 26,
+          "country": "Malaysia",
+          "address": "Sunway FutureX",
+          "zip": "47500",
+          "city": "Kuala Lumpur",
+          "website": "42kl.edu.my",
+          "facebook": "https://www.facebook.com/42kualalumpur/",
+          "twitter": "https://twitter.com/42kualalumpur",
+          "active": true,
+          "public": true,
+          "email_extension": "42kl.edu.my",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 36,
+          "name": "Adelaide",
+          "time_zone": "Australia/Adelaide",
+          "language": {
+              "id": 2,
+              "name": "English",
+              "identifier": "en",
+              "created_at": "2015-04-14T16:07:38.122Z",
+              "updated_at": "2022-11-26T18:48:48.535Z"
+          },
+          "users_count": 760,
+          "vogsphere_id": 33,
+          "country": "Australia",
+          "address": "Level 2 and 3 - 24 Pitt St",
+          "zip": "5000",
+          "city": "Adelaide",
+          "website": "http://www.42adel.org.au",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42adel.org.au",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 37,
+          "name": "Malaga",
+          "time_zone": "Europe/Madrid",
+          "language": {
+              "id": 11,
+              "name": "Spanish",
+              "identifier": "es",
+              "created_at": "2019-08-09T15:14:32.544Z",
+              "updated_at": "2022-11-22T19:51:53.427Z"
+          },
+          "users_count": 1597,
+          "vogsphere_id": 45,
+          "country": "Spain",
+          "address": "malaga street",
+          "zip": "29000",
+          "city": "Malaga",
+          "website": "http://www.42malaga.com",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42malaga.com",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 38,
+          "name": "Lisboa",
+          "time_zone": "Europe/Lisbon",
+          "language": {
+              "id": 9,
+              "name": "Portuguese",
+              "identifier": "pt",
+              "created_at": "2019-01-29T15:17:48.227Z",
+              "updated_at": "2022-12-05T11:09:48.753Z"
+          },
+          "users_count": 1602,
+          "vogsphere_id": 25,
+          "country": "Portugal",
+          "address": "Rua Neves Ferreira, 13B",
+          "zip": "1170-273",
+          "city": "Lisboa",
+          "website": "http://www.42lisboa.com",
+          "facebook": "https://www.facebook.com/42-Lisboa-100970235020298/",
+          "twitter": "https://twitter.com/42lisboa",
+          "active": true,
+          "public": true,
+          "email_extension": "42lisboa.com",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 39,
+          "name": "Heilbronn",
+          "time_zone": "Europe/Berlin",
+          "language": {
+              "id": 2,
+              "name": "English",
+              "identifier": "en",
+              "created_at": "2015-04-14T16:07:38.122Z",
+              "updated_at": "2022-12-05T13:22:56.919Z"
+          },
+          "users_count": 1690,
+          "vogsphere_id": 28,
+          "country": "Germany",
+          "address": "Weipertstr 8 - 10",
+          "zip": "74076",
+          "city": "Heilbronn",
+          "website": "https://42heilbronn.de/",
+          "facebook": "https://www.facebook.com/42heilbronn",
+          "twitter": "https://twitter.com/42Heilbronn",
+          "active": true,
+          "public": true,
+          "email_extension": "42heilbronn.de",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 40,
+          "name": "Urduliz",
+          "time_zone": "Europe/Madrid",
+          "language": {
+              "id": 11,
+              "name": "Spanish",
+              "identifier": "es",
+              "created_at": "2019-08-09T15:14:32.544Z",
+              "updated_at": "2022-11-21T09:34:48.927Z"
+          },
+          "users_count": 866,
+          "vogsphere_id": 32,
+          "country": "Spain",
+          "address": "Aita Gotzon Kalea 37",
+          "zip": "48610",
+          "city": "Urduliz",
+          "website": "https://42urduliz.com/",
+          "facebook": "",
+          "twitter": "https://twitter.com/42UrdulizFTef",
+          "active": true,
+          "public": true,
+          "email_extension": "42urduliz.com",
+          "default_hidden_phone": true
+      },
+      {
+          "id": 41,
+          "name": "Nice",
+          "time_zone": "Europe/Paris",
+          "language": {
+              "id": 1,
+              "name": "Français",
+              "identifier": "fr",
+              "created_at": "2014-11-02T16:43:38.466Z",
+              "updated_at": "2022-11-28T13:48:47.682Z"
+          },
+          "users_count": 778,
+          "vogsphere_id": 23,
+          "country": "France",
+          "address": "61 Avenue Simone Veil",
+          "zip": "06200",
+          "city": "Nice",
+          "website": "https://www.42nice.fr/",
+          "facebook": "https://www.facebook.com/42nice",
+          "twitter": "https://twitter.com/42nicesud",
+          "active": true,
+          "public": true,
+          "email_extension": "42nice.fr",
+          "default_hidden_phone": true
+      },
+      {
+          "id": 42,
+          "name": "42Network",
+          "time_zone": "Europe/Paris",
+          "language": {
+              "id": 2,
+              "name": "English",
+              "identifier": "en",
+              "created_at": "2015-04-14T16:07:38.122Z",
+              "updated_at": "2022-12-06T14:13:19.466Z"
+          },
+          "users_count": 194,
+          "vogsphere_id": 43,
+          "country": "France",
+          "address": "96 boulevard Bessières",
+          "zip": "75017",
+          "city": "PARIS",
+          "website": "http://42network.org/",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": false,
+          "email_extension": "42network.org",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 43,
+          "name": "Abu Dhabi",
+          "time_zone": "Asia/Dubai",
+          "language": {
+              "id": 2,
+              "name": "English",
+              "identifier": "en",
+              "created_at": "2015-04-14T16:07:38.122Z",
+              "updated_at": "2022-12-07T15:27:16.367Z"
+          },
+          "users_count": 1370,
+          "vogsphere_id": 30,
+          "country": "United Arab Emirates",
+          "address": "Mina Zayed, Warehouse District ",
+          "zip": "00000",
+          "city": "Abu Dhabi",
+          "website": "https://42abudhabi.ae/",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42abudhabi.ae",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 44,
+          "name": "Wolfsburg",
+          "time_zone": "Europe/Berlin",
+          "language": {
+              "id": 2,
+              "name": "English",
+              "identifier": "en",
+              "created_at": "2015-04-14T16:07:38.122Z",
+              "updated_at": "2022-12-05T11:09:42.647Z"
+          },
+          "users_count": 2248,
+          "vogsphere_id": 29,
+          "country": "Germany",
+          "address": "Porschestraße 2c",
+          "zip": "38440",
+          "city": "Wolfsburg",
+          "website": "http://42wolfsburg.de/",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42wolfsburg.de",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 46,
+          "name": "Barcelona",
+          "time_zone": "Europe/Madrid",
+          "language": {
+              "id": 11,
+              "name": "Spanish",
+              "identifier": "es",
+              "created_at": "2019-08-09T15:14:32.544Z",
+              "updated_at": "2022-12-05T09:44:25.453Z"
+          },
+          "users_count": 1490,
+          "vogsphere_id": 38,
+          "country": "Spain",
+          "address": "Parc Tecnològic de Barcelona Activa, Carrer Albert Einstein",
+          "zip": "08042",
+          "city": "Barcelona",
+          "website": "https://www.42barcelona.com",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42barcelona.com",
+          "default_hidden_phone": true
+      },
+      {
+          "id": 47,
+          "name": "Lausanne",
+          "time_zone": "Europe/Zurich",
+          "language": {
+              "id": 1,
+              "name": "Français",
+              "identifier": "fr",
+              "created_at": "2014-11-02T16:43:38.466Z",
+              "updated_at": "2022-12-02T10:22:32.339Z"
+          },
+          "users_count": 793,
+          "vogsphere_id": 35,
+          "country": "Switzerland",
+          "address": "64 Rue de Lausanne",
+          "zip": "1020",
+          "city": "Renens",
+          "website": "https://42lausanne.ch/",
+          "facebook": "https://www.facebook.com/42Lausanne",
+          "twitter": "https://twitter.com/42lausanne",
+          "active": true,
+          "public": true,
+          "email_extension": "42lausanne.ch",
+          "default_hidden_phone": true
+      },
+      {
+          "id": 48,
+          "name": "Mulhouse",
+          "time_zone": "Europe/Paris",
+          "language": {
+              "id": 1,
+              "name": "Français",
+              "identifier": "fr",
+              "created_at": "2014-11-02T16:43:38.466Z",
+              "updated_at": "2022-11-23T16:30:48.414Z"
+          },
+          "users_count": 427,
+          "vogsphere_id": 39,
+          "country": "France",
+          "address": "30 Rue François Spoerry",
+          "zip": "68100",
+          "city": "Mulhouse",
+          "website": "https://42mulhouse.fr",
+          "facebook": "https://www.facebook.com/42Mulhouse",
+          "twitter": "https://twitter.com/42MulhouseGE",
+          "active": true,
+          "public": true,
+          "email_extension": "42mulhouse.fr",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 49,
+          "name": "Istanbul",
+          "time_zone": "Europe/Istanbul",
+          "language": {
+              "id": 18,
+              "name": "Turkish",
+              "identifier": "tr",
+              "created_at": "2021-08-20T10:50:01.782Z",
+              "updated_at": "2022-12-07T14:11:05.611Z"
+          },
+          "users_count": 2039,
+          "vogsphere_id": 36,
+          "country": "Turkey",
+          "address": "Ayazağa Mah. Azerbaycan Cad. Vadistanbul İş Blokları 2B Blok Kat 3 Sarıyer",
+          "zip": "34000",
+          "city": "Istanbul",
+          "website": "http://www.42istanbul.com.tr",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42istanbul.com.tr",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 50,
+          "name": "Kocaeli",
+          "time_zone": "Europe/Istanbul",
+          "language": {
+              "id": 18,
+              "name": "Turkish",
+              "identifier": "tr",
+              "created_at": "2021-08-20T10:50:01.782Z",
+              "updated_at": "2022-12-07T11:36:27.658Z"
+          },
+          "users_count": 1272,
+          "vogsphere_id": 37,
+          "country": "Turkey",
+          "address": "Muallimköy Mahallesi, Deniz Cd. No:143-5, 41400 Gebze/Kocaeli",
+          "zip": "41000",
+          "city": "Kocaeli",
+          "website": "http://www.42kocaeli.com.tr",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42kocaeli.com.tr",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 51,
+          "name": "Berlin",
+          "time_zone": "Europe/Berlin",
+          "language": {
+              "id": 2,
+              "name": "English",
+              "identifier": "en",
+              "created_at": "2015-04-14T16:07:38.122Z",
+              "updated_at": "2022-12-05T13:22:56.919Z"
+          },
+          "users_count": 436,
+          "vogsphere_id": 48,
+          "country": "Germany",
+          "address": "Harzer Strasse 39",
+          "zip": "12059",
+          "city": "Berlin",
+          "website": "http://42berlin.de/",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42berlin.de",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 52,
+          "name": "Florence",
+          "time_zone": "Europe/Rome",
+          "language": {
+              "id": 16,
+              "name": "Italian",
+              "identifier": "it",
+              "created_at": "2020-03-12T13:30:39.859Z",
+              "updated_at": "2022-11-25T10:36:00.358Z"
+          },
+          "users_count": 371,
+          "vogsphere_id": 46,
+          "country": "Italy",
+          "address": "Via del Tiratoio, 1",
+          "zip": "50124",
+          "city": "Firenze",
+          "website": "https://www.42firenze.it",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42firenze.it",
+          "default_hidden_phone": true
+      },
+      {
+          "id": 53,
+          "name": "Vienna",
+          "time_zone": "Europe/Vienna",
+          "language": {
+              "id": 2,
+              "name": "English",
+              "identifier": "en",
+              "created_at": "2015-04-14T16:07:38.122Z",
+              "updated_at": "2022-12-06T11:01:22.002Z"
+          },
+          "users_count": 244,
+          "vogsphere_id": 49,
+          "country": "Austria",
+          "address": "Muthgasse 26/1",
+          "zip": "1190",
+          "city": "Vienna",
+          "website": "https://www.42vienna.com",
+          "facebook": "https://www.facebook.com/42vienna",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42vienna.com",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 54,
+          "name": "42-test",
+          "time_zone": "Europe/Paris",
+          "language": {
+              "id": 1,
+              "name": "Français",
+              "identifier": "fr",
+              "created_at": "2014-11-02T16:43:38.466Z",
+              "updated_at": "2022-12-06T15:15:14.833Z"
+          },
+          "users_count": 24,
+          "vogsphere_id": 47,
+          "country": "France",
+          "address": "96 Bd Bessières",
+          "zip": "75017",
+          "city": "Paris",
+          "website": "http://42paris.fr",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": false,
+          "email_extension": "42paris.fr",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 55,
+          "name": "Tétouan",
+          "time_zone": "Africa/Casablanca",
+          "language": {
+              "id": 1,
+              "name": "Français",
+              "identifier": "fr",
+              "created_at": "2014-11-02T16:43:38.466Z",
+              "updated_at": "2022-12-07T15:27:19.959Z"
+          },
+          "users_count": 328,
+          "vogsphere_id": 44,
+          "country": "Morocco",
+          "address": "Parc Tétouan Shore, CP93150 , Martil, Tétouan",
+          "zip": "93000",
+          "city": "Tétouan",
+          "website": "https://1337.ma",
+          "facebook": "",
+          "twitter": "https://twitter.com/1337FIL",
+          "active": true,
+          "public": true,
+          "email_extension": "1337.ma",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 56,
+          "name": "Prague",
+          "time_zone": "Europe/Prague",
+          "language": {
+              "id": 2,
+              "name": "English",
+              "identifier": "en",
+              "created_at": "2015-04-14T16:07:38.122Z",
+              "updated_at": "2022-12-06T07:26:39.965Z"
+          },
+          "users_count": 248,
+          "vogsphere_id": 52,
+          "country": "Czech Republic",
+          "address": "- No address yet -",
+          "zip": "100 00",
+          "city": "Praha",
+          "website": "https://42prague.com",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42prague.com",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 57,
+          "name": "London",
+          "time_zone": "Europe/London",
+          "language": {
+              "id": 2,
+              "name": "English",
+              "identifier": "en",
+              "created_at": "2015-04-14T16:07:38.122Z",
+              "updated_at": "2022-11-21T14:10:38.529Z"
+          },
+          "users_count": 4,
+          "vogsphere_id": 51,
+          "country": "United Kingdom",
+          "address": "30 Millbank - 5th & 6th Floors",
+          "zip": "SW1P 4DU",
+          "city": "London",
+          "website": "https://42london.com",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42london.com",
+          "default_hidden_phone": true
+      },
+      {
+          "id": 58,
+          "name": "Porto",
+          "time_zone": "Europe/Lisbon",
+          "language": {
+              "id": 9,
+              "name": "Portuguese",
+              "identifier": "pt",
+              "created_at": "2019-01-29T15:17:48.227Z",
+              "updated_at": "2022-11-23T16:24:39.912Z"
+          },
+          "users_count": 515,
+          "vogsphere_id": 50,
+          "country": "Portugal",
+          "address": "Av. dos Aliados n⁰ 322/324, 3⁰ Piso",
+          "zip": "4000-407",
+          "city": "Porto",
+          "website": "https://42porto.com",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42porto.com",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 59,
+          "name": "Luxembourg",
+          "time_zone": "Europe/Paris",
+          "language": {
+              "id": 1,
+              "name": "Français",
+              "identifier": "fr",
+              "created_at": "2014-11-02T16:43:38.466Z",
+              "updated_at": "2022-12-02T10:22:32.339Z"
+          },
+          "users_count": 10,
+          "vogsphere_id": null,
+          "country": "Luxembourg",
+          "address": "- no address yet - ",
+          "zip": "1000",
+          "city": "Luxembourg",
+          "website": "https://42luxembourg.lu",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42luxembourg.lu",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 60,
+          "name": "Perpignan",
+          "time_zone": "Europe/Paris",
+          "language": {
+              "id": 1,
+              "name": "Français",
+              "identifier": "fr",
+              "created_at": "2014-11-02T16:43:38.466Z",
+              "updated_at": "2022-12-05T22:21:42.150Z"
+          },
+          "users_count": 274,
+          "vogsphere_id": 53,
+          "country": "France",
+          "address": "- no address yet -",
+          "zip": "66000",
+          "city": "Perpignan",
+          "website": "https://42perpignan.fr",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42perpignan.fr",
+          "default_hidden_phone": false
+      },
+      {
+          "id": 62,
+          "name": "Le Havre",
+          "time_zone": "Europe/Paris",
+          "language": {
+              "id": 1,
+              "name": "Français",
+              "identifier": "fr",
+              "created_at": "2014-11-02T16:43:38.466Z",
+              "updated_at": "2022-12-07T11:04:49.470Z"
+          },
+          "users_count": 11,
+          "vogsphere_id": 54,
+          "country": "France",
+          "address": "- No address yet -",
+          "zip": "76600",
+          "city": "Le Havre",
+          "website": "https://42lehavre.fr",
+          "facebook": "",
+          "twitter": "",
+          "active": true,
+          "public": true,
+          "email_extension": "42lehavre.fr",
+          "default_hidden_phone": false
+      }
+  ],
+  "videos": [],
+  "project_sessions": [
+      {
+          "id": 8532,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 13,
+          "cursus_id": 21,
+          "created_at": "2022-09-30T15:30:26.952Z",
+          "updated_at": "2022-10-11T13:50:05.291Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 17911,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 17331,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "464be03c15dc486216a30322ac523541cea9cb7d"
+      },
+      {
+          "id": 7708,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 37,
+          "cursus_id": 21,
+          "created_at": "2022-04-11T11:42:57.789Z",
+          "updated_at": "2022-09-19T08:32:28.816Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 16807,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 13520,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "464be03c15dc486216a30322ac523541cea9cb7d"
+      },
+      {
+          "id": 7780,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 28,
+          "cursus_id": 21,
+          "created_at": "2022-05-01T04:00:41.385Z",
+          "updated_at": "2022-08-31T21:21:58.705Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 16256,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 13733,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "464be03c15dc486216a30322ac523541cea9cb7d"
+      },
+      {
+          "id": 6021,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 26,
+          "cursus_id": 21,
+          "created_at": "2021-05-27T05:54:21.797Z",
+          "updated_at": "2022-08-30T23:57:05.225Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 16233,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 13298,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 11321,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10680,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 6441,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 6312,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "464be03c15dc486216a30322ac523541cea9cb7d"
+      },
+      {
+          "id": 6658,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 25,
+          "cursus_id": 21,
+          "created_at": "2021-10-21T14:38:16.386Z",
+          "updated_at": "2022-08-01T16:20:21.197Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 15786,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 13577,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 11773,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10439,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 9761,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 9027,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "464be03c15dc486216a30322ac523541cea9cb7d"
+      },
+      {
+          "id": 6885,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 16,
+          "cursus_id": 21,
+          "created_at": "2021-11-23T10:11:08.327Z",
+          "updated_at": "2022-07-25T11:00:38.064Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 13042,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 15717,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 12377,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 12125,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 11930,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10723,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 11366,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10284,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10128,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 9780,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "464be03c15dc486216a30322ac523541cea9cb7d"
+      },
+      {
+          "id": 8236,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 58,
+          "cursus_id": 21,
+          "created_at": "2022-07-21T21:34:32.935Z",
+          "updated_at": "2022-07-21T21:38:53.817Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 15670,
+                  "correction_number": 3,
+                  "is_primary": true
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "464be03c15dc486216a30322ac523541cea9cb7d"
+      },
+      {
+          "id": 6081,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 1,
+          "cursus_id": 21,
+          "created_at": "2021-06-08T14:38:46.258Z",
+          "updated_at": "2022-07-19T08:59:30.141Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 15594,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 12788,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 12499,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 12121,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 11904,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 11347,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10579,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10130,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10126,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 9705,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 8791,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 6534,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 8567,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "464be03c15dc486216a30322ac523541cea9cb7d"
+      },
+      {
+          "id": 6331,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 46,
+          "cursus_id": 21,
+          "created_at": "2021-09-08T13:22:23.813Z",
+          "updated_at": "2022-07-11T09:12:53.710Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 15088,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 12819,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10142,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 8182,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "464be03c15dc486216a30322ac523541cea9cb7d"
+      },
+      {
+          "id": 6360,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 36,
+          "cursus_id": 21,
+          "created_at": "2021-09-09T01:05:30.352Z",
+          "updated_at": "2022-06-27T23:24:45.335Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 14678,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 12915,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 12559,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 12145,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 11443,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10471,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10469,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 9096,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10015,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 8205,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "464be03c15dc486216a30322ac523541cea9cb7d"
+      },
+      {
+          "id": 6025,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 41,
+          "cursus_id": 21,
+          "created_at": "2021-05-27T09:41:19.135Z",
+          "updated_at": "2022-06-16T05:49:17.958Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 14347,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 12985,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 12431,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 12089,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 12012,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 11390,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10357,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 9731,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10176,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 8912,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 8023,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 6458,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 6321,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "464be03c15dc486216a30322ac523541cea9cb7d"
+      },
+      {
+          "id": 6093,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 20,
+          "cursus_id": 21,
+          "created_at": "2021-06-13T12:58:17.983Z",
+          "updated_at": "2022-06-13T21:55:43.257Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 14293,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 12864,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 12543,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 11966,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 11500,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10483,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10210,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 8851,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 6615,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 8498,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "464be03c15dc486216a30322ac523541cea9cb7d"
+      },
+      {
+          "id": 6023,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 9,
+          "cursus_id": 21,
+          "created_at": "2021-05-27T08:42:59.743Z",
+          "updated_at": "2022-11-29T17:24:00.598Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 14232,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 12629,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 12349,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 12328,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 12074,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 11853,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 11320,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10263,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 9654,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10174,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 8014,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 8842,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 6377,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 6316,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "464be03c15dc486216a30322ac523541cea9cb7d"
+      },
+      {
+          "id": 6009,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": null,
+          "cursus_id": null,
+          "created_at": "2021-05-25T15:08:29.813Z",
+          "updated_at": "2022-11-14T09:55:32.128Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 14117,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 12727,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 12159,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 12104,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 11330,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10262,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10129,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 9703,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10125,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 9522,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 8157,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 6409,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 6300,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 6279,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "464be03c15dc486216a30322ac523541cea9cb7d"
+      },
+      {
+          "id": 6262,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 30,
+          "cursus_id": 21,
+          "created_at": "2021-08-16T10:23:21.881Z",
+          "updated_at": "2022-05-18T14:14:59.422Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 13922,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 11738,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10642,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 9391,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 8013,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 7742,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "c2de0503bdd737b18ca75b331e6d7446ce65a8a8"
+      },
+      {
+          "id": 7052,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 12,
+          "cursus_id": 21,
+          "created_at": "2022-01-10T15:33:31.474Z",
+          "updated_at": "2022-06-21T11:37:44.875Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 14585,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 13255,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 13254,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 12067,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10565,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "464be03c15dc486216a30322ac523541cea9cb7d"
+      },
+      {
+          "id": 7265,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 32,
+          "cursus_id": 21,
+          "created_at": "2022-02-22T07:41:51.184Z",
+          "updated_at": "2022-03-07T09:26:53.545Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 12387,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 12269,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 11979,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "58f24a151ed35a58d9f42ed7ee5790783402802d"
+      },
+      {
+          "id": 6040,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 22,
+          "cursus_id": 21,
+          "created_at": "2021-05-31T06:54:15.495Z",
+          "updated_at": "2022-03-15T16:02:40.409Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 10609,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 9681,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10183,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 8809,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 8007,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 6388,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "6c59413bd3211bade0aba046f29377f721d93be7"
+      },
+      {
+          "id": 6604,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 1,
+          "cursus_id": 53,
+          "created_at": "2021-10-20T08:22:29.271Z",
+          "updated_at": "2022-07-04T20:46:44.526Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 14864,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 12789,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 12500,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 12120,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 11905,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 11348,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10548,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10131,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10127,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 9704,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 8963,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "464be03c15dc486216a30322ac523541cea9cb7d"
+      },
+      {
+          "id": 6964,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 29,
+          "cursus_id": 21,
+          "created_at": "2021-12-08T03:04:09.422Z",
+          "updated_at": "2022-12-01T04:27:39.318Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 19199,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 10076,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "464be03c15dc486216a30322ac523541cea9cb7d"
+      },
+      {
+          "id": 6033,
+          "solo": true,
+          "begin_at": null,
+          "end_at": null,
+          "estimate_time": "60 hours",
+          "difficulty": 1000,
+          "objectives": [
+              "Simple graphic library",
+              "Segment layout",
+              "Events",
+              "3D projection to 2D"
+          ],
+          "description": "All programs that you wrote until now were executed in text mode on your terminal. Now, let’s discover something more exciting: how to open a graphics window and draw inside? To start your journey in graphic programming, FdF offers to represent “iron wire” meshing in 3D.",
+          "duration_days": null,
+          "terminating_after": null,
+          "project_id": 2008,
+          "campus_id": 40,
+          "cursus_id": 21,
+          "created_at": "2021-05-29T09:35:57.305Z",
+          "updated_at": "2021-12-05T19:44:13.184Z",
+          "max_people": null,
+          "is_subscriptable": true,
+          "scales": [
+              {
+                  "id": 8551,
+                  "correction_number": 3,
+                  "is_primary": false
+              },
+              {
+                  "id": 10043,
+                  "correction_number": 3,
+                  "is_primary": true
+              },
+              {
+                  "id": 6380,
+                  "correction_number": 3,
+                  "is_primary": false
+              }
+          ],
+          "uploads": [],
+          "team_behaviour": "user",
+          "commit": "172d677f23edcd2447c5263d7818191117b3e0bf"
+      }
+  ]
+}
