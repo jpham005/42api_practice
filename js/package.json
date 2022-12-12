@@ -1,0 +1,21 @@
+{
+  "name": "api_manager",
+  "version": "1.0.0",
+  "description": "simple 42 api manager",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node ./dist/index.js",
+    "build": "npx tsc",
+    "test": "npm run build && npm run start"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^18.11.13",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}

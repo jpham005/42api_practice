@@ -1,0 +1,5933 @@
+[
+  {
+    "id": 92951,
+    "coalition_id": 85,
+    "user_id": 131788,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-11-07T00:42:23.009Z",
+    "updated_at": "2022-11-07T00:42:23.009Z"
+  },
+  {
+    "id": 92943,
+    "coalition_id": 85,
+    "user_id": 135518,
+    "score": 77,
+    "rank": 82,
+    "created_at": "2022-11-07T00:42:22.940Z",
+    "updated_at": "2022-11-07T00:42:22.940Z"
+  },
+  {
+    "id": 92941,
+    "coalition_id": 85,
+    "user_id": 135687,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:22.922Z",
+    "updated_at": "2022-11-07T00:42:22.922Z"
+  },
+  {
+    "id": 92940,
+    "coalition_id": 85,
+    "user_id": 131598,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:22.894Z",
+    "updated_at": "2022-11-07T00:42:22.894Z"
+  },
+  {
+    "id": 92938,
+    "coalition_id": 85,
+    "user_id": 131768,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-11-07T00:42:22.881Z",
+    "updated_at": "2022-11-07T00:42:22.881Z"
+  },
+  {
+    "id": 92937,
+    "coalition_id": 85,
+    "user_id": 131574,
+    "score": 406,
+    "rank": 30,
+    "created_at": "2022-11-07T00:42:22.877Z",
+    "updated_at": "2022-11-07T00:42:22.877Z"
+  },
+  {
+    "id": 92936,
+    "coalition_id": 85,
+    "user_id": 135685,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:22.874Z",
+    "updated_at": "2022-11-07T00:42:22.874Z"
+  },
+  {
+    "id": 92934,
+    "coalition_id": 85,
+    "user_id": 135665,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:22.856Z",
+    "updated_at": "2022-11-07T00:42:22.856Z"
+  },
+  {
+    "id": 92933,
+    "coalition_id": 85,
+    "user_id": 131738,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:22.848Z",
+    "updated_at": "2022-11-07T00:42:22.848Z"
+  },
+  {
+    "id": 92932,
+    "coalition_id": 85,
+    "user_id": 131734,
+    "score": 210,
+    "rank": 55,
+    "created_at": "2022-11-07T00:42:22.833Z",
+    "updated_at": "2022-11-07T00:42:22.833Z"
+  },
+  {
+    "id": 92931,
+    "coalition_id": 85,
+    "user_id": 131705,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:22.794Z",
+    "updated_at": "2022-11-07T00:42:22.794Z"
+  },
+  {
+    "id": 92930,
+    "coalition_id": 85,
+    "user_id": 135697,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-11-07T00:42:22.777Z",
+    "updated_at": "2022-11-07T00:42:22.777Z"
+  },
+  {
+    "id": 92929,
+    "coalition_id": 85,
+    "user_id": 131818,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:22.764Z",
+    "updated_at": "2022-11-07T00:42:22.764Z"
+  },
+  {
+    "id": 92927,
+    "coalition_id": 85,
+    "user_id": 135466,
+    "score": 151,
+    "rank": 68,
+    "created_at": "2022-11-07T00:42:22.739Z",
+    "updated_at": "2022-11-07T00:42:22.739Z"
+  },
+  {
+    "id": 92926,
+    "coalition_id": 85,
+    "user_id": 135641,
+    "score": 287,
+    "rank": 45,
+    "created_at": "2022-11-07T00:42:22.687Z",
+    "updated_at": "2022-11-07T00:42:22.687Z"
+  },
+  {
+    "id": 92925,
+    "coalition_id": 85,
+    "user_id": 135583,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:22.682Z",
+    "updated_at": "2022-11-07T00:42:22.682Z"
+  },
+  {
+    "id": 92923,
+    "coalition_id": 85,
+    "user_id": 135391,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-11-07T00:42:22.652Z",
+    "updated_at": "2022-11-07T00:42:22.652Z"
+  },
+  {
+    "id": 92919,
+    "coalition_id": 85,
+    "user_id": 131700,
+    "score": 185,
+    "rank": 62,
+    "created_at": "2022-11-07T00:42:22.588Z",
+    "updated_at": "2022-11-07T00:42:22.588Z"
+  },
+  {
+    "id": 92873,
+    "coalition_id": 85,
+    "user_id": 135497,
+    "score": 46,
+    "rank": 88,
+    "created_at": "2022-11-07T00:42:22.113Z",
+    "updated_at": "2022-11-07T00:42:22.113Z"
+  },
+  {
+    "id": 92872,
+    "coalition_id": 85,
+    "user_id": 131570,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:22.112Z",
+    "updated_at": "2022-11-07T00:42:22.112Z"
+  },
+  {
+    "id": 92871,
+    "coalition_id": 85,
+    "user_id": 131650,
+    "score": 294,
+    "rank": 40,
+    "created_at": "2022-11-07T00:42:22.098Z",
+    "updated_at": "2022-11-07T00:42:22.098Z"
+  },
+  {
+    "id": 92869,
+    "coalition_id": 85,
+    "user_id": 131781,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:22.091Z",
+    "updated_at": "2022-11-07T00:42:22.091Z"
+  },
+  {
+    "id": 92868,
+    "coalition_id": 85,
+    "user_id": 135619,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:22.066Z",
+    "updated_at": "2022-11-07T00:42:22.066Z"
+  },
+  {
+    "id": 92866,
+    "coalition_id": 85,
+    "user_id": 135648,
+    "score": 182,
+    "rank": 64,
+    "created_at": "2022-11-07T00:42:22.058Z",
+    "updated_at": "2022-11-07T00:42:22.058Z"
+  },
+  {
+    "id": 92867,
+    "coalition_id": 85,
+    "user_id": 131800,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:22.058Z",
+    "updated_at": "2022-11-07T00:42:22.058Z"
+  },
+  {
+    "id": 92865,
+    "coalition_id": 85,
+    "user_id": 135443,
+    "score": 77,
+    "rank": 82,
+    "created_at": "2022-11-07T00:42:22.036Z",
+    "updated_at": "2022-11-07T00:42:22.036Z"
+  },
+  {
+    "id": 92864,
+    "coalition_id": 85,
+    "user_id": 135389,
+    "score": 1358,
+    "rank": 9,
+    "created_at": "2022-11-07T00:42:22.007Z",
+    "updated_at": "2022-11-07T00:42:22.007Z"
+  },
+  {
+    "id": 92863,
+    "coalition_id": 85,
+    "user_id": 131712,
+    "score": 77,
+    "rank": 82,
+    "created_at": "2022-11-07T00:42:21.998Z",
+    "updated_at": "2022-11-07T00:42:21.998Z"
+  },
+  {
+    "id": 92862,
+    "coalition_id": 85,
+    "user_id": 131646,
+    "score": 57,
+    "rank": 87,
+    "created_at": "2022-11-07T00:42:21.995Z",
+    "updated_at": "2022-11-07T00:42:21.995Z"
+  },
+  {
+    "id": 92860,
+    "coalition_id": 85,
+    "user_id": 131690,
+    "score": 766,
+    "rank": 18,
+    "created_at": "2022-11-07T00:42:21.969Z",
+    "updated_at": "2022-11-07T00:42:21.969Z"
+  },
+  {
+    "id": 92853,
+    "coalition_id": 85,
+    "user_id": 135525,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-11-07T00:42:21.901Z",
+    "updated_at": "2022-11-07T00:42:21.901Z"
+  },
+  {
+    "id": 92849,
+    "coalition_id": 85,
+    "user_id": 135705,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:21.830Z",
+    "updated_at": "2022-11-07T00:42:21.830Z"
+  },
+  {
+    "id": 92848,
+    "coalition_id": 85,
+    "user_id": 135576,
+    "score": 73,
+    "rank": 85,
+    "created_at": "2022-11-07T00:42:21.821Z",
+    "updated_at": "2022-11-07T00:42:21.821Z"
+  },
+  {
+    "id": 92847,
+    "coalition_id": 85,
+    "user_id": 131786,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:21.820Z",
+    "updated_at": "2022-11-07T00:42:21.820Z"
+  },
+  {
+    "id": 92845,
+    "coalition_id": 85,
+    "user_id": 131722,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:21.802Z",
+    "updated_at": "2022-11-07T00:42:21.802Z"
+  },
+  {
+    "id": 92835,
+    "coalition_id": 85,
+    "user_id": 135628,
+    "score": 192,
+    "rank": 57,
+    "created_at": "2022-11-07T00:42:21.699Z",
+    "updated_at": "2022-11-07T00:42:21.699Z"
+  },
+  {
+    "id": 92833,
+    "coalition_id": 85,
+    "user_id": 131542,
+    "score": 128,
+    "rank": 69,
+    "created_at": "2022-11-07T00:42:21.675Z",
+    "updated_at": "2022-11-07T00:42:21.675Z"
+  },
+  {
+    "id": 92800,
+    "coalition_id": 85,
+    "user_id": 131568,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:21.332Z",
+    "updated_at": "2022-11-07T00:42:21.332Z"
+  },
+  {
+    "id": 92799,
+    "coalition_id": 85,
+    "user_id": 135783,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:21.301Z",
+    "updated_at": "2022-11-07T00:42:21.301Z"
+  },
+  {
+    "id": 92797,
+    "coalition_id": 85,
+    "user_id": 135523,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:21.277Z",
+    "updated_at": "2022-11-07T00:42:21.277Z"
+  },
+  {
+    "id": 92796,
+    "coalition_id": 85,
+    "user_id": 135534,
+    "score": 278,
+    "rank": 46,
+    "created_at": "2022-11-07T00:42:21.236Z",
+    "updated_at": "2022-11-07T00:42:21.236Z"
+  },
+  {
+    "id": 92795,
+    "coalition_id": 85,
+    "user_id": 135557,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:21.224Z",
+    "updated_at": "2022-11-07T00:42:21.224Z"
+  },
+  {
+    "id": 92793,
+    "coalition_id": 85,
+    "user_id": 131841,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:21.209Z",
+    "updated_at": "2022-11-07T00:42:21.209Z"
+  },
+  {
+    "id": 92794,
+    "coalition_id": 85,
+    "user_id": 131527,
+    "score": 172,
+    "rank": 65,
+    "created_at": "2022-11-07T00:42:21.208Z",
+    "updated_at": "2022-11-07T00:42:21.208Z"
+  },
+  {
+    "id": 92792,
+    "coalition_id": 85,
+    "user_id": 131694,
+    "score": 329,
+    "rank": 35,
+    "created_at": "2022-11-07T00:42:21.202Z",
+    "updated_at": "2022-11-07T00:42:21.202Z"
+  },
+  {
+    "id": 92791,
+    "coalition_id": 85,
+    "user_id": 131784,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-11-07T00:42:21.145Z",
+    "updated_at": "2022-11-07T00:42:21.145Z"
+  },
+  {
+    "id": 92790,
+    "coalition_id": 85,
+    "user_id": 131801,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:21.144Z",
+    "updated_at": "2022-11-07T00:42:21.144Z"
+  },
+  {
+    "id": 92788,
+    "coalition_id": 85,
+    "user_id": 135521,
+    "score": 367,
+    "rank": 33,
+    "created_at": "2022-11-07T00:42:21.129Z",
+    "updated_at": "2022-11-07T00:42:21.129Z"
+  },
+  {
+    "id": 92787,
+    "coalition_id": 85,
+    "user_id": 131615,
+    "score": 168,
+    "rank": 66,
+    "created_at": "2022-11-07T00:42:21.126Z",
+    "updated_at": "2022-11-07T00:42:21.126Z"
+  },
+  {
+    "id": 92786,
+    "coalition_id": 85,
+    "user_id": 135431,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:21.124Z",
+    "updated_at": "2022-11-07T00:42:21.124Z"
+  },
+  {
+    "id": 92785,
+    "coalition_id": 85,
+    "user_id": 131648,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-11-07T00:42:21.115Z",
+    "updated_at": "2022-11-07T00:42:21.115Z"
+  },
+  {
+    "id": 92784,
+    "coalition_id": 85,
+    "user_id": 135489,
+    "score": 296,
+    "rank": 39,
+    "created_at": "2022-11-07T00:42:21.114Z",
+    "updated_at": "2022-11-07T00:42:21.114Z"
+  },
+  {
+    "id": 92783,
+    "coalition_id": 85,
+    "user_id": 135658,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:21.088Z",
+    "updated_at": "2022-11-07T00:42:21.088Z"
+  },
+  {
+    "id": 92782,
+    "coalition_id": 85,
+    "user_id": 131824,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:21.082Z",
+    "updated_at": "2022-11-07T00:42:21.082Z"
+  },
+  {
+    "id": 92781,
+    "coalition_id": 85,
+    "user_id": 131611,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:21.039Z",
+    "updated_at": "2022-11-07T00:42:21.039Z"
+  },
+  {
+    "id": 92778,
+    "coalition_id": 85,
+    "user_id": 131590,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-11-07T00:42:20.970Z",
+    "updated_at": "2022-11-07T00:42:20.970Z"
+  },
+  {
+    "id": 79045,
+    "coalition_id": 85,
+    "user_id": 112229,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:18.283Z",
+    "updated_at": "2022-07-04T01:00:18.283Z"
+  },
+  {
+    "id": 79044,
+    "coalition_id": 85,
+    "user_id": 110831,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:18.272Z",
+    "updated_at": "2022-07-04T01:00:18.272Z"
+  },
+  {
+    "id": 79042,
+    "coalition_id": 85,
+    "user_id": 110806,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:18.249Z",
+    "updated_at": "2022-07-04T01:00:18.249Z"
+  },
+  {
+    "id": 79043,
+    "coalition_id": 85,
+    "user_id": 112029,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:18.249Z",
+    "updated_at": "2022-07-04T01:00:18.249Z"
+  },
+  {
+    "id": 79041,
+    "coalition_id": 85,
+    "user_id": 110798,
+    "score": 189,
+    "rank": 58,
+    "created_at": "2022-07-04T01:00:18.248Z",
+    "updated_at": "2022-07-04T01:00:18.248Z"
+  },
+  {
+    "id": 79040,
+    "coalition_id": 85,
+    "user_id": 110834,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:18.228Z",
+    "updated_at": "2022-07-04T01:00:18.228Z"
+  },
+  {
+    "id": 79039,
+    "coalition_id": 85,
+    "user_id": 110825,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:18.222Z",
+    "updated_at": "2022-07-04T01:00:18.222Z"
+  },
+  {
+    "id": 79038,
+    "coalition_id": 85,
+    "user_id": 110881,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:18.215Z",
+    "updated_at": "2022-07-04T01:00:18.215Z"
+  },
+  {
+    "id": 79036,
+    "coalition_id": 85,
+    "user_id": 112196,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:18.197Z",
+    "updated_at": "2022-07-04T01:00:18.197Z"
+  },
+  {
+    "id": 79035,
+    "coalition_id": 85,
+    "user_id": 110820,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:18.189Z",
+    "updated_at": "2022-07-04T01:00:18.189Z"
+  },
+  {
+    "id": 79034,
+    "coalition_id": 85,
+    "user_id": 110815,
+    "score": 4090,
+    "rank": 2,
+    "created_at": "2022-07-04T01:00:18.180Z",
+    "updated_at": "2022-07-04T01:00:18.180Z"
+  },
+  {
+    "id": 79033,
+    "coalition_id": 85,
+    "user_id": 110933,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:18.170Z",
+    "updated_at": "2022-07-04T01:00:18.170Z"
+  },
+  {
+    "id": 79030,
+    "coalition_id": 85,
+    "user_id": 110830,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:18.112Z",
+    "updated_at": "2022-07-04T01:00:18.112Z"
+  },
+  {
+    "id": 79029,
+    "coalition_id": 85,
+    "user_id": 110738,
+    "score": 84,
+    "rank": 77,
+    "created_at": "2022-07-04T01:00:18.104Z",
+    "updated_at": "2022-07-04T01:00:18.104Z"
+  },
+  {
+    "id": 79028,
+    "coalition_id": 85,
+    "user_id": 110839,
+    "score": 378,
+    "rank": 32,
+    "created_at": "2022-07-04T01:00:18.093Z",
+    "updated_at": "2022-07-04T01:00:18.093Z"
+  },
+  {
+    "id": 79027,
+    "coalition_id": 85,
+    "user_id": 112092,
+    "score": 189,
+    "rank": 58,
+    "created_at": "2022-07-04T01:00:18.068Z",
+    "updated_at": "2022-07-04T01:00:18.068Z"
+  },
+  {
+    "id": 78986,
+    "coalition_id": 85,
+    "user_id": 112204,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:17.471Z",
+    "updated_at": "2022-07-04T01:00:17.471Z"
+  },
+  {
+    "id": 78980,
+    "coalition_id": 85,
+    "user_id": 110816,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:17.421Z",
+    "updated_at": "2022-07-04T01:00:17.421Z"
+  },
+  {
+    "id": 78977,
+    "coalition_id": 85,
+    "user_id": 110696,
+    "score": 187,
+    "rank": 61,
+    "created_at": "2022-07-04T01:00:17.366Z",
+    "updated_at": "2022-07-04T01:00:17.366Z"
+  },
+  {
+    "id": 78976,
+    "coalition_id": 85,
+    "user_id": 112271,
+    "score": 105,
+    "rank": 74,
+    "created_at": "2022-07-04T01:00:17.361Z",
+    "updated_at": "2022-07-04T01:00:17.361Z"
+  },
+  {
+    "id": 78975,
+    "coalition_id": 85,
+    "user_id": 112174,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:17.345Z",
+    "updated_at": "2022-07-04T01:00:17.345Z"
+  },
+  {
+    "id": 78974,
+    "coalition_id": 85,
+    "user_id": 110763,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:17.329Z",
+    "updated_at": "2022-07-04T01:00:17.329Z"
+  },
+  {
+    "id": 78972,
+    "coalition_id": 85,
+    "user_id": 112161,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-07-04T01:00:17.296Z",
+    "updated_at": "2022-07-04T01:00:17.296Z"
+  },
+  {
+    "id": 78973,
+    "coalition_id": 85,
+    "user_id": 110695,
+    "score": 3276,
+    "rank": 4,
+    "created_at": "2022-07-04T01:00:17.296Z",
+    "updated_at": "2022-07-04T01:00:17.296Z"
+  },
+  {
+    "id": 78971,
+    "coalition_id": 85,
+    "user_id": 112178,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:17.285Z",
+    "updated_at": "2022-07-04T01:00:17.285Z"
+  },
+  {
+    "id": 78970,
+    "coalition_id": 85,
+    "user_id": 110775,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:17.253Z",
+    "updated_at": "2022-07-04T01:00:17.253Z"
+  },
+  {
+    "id": 78969,
+    "coalition_id": 85,
+    "user_id": 112093,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:17.247Z",
+    "updated_at": "2022-07-04T01:00:17.247Z"
+  },
+  {
+    "id": 78968,
+    "coalition_id": 85,
+    "user_id": 110663,
+    "score": 185,
+    "rank": 62,
+    "created_at": "2022-07-04T01:00:17.238Z",
+    "updated_at": "2022-07-04T01:00:17.238Z"
+  },
+  {
+    "id": 78966,
+    "coalition_id": 85,
+    "user_id": 112261,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:17.183Z",
+    "updated_at": "2022-07-04T01:00:17.183Z"
+  },
+  {
+    "id": 78967,
+    "coalition_id": 85,
+    "user_id": 110814,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:17.179Z",
+    "updated_at": "2022-07-04T01:00:17.179Z"
+  },
+  {
+    "id": 78965,
+    "coalition_id": 85,
+    "user_id": 110950,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:17.177Z",
+    "updated_at": "2022-07-04T01:00:17.177Z"
+  },
+  {
+    "id": 78963,
+    "coalition_id": 85,
+    "user_id": 112152,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:17.140Z",
+    "updated_at": "2022-07-04T01:00:17.140Z"
+  },
+  {
+    "id": 78888,
+    "coalition_id": 85,
+    "user_id": 110730,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:16.091Z",
+    "updated_at": "2022-07-04T01:00:16.091Z"
+  },
+  {
+    "id": 78886,
+    "coalition_id": 85,
+    "user_id": 112200,
+    "score": 31,
+    "rank": 109,
+    "created_at": "2022-07-04T01:00:16.036Z",
+    "updated_at": "2022-07-04T01:00:16.036Z"
+  },
+  {
+    "id": 78885,
+    "coalition_id": 85,
+    "user_id": 112062,
+    "score": 4090,
+    "rank": 2,
+    "created_at": "2022-07-04T01:00:16.018Z",
+    "updated_at": "2022-07-04T01:00:16.018Z"
+  },
+  {
+    "id": 78882,
+    "coalition_id": 85,
+    "user_id": 112002,
+    "score": 730,
+    "rank": 20,
+    "created_at": "2022-07-04T01:00:15.982Z",
+    "updated_at": "2022-07-04T01:00:15.982Z"
+  },
+  {
+    "id": 78880,
+    "coalition_id": 85,
+    "user_id": 110829,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.967Z",
+    "updated_at": "2022-07-04T01:00:15.967Z"
+  },
+  {
+    "id": 78877,
+    "coalition_id": 85,
+    "user_id": 110857,
+    "score": 322,
+    "rank": 36,
+    "created_at": "2022-07-04T01:00:15.956Z",
+    "updated_at": "2022-07-04T01:00:15.956Z"
+  },
+  {
+    "id": 78879,
+    "coalition_id": 85,
+    "user_id": 112285,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.948Z",
+    "updated_at": "2022-07-04T01:00:15.948Z"
+  },
+  {
+    "id": 78876,
+    "coalition_id": 85,
+    "user_id": 110918,
+    "score": 231,
+    "rank": 52,
+    "created_at": "2022-07-04T01:00:15.939Z",
+    "updated_at": "2022-07-04T01:00:15.939Z"
+  },
+  {
+    "id": 78875,
+    "coalition_id": 85,
+    "user_id": 110722,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.932Z",
+    "updated_at": "2022-07-04T01:00:15.932Z"
+  },
+  {
+    "id": 78871,
+    "coalition_id": 85,
+    "user_id": 110864,
+    "score": 126,
+    "rank": 70,
+    "created_at": "2022-07-04T01:00:15.915Z",
+    "updated_at": "2022-07-04T01:00:15.915Z"
+  },
+  {
+    "id": 78873,
+    "coalition_id": 85,
+    "user_id": 112058,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.914Z",
+    "updated_at": "2022-07-04T01:00:15.914Z"
+  },
+  {
+    "id": 78872,
+    "coalition_id": 85,
+    "user_id": 110941,
+    "score": 46,
+    "rank": 88,
+    "created_at": "2022-07-04T01:00:15.914Z",
+    "updated_at": "2022-07-04T01:00:15.914Z"
+  },
+  {
+    "id": 78874,
+    "coalition_id": 85,
+    "user_id": 110681,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.913Z",
+    "updated_at": "2022-07-04T01:00:15.913Z"
+  },
+  {
+    "id": 78869,
+    "coalition_id": 85,
+    "user_id": 112139,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-07-04T01:00:15.853Z",
+    "updated_at": "2022-07-04T01:00:15.853Z"
+  },
+  {
+    "id": 78868,
+    "coalition_id": 85,
+    "user_id": 110646,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.850Z",
+    "updated_at": "2022-07-04T01:00:15.850Z"
+  },
+  {
+    "id": 78867,
+    "coalition_id": 85,
+    "user_id": 112090,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.848Z",
+    "updated_at": "2022-07-04T01:00:15.848Z"
+  },
+  {
+    "id": 78866,
+    "coalition_id": 85,
+    "user_id": 110836,
+    "score": 88,
+    "rank": 76,
+    "created_at": "2022-07-04T01:00:15.841Z",
+    "updated_at": "2022-07-04T01:00:15.841Z"
+  },
+  {
+    "id": 78865,
+    "coalition_id": 85,
+    "user_id": 112265,
+    "score": 1024,
+    "rank": 12,
+    "created_at": "2022-07-04T01:00:15.831Z",
+    "updated_at": "2022-07-04T01:00:15.831Z"
+  },
+  {
+    "id": 78863,
+    "coalition_id": 85,
+    "user_id": 112298,
+    "score": 126,
+    "rank": 70,
+    "created_at": "2022-07-04T01:00:15.794Z",
+    "updated_at": "2022-07-04T01:00:15.794Z"
+  },
+  {
+    "id": 78864,
+    "coalition_id": 85,
+    "user_id": 112190,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.793Z",
+    "updated_at": "2022-07-04T01:00:15.793Z"
+  },
+  {
+    "id": 78862,
+    "coalition_id": 85,
+    "user_id": 110898,
+    "score": 519,
+    "rank": 26,
+    "created_at": "2022-07-04T01:00:15.708Z",
+    "updated_at": "2022-07-04T01:00:15.708Z"
+  },
+  {
+    "id": 78861,
+    "coalition_id": 85,
+    "user_id": 110661,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.681Z",
+    "updated_at": "2022-07-04T01:00:15.681Z"
+  },
+  {
+    "id": 78860,
+    "coalition_id": 85,
+    "user_id": 110645,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.670Z",
+    "updated_at": "2022-07-04T01:00:15.670Z"
+  },
+  {
+    "id": 78859,
+    "coalition_id": 85,
+    "user_id": 112065,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.654Z",
+    "updated_at": "2022-07-04T01:00:15.654Z"
+  },
+  {
+    "id": 78858,
+    "coalition_id": 85,
+    "user_id": 112108,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.599Z",
+    "updated_at": "2022-07-04T01:00:15.599Z"
+  },
+  {
+    "id": 78856,
+    "coalition_id": 85,
+    "user_id": 112105,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.554Z",
+    "updated_at": "2022-07-04T01:00:15.554Z"
+  },
+  {
+    "id": 74549,
+    "coalition_id": 85,
+    "user_id": 107089,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.392Z",
+    "updated_at": "2022-03-07T01:01:39.392Z"
+  },
+  {
+    "id": 74542,
+    "coalition_id": 85,
+    "user_id": 107121,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.357Z",
+    "updated_at": "2022-03-07T01:01:39.357Z"
+  },
+  {
+    "id": 74541,
+    "coalition_id": 85,
+    "user_id": 104036,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.355Z",
+    "updated_at": "2022-03-07T01:01:39.355Z"
+  },
+  {
+    "id": 74543,
+    "coalition_id": 85,
+    "user_id": 107096,
+    "score": 756,
+    "rank": 19,
+    "created_at": "2022-03-07T01:01:39.345Z",
+    "updated_at": "2022-03-07T01:01:39.345Z"
+  },
+  {
+    "id": 74537,
+    "coalition_id": 85,
+    "user_id": 107136,
+    "score": 294,
+    "rank": 40,
+    "created_at": "2022-03-07T01:01:39.316Z",
+    "updated_at": "2022-03-07T01:01:39.316Z"
+  },
+  {
+    "id": 74536,
+    "coalition_id": 85,
+    "user_id": 103905,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.315Z",
+    "updated_at": "2022-03-07T01:01:39.315Z"
+  },
+  {
+    "id": 74534,
+    "coalition_id": 85,
+    "user_id": 104048,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.309Z",
+    "updated_at": "2022-03-07T01:01:39.309Z"
+  },
+  {
+    "id": 74535,
+    "coalition_id": 85,
+    "user_id": 104103,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.304Z",
+    "updated_at": "2022-03-07T01:01:39.304Z"
+  },
+  {
+    "id": 74533,
+    "coalition_id": 85,
+    "user_id": 104051,
+    "score": 535,
+    "rank": 24,
+    "created_at": "2022-03-07T01:01:39.288Z",
+    "updated_at": "2022-03-07T01:01:39.288Z"
+  },
+  {
+    "id": 74532,
+    "coalition_id": 85,
+    "user_id": 107079,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.288Z",
+    "updated_at": "2022-03-07T01:01:39.288Z"
+  },
+  {
+    "id": 74531,
+    "coalition_id": 85,
+    "user_id": 107188,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.282Z",
+    "updated_at": "2022-03-07T01:01:39.282Z"
+  },
+  {
+    "id": 74530,
+    "coalition_id": 85,
+    "user_id": 107122,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.281Z",
+    "updated_at": "2022-03-07T01:01:39.281Z"
+  },
+  {
+    "id": 74529,
+    "coalition_id": 85,
+    "user_id": 104035,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.278Z",
+    "updated_at": "2022-03-07T01:01:39.278Z"
+  },
+  {
+    "id": 74527,
+    "coalition_id": 85,
+    "user_id": 104007,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.261Z",
+    "updated_at": "2022-03-07T01:01:39.261Z"
+  },
+  {
+    "id": 74526,
+    "coalition_id": 85,
+    "user_id": 106938,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.256Z",
+    "updated_at": "2022-03-07T01:01:39.256Z"
+  },
+  {
+    "id": 74528,
+    "coalition_id": 85,
+    "user_id": 104059,
+    "score": 6,
+    "rank": 110,
+    "created_at": "2022-03-07T01:01:39.255Z",
+    "updated_at": "2022-03-07T01:01:39.255Z"
+  },
+  {
+    "id": 74525,
+    "coalition_id": 85,
+    "user_id": 104017,
+    "score": 205,
+    "rank": 56,
+    "created_at": "2022-03-07T01:01:39.253Z",
+    "updated_at": "2022-03-07T01:01:39.253Z"
+  },
+  {
+    "id": 74524,
+    "coalition_id": 85,
+    "user_id": 104008,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.252Z",
+    "updated_at": "2022-03-07T01:01:39.252Z"
+  },
+  {
+    "id": 74523,
+    "coalition_id": 85,
+    "user_id": 104061,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.245Z",
+    "updated_at": "2022-03-07T01:01:39.245Z"
+  },
+  {
+    "id": 74522,
+    "coalition_id": 85,
+    "user_id": 103897,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-03-07T01:01:39.227Z",
+    "updated_at": "2022-03-07T01:01:39.227Z"
+  },
+  {
+    "id": 74520,
+    "coalition_id": 85,
+    "user_id": 104131,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.207Z",
+    "updated_at": "2022-03-07T01:01:39.207Z"
+  },
+  {
+    "id": 74521,
+    "coalition_id": 85,
+    "user_id": 103910,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.206Z",
+    "updated_at": "2022-03-07T01:01:39.206Z"
+  },
+  {
+    "id": 74519,
+    "coalition_id": 85,
+    "user_id": 104094,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.201Z",
+    "updated_at": "2022-03-07T01:01:39.201Z"
+  },
+  {
+    "id": 74518,
+    "coalition_id": 85,
+    "user_id": 103993,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.198Z",
+    "updated_at": "2022-03-07T01:01:39.198Z"
+  },
+  {
+    "id": 74517,
+    "coalition_id": 85,
+    "user_id": 106877,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.197Z",
+    "updated_at": "2022-03-07T01:01:39.197Z"
+  },
+  {
+    "id": 74515,
+    "coalition_id": 85,
+    "user_id": 106913,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.185Z",
+    "updated_at": "2022-03-07T01:01:39.185Z"
+  },
+  {
+    "id": 74516,
+    "coalition_id": 85,
+    "user_id": 104004,
+    "score": 84,
+    "rank": 77,
+    "created_at": "2022-03-07T01:01:39.179Z",
+    "updated_at": "2022-03-07T01:01:39.179Z"
+  },
+  {
+    "id": 74514,
+    "coalition_id": 85,
+    "user_id": 106845,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.172Z",
+    "updated_at": "2022-03-07T01:01:39.172Z"
+  },
+  {
+    "id": 74513,
+    "coalition_id": 85,
+    "user_id": 107117,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.129Z",
+    "updated_at": "2022-03-07T01:01:39.129Z"
+  },
+  {
+    "id": 74512,
+    "coalition_id": 85,
+    "user_id": 107047,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.090Z",
+    "updated_at": "2022-03-07T01:01:39.090Z"
+  },
+  {
+    "id": 74511,
+    "coalition_id": 85,
+    "user_id": 106813,
+    "score": 268,
+    "rank": 47,
+    "created_at": "2022-03-07T01:01:39.083Z",
+    "updated_at": "2022-03-07T01:01:39.083Z"
+  },
+  {
+    "id": 74510,
+    "coalition_id": 85,
+    "user_id": 107035,
+    "score": 655,
+    "rank": 23,
+    "created_at": "2022-03-07T01:01:39.062Z",
+    "updated_at": "2022-03-07T01:01:39.062Z"
+  },
+  {
+    "id": 74509,
+    "coalition_id": 85,
+    "user_id": 103934,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.045Z",
+    "updated_at": "2022-03-07T01:01:39.045Z"
+  },
+  {
+    "id": 74508,
+    "coalition_id": 85,
+    "user_id": 104001,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:38.998Z",
+    "updated_at": "2022-03-07T01:01:38.998Z"
+  },
+  {
+    "id": 74381,
+    "coalition_id": 85,
+    "user_id": 104075,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:44.158Z",
+    "updated_at": "2022-03-07T01:00:44.158Z"
+  },
+  {
+    "id": 74380,
+    "coalition_id": 85,
+    "user_id": 103936,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:44.156Z",
+    "updated_at": "2022-03-07T01:00:44.156Z"
+  },
+  {
+    "id": 74379,
+    "coalition_id": 85,
+    "user_id": 106947,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:44.151Z",
+    "updated_at": "2022-03-07T01:00:44.151Z"
+  },
+  {
+    "id": 74378,
+    "coalition_id": 85,
+    "user_id": 107055,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:44.149Z",
+    "updated_at": "2022-03-07T01:00:44.149Z"
+  },
+  {
+    "id": 74377,
+    "coalition_id": 85,
+    "user_id": 103955,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:44.148Z",
+    "updated_at": "2022-03-07T01:00:44.148Z"
+  },
+  {
+    "id": 74376,
+    "coalition_id": 85,
+    "user_id": 106941,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:44.145Z",
+    "updated_at": "2022-03-07T01:00:44.145Z"
+  },
+  {
+    "id": 74375,
+    "coalition_id": 85,
+    "user_id": 104047,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-03-07T01:00:44.099Z",
+    "updated_at": "2022-03-07T01:00:44.099Z"
+  },
+  {
+    "id": 74374,
+    "coalition_id": 85,
+    "user_id": 106932,
+    "score": 310,
+    "rank": 37,
+    "created_at": "2022-03-07T01:00:44.096Z",
+    "updated_at": "2022-03-07T01:00:44.096Z"
+  },
+  {
+    "id": 74373,
+    "coalition_id": 85,
+    "user_id": 103902,
+    "score": 436,
+    "rank": 29,
+    "created_at": "2022-03-07T01:00:44.095Z",
+    "updated_at": "2022-03-07T01:00:44.095Z"
+  },
+  {
+    "id": 74365,
+    "coalition_id": 85,
+    "user_id": 103937,
+    "score": 213,
+    "rank": 53,
+    "created_at": "2022-03-07T01:00:43.406Z",
+    "updated_at": "2022-03-07T01:00:43.406Z"
+  },
+  {
+    "id": 74364,
+    "coalition_id": 85,
+    "user_id": 106825,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:43.404Z",
+    "updated_at": "2022-03-07T01:00:43.404Z"
+  },
+  {
+    "id": 74363,
+    "coalition_id": 85,
+    "user_id": 106843,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:43.396Z",
+    "updated_at": "2022-03-07T01:00:43.396Z"
+  },
+  {
+    "id": 74362,
+    "coalition_id": 85,
+    "user_id": 103947,
+    "score": 213,
+    "rank": 53,
+    "created_at": "2022-03-07T01:00:43.394Z",
+    "updated_at": "2022-03-07T01:00:43.394Z"
+  },
+  {
+    "id": 74361,
+    "coalition_id": 85,
+    "user_id": 107068,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:43.391Z",
+    "updated_at": "2022-03-07T01:00:43.391Z"
+  },
+  {
+    "id": 74360,
+    "coalition_id": 85,
+    "user_id": 107061,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-03-07T01:00:43.391Z",
+    "updated_at": "2022-03-07T01:00:43.391Z"
+  },
+  {
+    "id": 74359,
+    "coalition_id": 85,
+    "user_id": 106806,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-03-07T01:00:43.343Z",
+    "updated_at": "2022-03-07T01:00:43.343Z"
+  },
+  {
+    "id": 74358,
+    "coalition_id": 85,
+    "user_id": 106945,
+    "score": 393,
+    "rank": 31,
+    "created_at": "2022-03-07T01:00:42.995Z",
+    "updated_at": "2022-03-07T01:00:42.995Z"
+  },
+  {
+    "id": 74355,
+    "coalition_id": 85,
+    "user_id": 107094,
+    "score": 261,
+    "rank": 50,
+    "created_at": "2022-03-07T01:00:42.993Z",
+    "updated_at": "2022-03-07T01:00:42.993Z"
+  },
+  {
+    "id": 74354,
+    "coalition_id": 85,
+    "user_id": 103952,
+    "score": 520,
+    "rank": 25,
+    "created_at": "2022-03-07T01:00:42.992Z",
+    "updated_at": "2022-03-07T01:00:42.992Z"
+  },
+  {
+    "id": 74357,
+    "coalition_id": 85,
+    "user_id": 103956,
+    "score": 268,
+    "rank": 47,
+    "created_at": "2022-03-07T01:00:42.991Z",
+    "updated_at": "2022-03-07T01:00:42.991Z"
+  },
+  {
+    "id": 74350,
+    "coalition_id": 85,
+    "user_id": 107006,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.990Z",
+    "updated_at": "2022-03-07T01:00:42.990Z"
+  },
+  {
+    "id": 74352,
+    "coalition_id": 85,
+    "user_id": 104018,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.989Z",
+    "updated_at": "2022-03-07T01:00:42.989Z"
+  },
+  {
+    "id": 74356,
+    "coalition_id": 85,
+    "user_id": 107043,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.987Z",
+    "updated_at": "2022-03-07T01:00:42.987Z"
+  },
+  {
+    "id": 74353,
+    "coalition_id": 85,
+    "user_id": 103958,
+    "score": 1088,
+    "rank": 10,
+    "created_at": "2022-03-07T01:00:42.986Z",
+    "updated_at": "2022-03-07T01:00:42.986Z"
+  },
+  {
+    "id": 74351,
+    "coalition_id": 85,
+    "user_id": 104025,
+    "score": 310,
+    "rank": 37,
+    "created_at": "2022-03-07T01:00:42.984Z",
+    "updated_at": "2022-03-07T01:00:42.984Z"
+  },
+  {
+    "id": 74349,
+    "coalition_id": 85,
+    "user_id": 106879,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.978Z",
+    "updated_at": "2022-03-07T01:00:42.978Z"
+  },
+  {
+    "id": 74347,
+    "coalition_id": 85,
+    "user_id": 107187,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.975Z",
+    "updated_at": "2022-03-07T01:00:42.975Z"
+  },
+  {
+    "id": 74348,
+    "coalition_id": 85,
+    "user_id": 103906,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.975Z",
+    "updated_at": "2022-03-07T01:00:42.975Z"
+  },
+  {
+    "id": 74345,
+    "coalition_id": 85,
+    "user_id": 106803,
+    "score": 478,
+    "rank": 27,
+    "created_at": "2022-03-07T01:00:42.974Z",
+    "updated_at": "2022-03-07T01:00:42.974Z"
+  },
+  {
+    "id": 74344,
+    "coalition_id": 85,
+    "user_id": 106921,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.973Z",
+    "updated_at": "2022-03-07T01:00:42.973Z"
+  },
+  {
+    "id": 74343,
+    "coalition_id": 85,
+    "user_id": 103932,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.970Z",
+    "updated_at": "2022-03-07T01:00:42.970Z"
+  },
+  {
+    "id": 74346,
+    "coalition_id": 85,
+    "user_id": 106933,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-03-07T01:00:42.969Z",
+    "updated_at": "2022-03-07T01:00:42.969Z"
+  },
+  {
+    "id": 74342,
+    "coalition_id": 85,
+    "user_id": 106835,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.961Z",
+    "updated_at": "2022-03-07T01:00:42.961Z"
+  },
+  {
+    "id": 74341,
+    "coalition_id": 85,
+    "user_id": 104100,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.956Z",
+    "updated_at": "2022-03-07T01:00:42.956Z"
+  },
+  {
+    "id": 74340,
+    "coalition_id": 85,
+    "user_id": 107056,
+    "score": 268,
+    "rank": 47,
+    "created_at": "2022-03-07T01:00:42.940Z",
+    "updated_at": "2022-03-07T01:00:42.940Z"
+  },
+  {
+    "id": 74339,
+    "coalition_id": 85,
+    "user_id": 104029,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.938Z",
+    "updated_at": "2022-03-07T01:00:42.938Z"
+  },
+  {
+    "id": 74338,
+    "coalition_id": 85,
+    "user_id": 104142,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.932Z",
+    "updated_at": "2022-03-07T01:00:42.932Z"
+  },
+  {
+    "id": 74337,
+    "coalition_id": 85,
+    "user_id": 106907,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.930Z",
+    "updated_at": "2022-03-07T01:00:42.930Z"
+  },
+  {
+    "id": 74336,
+    "coalition_id": 85,
+    "user_id": 103908,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.929Z",
+    "updated_at": "2022-03-07T01:00:42.929Z"
+  },
+  {
+    "id": 74335,
+    "coalition_id": 85,
+    "user_id": 107024,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.917Z",
+    "updated_at": "2022-03-07T01:00:42.917Z"
+  },
+  {
+    "id": 74334,
+    "coalition_id": 85,
+    "user_id": 106952,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.390Z",
+    "updated_at": "2022-03-07T01:00:42.390Z"
+  },
+  {
+    "id": 74333,
+    "coalition_id": 85,
+    "user_id": 106944,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-03-07T01:00:42.389Z",
+    "updated_at": "2022-03-07T01:00:42.389Z"
+  },
+  {
+    "id": 74332,
+    "coalition_id": 85,
+    "user_id": 107001,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.389Z",
+    "updated_at": "2022-03-07T01:00:42.389Z"
+  },
+  {
+    "id": 74330,
+    "coalition_id": 85,
+    "user_id": 103939,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.387Z",
+    "updated_at": "2022-03-07T01:00:42.387Z"
+  },
+  {
+    "id": 74331,
+    "coalition_id": 85,
+    "user_id": 104155,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.387Z",
+    "updated_at": "2022-03-07T01:00:42.387Z"
+  },
+  {
+    "id": 74329,
+    "coalition_id": 85,
+    "user_id": 103968,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.385Z",
+    "updated_at": "2022-03-07T01:00:42.385Z"
+  },
+  {
+    "id": 74328,
+    "coalition_id": 85,
+    "user_id": 107010,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.362Z",
+    "updated_at": "2022-03-07T01:00:42.362Z"
+  },
+  {
+    "id": 69818,
+    "coalition_id": 85,
+    "user_id": 98324,
+    "score": 84,
+    "rank": 77,
+    "created_at": "2021-11-09T04:59:03.920Z",
+    "updated_at": "2021-11-09T04:59:03.920Z"
+  },
+  {
+    "id": 69816,
+    "coalition_id": 85,
+    "user_id": 99968,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-09T04:58:37.760Z",
+    "updated_at": "2021-11-09T04:58:37.760Z"
+  },
+  {
+    "id": 69729,
+    "coalition_id": 85,
+    "user_id": 99930,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:39.141Z",
+    "updated_at": "2021-11-08T01:00:39.141Z"
+  },
+  {
+    "id": 69727,
+    "coalition_id": 85,
+    "user_id": 98292,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:39.116Z",
+    "updated_at": "2021-11-08T01:00:39.116Z"
+  },
+  {
+    "id": 69710,
+    "coalition_id": 85,
+    "user_id": 98341,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.928Z",
+    "updated_at": "2021-11-08T01:00:38.928Z"
+  },
+  {
+    "id": 78874,
+    "coalition_id": 85,
+    "user_id": 110681,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.913Z",
+    "updated_at": "2022-07-04T01:00:15.913Z"
+  },
+  {
+    "id": 78869,
+    "coalition_id": 85,
+    "user_id": 112139,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-07-04T01:00:15.853Z",
+    "updated_at": "2022-07-04T01:00:15.853Z"
+  },
+  {
+    "id": 78868,
+    "coalition_id": 85,
+    "user_id": 110646,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.850Z",
+    "updated_at": "2022-07-04T01:00:15.850Z"
+  },
+  {
+    "id": 78867,
+    "coalition_id": 85,
+    "user_id": 112090,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.848Z",
+    "updated_at": "2022-07-04T01:00:15.848Z"
+  },
+  {
+    "id": 78866,
+    "coalition_id": 85,
+    "user_id": 110836,
+    "score": 88,
+    "rank": 76,
+    "created_at": "2022-07-04T01:00:15.841Z",
+    "updated_at": "2022-07-04T01:00:15.841Z"
+  },
+  {
+    "id": 78865,
+    "coalition_id": 85,
+    "user_id": 112265,
+    "score": 1024,
+    "rank": 12,
+    "created_at": "2022-07-04T01:00:15.831Z",
+    "updated_at": "2022-07-04T01:00:15.831Z"
+  },
+  {
+    "id": 78863,
+    "coalition_id": 85,
+    "user_id": 112298,
+    "score": 126,
+    "rank": 70,
+    "created_at": "2022-07-04T01:00:15.794Z",
+    "updated_at": "2022-07-04T01:00:15.794Z"
+  },
+  {
+    "id": 78864,
+    "coalition_id": 85,
+    "user_id": 112190,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.793Z",
+    "updated_at": "2022-07-04T01:00:15.793Z"
+  },
+  {
+    "id": 78862,
+    "coalition_id": 85,
+    "user_id": 110898,
+    "score": 519,
+    "rank": 26,
+    "created_at": "2022-07-04T01:00:15.708Z",
+    "updated_at": "2022-07-04T01:00:15.708Z"
+  },
+  {
+    "id": 78861,
+    "coalition_id": 85,
+    "user_id": 110661,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.681Z",
+    "updated_at": "2022-07-04T01:00:15.681Z"
+  },
+  {
+    "id": 78860,
+    "coalition_id": 85,
+    "user_id": 110645,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.670Z",
+    "updated_at": "2022-07-04T01:00:15.670Z"
+  },
+  {
+    "id": 78859,
+    "coalition_id": 85,
+    "user_id": 112065,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.654Z",
+    "updated_at": "2022-07-04T01:00:15.654Z"
+  },
+  {
+    "id": 78858,
+    "coalition_id": 85,
+    "user_id": 112108,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.599Z",
+    "updated_at": "2022-07-04T01:00:15.599Z"
+  },
+  {
+    "id": 78856,
+    "coalition_id": 85,
+    "user_id": 112105,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-07-04T01:00:15.554Z",
+    "updated_at": "2022-07-04T01:00:15.554Z"
+  },
+  {
+    "id": 74549,
+    "coalition_id": 85,
+    "user_id": 107089,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.392Z",
+    "updated_at": "2022-03-07T01:01:39.392Z"
+  },
+  {
+    "id": 74542,
+    "coalition_id": 85,
+    "user_id": 107121,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.357Z",
+    "updated_at": "2022-03-07T01:01:39.357Z"
+  },
+  {
+    "id": 74541,
+    "coalition_id": 85,
+    "user_id": 104036,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.355Z",
+    "updated_at": "2022-03-07T01:01:39.355Z"
+  },
+  {
+    "id": 74543,
+    "coalition_id": 85,
+    "user_id": 107096,
+    "score": 756,
+    "rank": 19,
+    "created_at": "2022-03-07T01:01:39.345Z",
+    "updated_at": "2022-03-07T01:01:39.345Z"
+  },
+  {
+    "id": 74537,
+    "coalition_id": 85,
+    "user_id": 107136,
+    "score": 294,
+    "rank": 40,
+    "created_at": "2022-03-07T01:01:39.316Z",
+    "updated_at": "2022-03-07T01:01:39.316Z"
+  },
+  {
+    "id": 74536,
+    "coalition_id": 85,
+    "user_id": 103905,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.315Z",
+    "updated_at": "2022-03-07T01:01:39.315Z"
+  },
+  {
+    "id": 74534,
+    "coalition_id": 85,
+    "user_id": 104048,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.309Z",
+    "updated_at": "2022-03-07T01:01:39.309Z"
+  },
+  {
+    "id": 74535,
+    "coalition_id": 85,
+    "user_id": 104103,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.304Z",
+    "updated_at": "2022-03-07T01:01:39.304Z"
+  },
+  {
+    "id": 74533,
+    "coalition_id": 85,
+    "user_id": 104051,
+    "score": 535,
+    "rank": 24,
+    "created_at": "2022-03-07T01:01:39.288Z",
+    "updated_at": "2022-03-07T01:01:39.288Z"
+  },
+  {
+    "id": 74532,
+    "coalition_id": 85,
+    "user_id": 107079,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.288Z",
+    "updated_at": "2022-03-07T01:01:39.288Z"
+  },
+  {
+    "id": 74531,
+    "coalition_id": 85,
+    "user_id": 107188,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.282Z",
+    "updated_at": "2022-03-07T01:01:39.282Z"
+  },
+  {
+    "id": 74530,
+    "coalition_id": 85,
+    "user_id": 107122,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.281Z",
+    "updated_at": "2022-03-07T01:01:39.281Z"
+  },
+  {
+    "id": 74529,
+    "coalition_id": 85,
+    "user_id": 104035,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.278Z",
+    "updated_at": "2022-03-07T01:01:39.278Z"
+  },
+  {
+    "id": 74527,
+    "coalition_id": 85,
+    "user_id": 104007,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.261Z",
+    "updated_at": "2022-03-07T01:01:39.261Z"
+  },
+  {
+    "id": 74526,
+    "coalition_id": 85,
+    "user_id": 106938,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.256Z",
+    "updated_at": "2022-03-07T01:01:39.256Z"
+  },
+  {
+    "id": 74528,
+    "coalition_id": 85,
+    "user_id": 104059,
+    "score": 6,
+    "rank": 110,
+    "created_at": "2022-03-07T01:01:39.255Z",
+    "updated_at": "2022-03-07T01:01:39.255Z"
+  },
+  {
+    "id": 74525,
+    "coalition_id": 85,
+    "user_id": 104017,
+    "score": 205,
+    "rank": 56,
+    "created_at": "2022-03-07T01:01:39.253Z",
+    "updated_at": "2022-03-07T01:01:39.253Z"
+  },
+  {
+    "id": 74524,
+    "coalition_id": 85,
+    "user_id": 104008,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.252Z",
+    "updated_at": "2022-03-07T01:01:39.252Z"
+  },
+  {
+    "id": 74523,
+    "coalition_id": 85,
+    "user_id": 104061,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.245Z",
+    "updated_at": "2022-03-07T01:01:39.245Z"
+  },
+  {
+    "id": 74522,
+    "coalition_id": 85,
+    "user_id": 103897,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-03-07T01:01:39.227Z",
+    "updated_at": "2022-03-07T01:01:39.227Z"
+  },
+  {
+    "id": 74520,
+    "coalition_id": 85,
+    "user_id": 104131,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.207Z",
+    "updated_at": "2022-03-07T01:01:39.207Z"
+  },
+  {
+    "id": 74521,
+    "coalition_id": 85,
+    "user_id": 103910,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.206Z",
+    "updated_at": "2022-03-07T01:01:39.206Z"
+  },
+  {
+    "id": 74519,
+    "coalition_id": 85,
+    "user_id": 104094,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.201Z",
+    "updated_at": "2022-03-07T01:01:39.201Z"
+  },
+  {
+    "id": 74518,
+    "coalition_id": 85,
+    "user_id": 103993,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.198Z",
+    "updated_at": "2022-03-07T01:01:39.198Z"
+  },
+  {
+    "id": 74517,
+    "coalition_id": 85,
+    "user_id": 106877,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.197Z",
+    "updated_at": "2022-03-07T01:01:39.197Z"
+  },
+  {
+    "id": 74515,
+    "coalition_id": 85,
+    "user_id": 106913,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.185Z",
+    "updated_at": "2022-03-07T01:01:39.185Z"
+  },
+  {
+    "id": 74516,
+    "coalition_id": 85,
+    "user_id": 104004,
+    "score": 84,
+    "rank": 77,
+    "created_at": "2022-03-07T01:01:39.179Z",
+    "updated_at": "2022-03-07T01:01:39.179Z"
+  },
+  {
+    "id": 74514,
+    "coalition_id": 85,
+    "user_id": 106845,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.172Z",
+    "updated_at": "2022-03-07T01:01:39.172Z"
+  },
+  {
+    "id": 74513,
+    "coalition_id": 85,
+    "user_id": 107117,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.129Z",
+    "updated_at": "2022-03-07T01:01:39.129Z"
+  },
+  {
+    "id": 74512,
+    "coalition_id": 85,
+    "user_id": 107047,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.090Z",
+    "updated_at": "2022-03-07T01:01:39.090Z"
+  },
+  {
+    "id": 74511,
+    "coalition_id": 85,
+    "user_id": 106813,
+    "score": 268,
+    "rank": 47,
+    "created_at": "2022-03-07T01:01:39.083Z",
+    "updated_at": "2022-03-07T01:01:39.083Z"
+  },
+  {
+    "id": 74510,
+    "coalition_id": 85,
+    "user_id": 107035,
+    "score": 655,
+    "rank": 23,
+    "created_at": "2022-03-07T01:01:39.062Z",
+    "updated_at": "2022-03-07T01:01:39.062Z"
+  },
+  {
+    "id": 74509,
+    "coalition_id": 85,
+    "user_id": 103934,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:39.045Z",
+    "updated_at": "2022-03-07T01:01:39.045Z"
+  },
+  {
+    "id": 74508,
+    "coalition_id": 85,
+    "user_id": 104001,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:01:38.998Z",
+    "updated_at": "2022-03-07T01:01:38.998Z"
+  },
+  {
+    "id": 74381,
+    "coalition_id": 85,
+    "user_id": 104075,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:44.158Z",
+    "updated_at": "2022-03-07T01:00:44.158Z"
+  },
+  {
+    "id": 74380,
+    "coalition_id": 85,
+    "user_id": 103936,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:44.156Z",
+    "updated_at": "2022-03-07T01:00:44.156Z"
+  },
+  {
+    "id": 74379,
+    "coalition_id": 85,
+    "user_id": 106947,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:44.151Z",
+    "updated_at": "2022-03-07T01:00:44.151Z"
+  },
+  {
+    "id": 74378,
+    "coalition_id": 85,
+    "user_id": 107055,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:44.149Z",
+    "updated_at": "2022-03-07T01:00:44.149Z"
+  },
+  {
+    "id": 74377,
+    "coalition_id": 85,
+    "user_id": 103955,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:44.148Z",
+    "updated_at": "2022-03-07T01:00:44.148Z"
+  },
+  {
+    "id": 74376,
+    "coalition_id": 85,
+    "user_id": 106941,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:44.145Z",
+    "updated_at": "2022-03-07T01:00:44.145Z"
+  },
+  {
+    "id": 74375,
+    "coalition_id": 85,
+    "user_id": 104047,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-03-07T01:00:44.099Z",
+    "updated_at": "2022-03-07T01:00:44.099Z"
+  },
+  {
+    "id": 74374,
+    "coalition_id": 85,
+    "user_id": 106932,
+    "score": 310,
+    "rank": 37,
+    "created_at": "2022-03-07T01:00:44.096Z",
+    "updated_at": "2022-03-07T01:00:44.096Z"
+  },
+  {
+    "id": 74373,
+    "coalition_id": 85,
+    "user_id": 103902,
+    "score": 436,
+    "rank": 29,
+    "created_at": "2022-03-07T01:00:44.095Z",
+    "updated_at": "2022-03-07T01:00:44.095Z"
+  },
+  {
+    "id": 74365,
+    "coalition_id": 85,
+    "user_id": 103937,
+    "score": 213,
+    "rank": 53,
+    "created_at": "2022-03-07T01:00:43.406Z",
+    "updated_at": "2022-03-07T01:00:43.406Z"
+  },
+  {
+    "id": 74364,
+    "coalition_id": 85,
+    "user_id": 106825,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:43.404Z",
+    "updated_at": "2022-03-07T01:00:43.404Z"
+  },
+  {
+    "id": 74363,
+    "coalition_id": 85,
+    "user_id": 106843,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:43.396Z",
+    "updated_at": "2022-03-07T01:00:43.396Z"
+  },
+  {
+    "id": 74362,
+    "coalition_id": 85,
+    "user_id": 103947,
+    "score": 213,
+    "rank": 53,
+    "created_at": "2022-03-07T01:00:43.394Z",
+    "updated_at": "2022-03-07T01:00:43.394Z"
+  },
+  {
+    "id": 74361,
+    "coalition_id": 85,
+    "user_id": 107068,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:43.391Z",
+    "updated_at": "2022-03-07T01:00:43.391Z"
+  },
+  {
+    "id": 74360,
+    "coalition_id": 85,
+    "user_id": 107061,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-03-07T01:00:43.391Z",
+    "updated_at": "2022-03-07T01:00:43.391Z"
+  },
+  {
+    "id": 74359,
+    "coalition_id": 85,
+    "user_id": 106806,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-03-07T01:00:43.343Z",
+    "updated_at": "2022-03-07T01:00:43.343Z"
+  },
+  {
+    "id": 74358,
+    "coalition_id": 85,
+    "user_id": 106945,
+    "score": 393,
+    "rank": 31,
+    "created_at": "2022-03-07T01:00:42.995Z",
+    "updated_at": "2022-03-07T01:00:42.995Z"
+  },
+  {
+    "id": 74355,
+    "coalition_id": 85,
+    "user_id": 107094,
+    "score": 261,
+    "rank": 50,
+    "created_at": "2022-03-07T01:00:42.993Z",
+    "updated_at": "2022-03-07T01:00:42.993Z"
+  },
+  {
+    "id": 74354,
+    "coalition_id": 85,
+    "user_id": 103952,
+    "score": 520,
+    "rank": 25,
+    "created_at": "2022-03-07T01:00:42.992Z",
+    "updated_at": "2022-03-07T01:00:42.992Z"
+  },
+  {
+    "id": 74357,
+    "coalition_id": 85,
+    "user_id": 103956,
+    "score": 268,
+    "rank": 47,
+    "created_at": "2022-03-07T01:00:42.991Z",
+    "updated_at": "2022-03-07T01:00:42.991Z"
+  },
+  {
+    "id": 74350,
+    "coalition_id": 85,
+    "user_id": 107006,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.990Z",
+    "updated_at": "2022-03-07T01:00:42.990Z"
+  },
+  {
+    "id": 74352,
+    "coalition_id": 85,
+    "user_id": 104018,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.989Z",
+    "updated_at": "2022-03-07T01:00:42.989Z"
+  },
+  {
+    "id": 74356,
+    "coalition_id": 85,
+    "user_id": 107043,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.987Z",
+    "updated_at": "2022-03-07T01:00:42.987Z"
+  },
+  {
+    "id": 74353,
+    "coalition_id": 85,
+    "user_id": 103958,
+    "score": 1088,
+    "rank": 10,
+    "created_at": "2022-03-07T01:00:42.986Z",
+    "updated_at": "2022-03-07T01:00:42.986Z"
+  },
+  {
+    "id": 74351,
+    "coalition_id": 85,
+    "user_id": 104025,
+    "score": 310,
+    "rank": 37,
+    "created_at": "2022-03-07T01:00:42.984Z",
+    "updated_at": "2022-03-07T01:00:42.984Z"
+  },
+  {
+    "id": 74349,
+    "coalition_id": 85,
+    "user_id": 106879,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.978Z",
+    "updated_at": "2022-03-07T01:00:42.978Z"
+  },
+  {
+    "id": 74347,
+    "coalition_id": 85,
+    "user_id": 107187,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.975Z",
+    "updated_at": "2022-03-07T01:00:42.975Z"
+  },
+  {
+    "id": 74348,
+    "coalition_id": 85,
+    "user_id": 103906,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.975Z",
+    "updated_at": "2022-03-07T01:00:42.975Z"
+  },
+  {
+    "id": 74345,
+    "coalition_id": 85,
+    "user_id": 106803,
+    "score": 478,
+    "rank": 27,
+    "created_at": "2022-03-07T01:00:42.974Z",
+    "updated_at": "2022-03-07T01:00:42.974Z"
+  },
+  {
+    "id": 74344,
+    "coalition_id": 85,
+    "user_id": 106921,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.973Z",
+    "updated_at": "2022-03-07T01:00:42.973Z"
+  },
+  {
+    "id": 74343,
+    "coalition_id": 85,
+    "user_id": 103932,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.970Z",
+    "updated_at": "2022-03-07T01:00:42.970Z"
+  },
+  {
+    "id": 74346,
+    "coalition_id": 85,
+    "user_id": 106933,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-03-07T01:00:42.969Z",
+    "updated_at": "2022-03-07T01:00:42.969Z"
+  },
+  {
+    "id": 74342,
+    "coalition_id": 85,
+    "user_id": 106835,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.961Z",
+    "updated_at": "2022-03-07T01:00:42.961Z"
+  },
+  {
+    "id": 74341,
+    "coalition_id": 85,
+    "user_id": 104100,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.956Z",
+    "updated_at": "2022-03-07T01:00:42.956Z"
+  },
+  {
+    "id": 74340,
+    "coalition_id": 85,
+    "user_id": 107056,
+    "score": 268,
+    "rank": 47,
+    "created_at": "2022-03-07T01:00:42.940Z",
+    "updated_at": "2022-03-07T01:00:42.940Z"
+  },
+  {
+    "id": 74339,
+    "coalition_id": 85,
+    "user_id": 104029,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.938Z",
+    "updated_at": "2022-03-07T01:00:42.938Z"
+  },
+  {
+    "id": 74338,
+    "coalition_id": 85,
+    "user_id": 104142,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.932Z",
+    "updated_at": "2022-03-07T01:00:42.932Z"
+  },
+  {
+    "id": 74337,
+    "coalition_id": 85,
+    "user_id": 106907,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.930Z",
+    "updated_at": "2022-03-07T01:00:42.930Z"
+  },
+  {
+    "id": 74336,
+    "coalition_id": 85,
+    "user_id": 103908,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.929Z",
+    "updated_at": "2022-03-07T01:00:42.929Z"
+  },
+  {
+    "id": 74335,
+    "coalition_id": 85,
+    "user_id": 107024,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.917Z",
+    "updated_at": "2022-03-07T01:00:42.917Z"
+  },
+  {
+    "id": 74334,
+    "coalition_id": 85,
+    "user_id": 106952,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.390Z",
+    "updated_at": "2022-03-07T01:00:42.390Z"
+  },
+  {
+    "id": 74333,
+    "coalition_id": 85,
+    "user_id": 106944,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2022-03-07T01:00:42.389Z",
+    "updated_at": "2022-03-07T01:00:42.389Z"
+  },
+  {
+    "id": 74332,
+    "coalition_id": 85,
+    "user_id": 107001,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.389Z",
+    "updated_at": "2022-03-07T01:00:42.389Z"
+  },
+  {
+    "id": 74330,
+    "coalition_id": 85,
+    "user_id": 103939,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.387Z",
+    "updated_at": "2022-03-07T01:00:42.387Z"
+  },
+  {
+    "id": 74331,
+    "coalition_id": 85,
+    "user_id": 104155,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.387Z",
+    "updated_at": "2022-03-07T01:00:42.387Z"
+  },
+  {
+    "id": 74329,
+    "coalition_id": 85,
+    "user_id": 103968,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.385Z",
+    "updated_at": "2022-03-07T01:00:42.385Z"
+  },
+  {
+    "id": 74328,
+    "coalition_id": 85,
+    "user_id": 107010,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2022-03-07T01:00:42.362Z",
+    "updated_at": "2022-03-07T01:00:42.362Z"
+  },
+  {
+    "id": 69818,
+    "coalition_id": 85,
+    "user_id": 98324,
+    "score": 84,
+    "rank": 77,
+    "created_at": "2021-11-09T04:59:03.920Z",
+    "updated_at": "2021-11-09T04:59:03.920Z"
+  },
+  {
+    "id": 69816,
+    "coalition_id": 85,
+    "user_id": 99968,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-09T04:58:37.760Z",
+    "updated_at": "2021-11-09T04:58:37.760Z"
+  },
+  {
+    "id": 69729,
+    "coalition_id": 85,
+    "user_id": 99930,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:39.141Z",
+    "updated_at": "2021-11-08T01:00:39.141Z"
+  },
+  {
+    "id": 69727,
+    "coalition_id": 85,
+    "user_id": 98292,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:39.116Z",
+    "updated_at": "2021-11-08T01:00:39.116Z"
+  },
+  {
+    "id": 69710,
+    "coalition_id": 85,
+    "user_id": 98341,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.928Z",
+    "updated_at": "2021-11-08T01:00:38.928Z"
+  },
+  {
+    "id": 69709,
+    "coalition_id": 85,
+    "user_id": 99982,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.915Z",
+    "updated_at": "2021-11-08T01:00:38.915Z"
+  },
+  {
+    "id": 69707,
+    "coalition_id": 85,
+    "user_id": 98333,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.913Z",
+    "updated_at": "2021-11-08T01:00:38.913Z"
+  },
+  {
+    "id": 69708,
+    "coalition_id": 85,
+    "user_id": 99750,
+    "score": 940,
+    "rank": 14,
+    "created_at": "2021-11-08T01:00:38.912Z",
+    "updated_at": "2021-11-08T01:00:38.912Z"
+  },
+  {
+    "id": 69703,
+    "coalition_id": 85,
+    "user_id": 98306,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.893Z",
+    "updated_at": "2021-11-08T01:00:38.893Z"
+  },
+  {
+    "id": 69701,
+    "coalition_id": 85,
+    "user_id": 98045,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.882Z",
+    "updated_at": "2021-11-08T01:00:38.882Z"
+  },
+  {
+    "id": 69700,
+    "coalition_id": 85,
+    "user_id": 99999,
+    "score": 462,
+    "rank": 28,
+    "created_at": "2021-11-08T01:00:38.864Z",
+    "updated_at": "2021-11-08T01:00:38.864Z"
+  },
+  {
+    "id": 69698,
+    "coalition_id": 85,
+    "user_id": 99982,
+    "score": 126,
+    "rank": 70,
+    "created_at": "2021-11-08T01:00:38.852Z",
+    "updated_at": "2021-11-08T01:00:38.852Z"
+  },
+  {
+    "id": 69697,
+    "coalition_id": 85,
+    "user_id": 99761,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.850Z",
+    "updated_at": "2021-11-08T01:00:38.850Z"
+  },
+  {
+    "id": 69696,
+    "coalition_id": 85,
+    "user_id": 98327,
+    "score": 84,
+    "rank": 77,
+    "created_at": "2021-11-08T01:00:38.845Z",
+    "updated_at": "2021-11-08T01:00:38.845Z"
+  },
+  {
+    "id": 69694,
+    "coalition_id": 85,
+    "user_id": 98112,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.840Z",
+    "updated_at": "2021-11-08T01:00:38.840Z"
+  },
+  {
+    "id": 69695,
+    "coalition_id": 85,
+    "user_id": 98312,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.838Z",
+    "updated_at": "2021-11-08T01:00:38.838Z"
+  },
+  {
+    "id": 69692,
+    "coalition_id": 85,
+    "user_id": 99937,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.825Z",
+    "updated_at": "2021-11-08T01:00:38.825Z"
+  },
+  {
+    "id": 69690,
+    "coalition_id": 85,
+    "user_id": 99835,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.815Z",
+    "updated_at": "2021-11-08T01:00:38.815Z"
+  },
+  {
+    "id": 69689,
+    "coalition_id": 85,
+    "user_id": 99793,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.813Z",
+    "updated_at": "2021-11-08T01:00:38.813Z"
+  },
+  {
+    "id": 69688,
+    "coalition_id": 85,
+    "user_id": 98103,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.810Z",
+    "updated_at": "2021-11-08T01:00:38.810Z"
+  },
+  {
+    "id": 69687,
+    "coalition_id": 85,
+    "user_id": 98002,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.810Z",
+    "updated_at": "2021-11-08T01:00:38.810Z"
+  },
+  {
+    "id": 69686,
+    "coalition_id": 85,
+    "user_id": 99907,
+    "score": 803,
+    "rank": 16,
+    "created_at": "2021-11-08T01:00:38.808Z",
+    "updated_at": "2021-11-08T01:00:38.808Z"
+  },
+  {
+    "id": 69685,
+    "coalition_id": 85,
+    "user_id": 98361,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.790Z",
+    "updated_at": "2021-11-08T01:00:38.790Z"
+  },
+  {
+    "id": 69684,
+    "coalition_id": 85,
+    "user_id": 98354,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.773Z",
+    "updated_at": "2021-11-08T01:00:38.773Z"
+  },
+  {
+    "id": 69681,
+    "coalition_id": 85,
+    "user_id": 98381,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.764Z",
+    "updated_at": "2021-11-08T01:00:38.764Z"
+  },
+  {
+    "id": 69680,
+    "coalition_id": 85,
+    "user_id": 98106,
+    "score": 660,
+    "rank": 22,
+    "created_at": "2021-11-08T01:00:38.761Z",
+    "updated_at": "2021-11-08T01:00:38.761Z"
+  },
+  {
+    "id": 69678,
+    "coalition_id": 85,
+    "user_id": 99903,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.751Z",
+    "updated_at": "2021-11-08T01:00:38.751Z"
+  },
+  {
+    "id": 69683,
+    "coalition_id": 85,
+    "user_id": 99738,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.746Z",
+    "updated_at": "2021-11-08T01:00:38.746Z"
+  },
+  {
+    "id": 69676,
+    "coalition_id": 85,
+    "user_id": 98035,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.740Z",
+    "updated_at": "2021-11-08T01:00:38.740Z"
+  },
+  {
+    "id": 69674,
+    "coalition_id": 85,
+    "user_id": 99947,
+    "score": 294,
+    "rank": 40,
+    "created_at": "2021-11-08T01:00:38.730Z",
+    "updated_at": "2021-11-08T01:00:38.730Z"
+  },
+  {
+    "id": 69675,
+    "coalition_id": 85,
+    "user_id": 99909,
+    "score": 252,
+    "rank": 51,
+    "created_at": "2021-11-08T01:00:38.726Z",
+    "updated_at": "2021-11-08T01:00:38.726Z"
+  },
+  {
+    "id": 69673,
+    "coalition_id": 85,
+    "user_id": 99732,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.716Z",
+    "updated_at": "2021-11-08T01:00:38.716Z"
+  },
+  {
+    "id": 69672,
+    "coalition_id": 85,
+    "user_id": 99790,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.701Z",
+    "updated_at": "2021-11-08T01:00:38.701Z"
+  },
+  {
+    "id": 69671,
+    "coalition_id": 85,
+    "user_id": 98346,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.680Z",
+    "updated_at": "2021-11-08T01:00:38.680Z"
+  },
+  {
+    "id": 69670,
+    "coalition_id": 85,
+    "user_id": 98350,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.678Z",
+    "updated_at": "2021-11-08T01:00:38.678Z"
+  },
+  {
+    "id": 69669,
+    "coalition_id": 85,
+    "user_id": 98028,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.674Z",
+    "updated_at": "2021-11-08T01:00:38.674Z"
+  },
+  {
+    "id": 69668,
+    "coalition_id": 85,
+    "user_id": 98005,
+    "score": 2163,
+    "rank": 6,
+    "created_at": "2021-11-08T01:00:38.662Z",
+    "updated_at": "2021-11-08T01:00:38.662Z"
+  },
+  {
+    "id": 69667,
+    "coalition_id": 85,
+    "user_id": 98299,
+    "score": 294,
+    "rank": 40,
+    "created_at": "2021-11-08T01:00:38.652Z",
+    "updated_at": "2021-11-08T01:00:38.652Z"
+  },
+  {
+    "id": 69666,
+    "coalition_id": 85,
+    "user_id": 98278,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.637Z",
+    "updated_at": "2021-11-08T01:00:38.637Z"
+  },
+  {
+    "id": 69665,
+    "coalition_id": 85,
+    "user_id": 98309,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.630Z",
+    "updated_at": "2021-11-08T01:00:38.630Z"
+  },
+  {
+    "id": 69664,
+    "coalition_id": 85,
+    "user_id": 98301,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2021-11-08T01:00:38.601Z",
+    "updated_at": "2021-11-08T01:00:38.601Z"
+  },
+  {
+    "id": 69662,
+    "coalition_id": 85,
+    "user_id": 99900,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.596Z",
+    "updated_at": "2021-11-08T01:00:38.596Z"
+  },
+  {
+    "id": 69663,
+    "coalition_id": 85,
+    "user_id": 98100,
+    "score": 84,
+    "rank": 77,
+    "created_at": "2021-11-08T01:00:38.596Z",
+    "updated_at": "2021-11-08T01:00:38.596Z"
+  },
+  {
+    "id": 69660,
+    "coalition_id": 85,
+    "user_id": 98260,
+    "score": 126,
+    "rank": 70,
+    "created_at": "2021-11-08T01:00:38.593Z",
+    "updated_at": "2021-11-08T01:00:38.593Z"
+  },
+  {
+    "id": 69658,
+    "coalition_id": 85,
+    "user_id": 98358,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.567Z",
+    "updated_at": "2021-11-08T01:00:38.567Z"
+  },
+  {
+    "id": 69657,
+    "coalition_id": 85,
+    "user_id": 98101,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.551Z",
+    "updated_at": "2021-11-08T01:00:38.551Z"
+  },
+  {
+    "id": 69650,
+    "coalition_id": 85,
+    "user_id": 99744,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.423Z",
+    "updated_at": "2021-11-08T01:00:38.423Z"
+  },
+  {
+    "id": 69649,
+    "coalition_id": 85,
+    "user_id": 99931,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:38.389Z",
+    "updated_at": "2021-11-08T01:00:38.389Z"
+  },
+  {
+    "id": 69586,
+    "coalition_id": 85,
+    "user_id": 99798,
+    "score": 189,
+    "rank": 58,
+    "created_at": "2021-11-08T01:00:37.678Z",
+    "updated_at": "2021-11-08T01:00:37.678Z"
+  },
+  {
+    "id": 69585,
+    "coalition_id": 85,
+    "user_id": 98379,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.658Z",
+    "updated_at": "2021-11-08T01:00:37.658Z"
+  },
+  {
+    "id": 69584,
+    "coalition_id": 85,
+    "user_id": 99722,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.652Z",
+    "updated_at": "2021-11-08T01:00:37.652Z"
+  },
+  {
+    "id": 69580,
+    "coalition_id": 85,
+    "user_id": 99776,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.598Z",
+    "updated_at": "2021-11-08T01:00:37.598Z"
+  },
+  {
+    "id": 69579,
+    "coalition_id": 85,
+    "user_id": 98288,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.562Z",
+    "updated_at": "2021-11-08T01:00:37.562Z"
+  },
+  {
+    "id": 69578,
+    "coalition_id": 85,
+    "user_id": 99806,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.561Z",
+    "updated_at": "2021-11-08T01:00:37.561Z"
+  },
+  {
+    "id": 69576,
+    "coalition_id": 85,
+    "user_id": 97977,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2021-11-08T01:00:37.535Z",
+    "updated_at": "2021-11-08T01:00:37.535Z"
+  },
+  {
+    "id": 69575,
+    "coalition_id": 85,
+    "user_id": 98105,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.529Z",
+    "updated_at": "2021-11-08T01:00:37.529Z"
+  },
+  {
+    "id": 69573,
+    "coalition_id": 85,
+    "user_id": 99766,
+    "score": 772,
+    "rank": 17,
+    "created_at": "2021-11-08T01:00:37.520Z",
+    "updated_at": "2021-11-08T01:00:37.520Z"
+  },
+  {
+    "id": 69570,
+    "coalition_id": 85,
+    "user_id": 98007,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.511Z",
+    "updated_at": "2021-11-08T01:00:37.511Z"
+  },
+  {
+    "id": 69569,
+    "coalition_id": 85,
+    "user_id": 99961,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.500Z",
+    "updated_at": "2021-11-08T01:00:37.500Z"
+  },
+  {
+    "id": 69568,
+    "coalition_id": 85,
+    "user_id": 99746,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.498Z",
+    "updated_at": "2021-11-08T01:00:37.498Z"
+  },
+  {
+    "id": 69567,
+    "coalition_id": 85,
+    "user_id": 99777,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.484Z",
+    "updated_at": "2021-11-08T01:00:37.484Z"
+  },
+  {
+    "id": 69566,
+    "coalition_id": 85,
+    "user_id": 97996,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.474Z",
+    "updated_at": "2021-11-08T01:00:37.474Z"
+  },
+  {
+    "id": 69564,
+    "coalition_id": 85,
+    "user_id": 99815,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.429Z",
+    "updated_at": "2021-11-08T01:00:37.429Z"
+  },
+  {
+    "id": 69560,
+    "coalition_id": 85,
+    "user_id": 98255,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.412Z",
+    "updated_at": "2021-11-08T01:00:37.412Z"
+  },
+  {
+    "id": 69558,
+    "coalition_id": 85,
+    "user_id": 99898,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.407Z",
+    "updated_at": "2021-11-08T01:00:37.407Z"
+  },
+  {
+    "id": 69556,
+    "coalition_id": 85,
+    "user_id": 98095,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.399Z",
+    "updated_at": "2021-11-08T01:00:37.399Z"
+  },
+  {
+    "id": 69555,
+    "coalition_id": 85,
+    "user_id": 99946,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.381Z",
+    "updated_at": "2021-11-08T01:00:37.381Z"
+  },
+  {
+    "id": 69553,
+    "coalition_id": 85,
+    "user_id": 99972,
+    "score": 856,
+    "rank": 15,
+    "created_at": "2021-11-08T01:00:37.372Z",
+    "updated_at": "2021-11-08T01:00:37.372Z"
+  },
+  {
+    "id": 69549,
+    "coalition_id": 85,
+    "user_id": 98031,
+    "score": 105,
+    "rank": 74,
+    "created_at": "2021-11-08T01:00:37.360Z",
+    "updated_at": "2021-11-08T01:00:37.360Z"
+  },
+  {
+    "id": 69547,
+    "coalition_id": 85,
+    "user_id": 98323,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.353Z",
+    "updated_at": "2021-11-08T01:00:37.353Z"
+  },
+  {
+    "id": 69545,
+    "coalition_id": 85,
+    "user_id": 98038,
+    "score": 1076,
+    "rank": 11,
+    "created_at": "2021-11-08T01:00:37.346Z",
+    "updated_at": "2021-11-08T01:00:37.346Z"
+  },
+  {
+    "id": 69543,
+    "coalition_id": 85,
+    "user_id": 97985,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.339Z",
+    "updated_at": "2021-11-08T01:00:37.339Z"
+  },
+  {
+    "id": 69538,
+    "coalition_id": 85,
+    "user_id": 98267,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.283Z",
+    "updated_at": "2021-11-08T01:00:37.283Z"
+  },
+  {
+    "id": 69536,
+    "coalition_id": 85,
+    "user_id": 98104,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.229Z",
+    "updated_at": "2021-11-08T01:00:37.229Z"
+  },
+  {
+    "id": 69535,
+    "coalition_id": 85,
+    "user_id": 99775,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.196Z",
+    "updated_at": "2021-11-08T01:00:37.196Z"
+  },
+  {
+    "id": 69534,
+    "coalition_id": 85,
+    "user_id": 99954,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.189Z",
+    "updated_at": "2021-11-08T01:00:37.189Z"
+  },
+  {
+    "id": 69530,
+    "coalition_id": 85,
+    "user_id": 98088,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.160Z",
+    "updated_at": "2021-11-08T01:00:37.160Z"
+  },
+  {
+    "id": 69527,
+    "coalition_id": 85,
+    "user_id": 99858,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-11-08T01:00:37.106Z",
+    "updated_at": "2021-11-08T01:00:37.106Z"
+  },
+  {
+    "id": 56446,
+    "coalition_id": 85,
+    "user_id": 86891,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:27.316Z",
+    "updated_at": "2021-05-03T00:42:27.316Z"
+  },
+  {
+    "id": 56445,
+    "coalition_id": 85,
+    "user_id": 86909,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:27.313Z",
+    "updated_at": "2021-05-03T00:42:27.313Z"
+  },
+  {
+    "id": 56444,
+    "coalition_id": 85,
+    "user_id": 85137,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:27.312Z",
+    "updated_at": "2021-05-03T00:42:27.312Z"
+  },
+  {
+    "id": 56443,
+    "coalition_id": 85,
+    "user_id": 85251,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:27.255Z",
+    "updated_at": "2021-05-03T00:42:27.255Z"
+  },
+  {
+    "id": 56442,
+    "coalition_id": 85,
+    "user_id": 87012,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:27.244Z",
+    "updated_at": "2021-05-03T00:42:27.244Z"
+  },
+  {
+    "id": 56441,
+    "coalition_id": 85,
+    "user_id": 86974,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:27.243Z",
+    "updated_at": "2021-05-03T00:42:27.243Z"
+  },
+  {
+    "id": 56427,
+    "coalition_id": 85,
+    "user_id": 86973,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:24.589Z",
+    "updated_at": "2021-05-03T00:42:24.589Z"
+  },
+  {
+    "id": 56425,
+    "coalition_id": 85,
+    "user_id": 86991,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:24.556Z",
+    "updated_at": "2021-05-03T00:42:24.556Z"
+  },
+  {
+    "id": 56422,
+    "coalition_id": 85,
+    "user_id": 86899,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:24.449Z",
+    "updated_at": "2021-05-03T00:42:24.449Z"
+  },
+  {
+    "id": 56421,
+    "coalition_id": 85,
+    "user_id": 85185,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:24.440Z",
+    "updated_at": "2021-05-03T00:42:24.440Z"
+  },
+  {
+    "id": 56420,
+    "coalition_id": 85,
+    "user_id": 85184,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:24.360Z",
+    "updated_at": "2021-05-03T00:42:24.360Z"
+  },
+  {
+    "id": 56418,
+    "coalition_id": 85,
+    "user_id": 85294,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:24.277Z",
+    "updated_at": "2021-05-03T00:42:24.277Z"
+  },
+  {
+    "id": 56415,
+    "coalition_id": 85,
+    "user_id": 86794,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:24.123Z",
+    "updated_at": "2021-05-03T00:42:24.123Z"
+  },
+  {
+    "id": 56413,
+    "coalition_id": 85,
+    "user_id": 86963,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:24.064Z",
+    "updated_at": "2021-05-03T00:42:24.064Z"
+  },
+  {
+    "id": 56391,
+    "coalition_id": 85,
+    "user_id": 86865,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:22.976Z",
+    "updated_at": "2021-05-03T00:42:22.976Z"
+  },
+  {
+    "id": 56390,
+    "coalition_id": 85,
+    "user_id": 85138,
+    "score": 294,
+    "rank": 40,
+    "created_at": "2021-05-03T00:42:22.940Z",
+    "updated_at": "2021-05-03T00:42:22.940Z"
+  },
+  {
+    "id": 56389,
+    "coalition_id": 85,
+    "user_id": 87053,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:22.937Z",
+    "updated_at": "2021-05-03T00:42:22.937Z"
+  },
+  {
+    "id": 56388,
+    "coalition_id": 85,
+    "user_id": 87046,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:22.899Z",
+    "updated_at": "2021-05-03T00:42:22.899Z"
+  },
+  {
+    "id": 56387,
+    "coalition_id": 85,
+    "user_id": 85204,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:22.801Z",
+    "updated_at": "2021-05-03T00:42:22.801Z"
+  },
+  {
+    "id": 56386,
+    "coalition_id": 85,
+    "user_id": 86822,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:22.785Z",
+    "updated_at": "2021-05-03T00:42:22.785Z"
+  },
+  {
+    "id": 56385,
+    "coalition_id": 85,
+    "user_id": 85144,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:22.723Z",
+    "updated_at": "2021-05-03T00:42:22.723Z"
+  },
+  {
+    "id": 56384,
+    "coalition_id": 85,
+    "user_id": 86983,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:22.651Z",
+    "updated_at": "2021-05-03T00:42:22.651Z"
+  },
+  {
+    "id": 56382,
+    "coalition_id": 85,
+    "user_id": 86893,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:22.634Z",
+    "updated_at": "2021-05-03T00:42:22.634Z"
+  },
+  {
+    "id": 56352,
+    "coalition_id": 85,
+    "user_id": 86890,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:21.093Z",
+    "updated_at": "2021-05-03T00:42:21.093Z"
+  },
+  {
+    "id": 56351,
+    "coalition_id": 85,
+    "user_id": 86843,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:21.074Z",
+    "updated_at": "2021-05-03T00:42:21.074Z"
+  },
+  {
+    "id": 56350,
+    "coalition_id": 85,
+    "user_id": 87070,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:21.064Z",
+    "updated_at": "2021-05-03T00:42:21.064Z"
+  },
+  {
+    "id": 56349,
+    "coalition_id": 85,
+    "user_id": 86804,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:20.979Z",
+    "updated_at": "2021-05-03T00:42:20.979Z"
+  },
+  {
+    "id": 56348,
+    "coalition_id": 85,
+    "user_id": 85068,
+    "score": 168,
+    "rank": 66,
+    "created_at": "2021-05-03T00:42:20.967Z",
+    "updated_at": "2021-05-03T00:42:20.967Z"
+  },
+  {
+    "id": 56346,
+    "coalition_id": 85,
+    "user_id": 85265,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:20.859Z",
+    "updated_at": "2021-05-03T00:42:20.859Z"
+  },
+  {
+    "id": 56344,
+    "coalition_id": 85,
+    "user_id": 87032,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:20.797Z",
+    "updated_at": "2021-05-03T00:42:20.797Z"
+  },
+  {
+    "id": 56318,
+    "coalition_id": 85,
+    "user_id": 85246,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:19.473Z",
+    "updated_at": "2021-05-03T00:42:19.473Z"
+  },
+  {
+    "id": 56312,
+    "coalition_id": 85,
+    "user_id": 85349,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:19.264Z",
+    "updated_at": "2021-05-03T00:42:19.264Z"
+  },
+  {
+    "id": 56311,
+    "coalition_id": 85,
+    "user_id": 85177,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:19.201Z",
+    "updated_at": "2021-05-03T00:42:19.201Z"
+  },
+  {
+    "id": 56309,
+    "coalition_id": 85,
+    "user_id": 87030,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:19.124Z",
+    "updated_at": "2021-05-03T00:42:19.124Z"
+  },
+  {
+    "id": 56310,
+    "coalition_id": 85,
+    "user_id": 87059,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:19.116Z",
+    "updated_at": "2021-05-03T00:42:19.116Z"
+  },
+  {
+    "id": 56308,
+    "coalition_id": 85,
+    "user_id": 87069,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:19.070Z",
+    "updated_at": "2021-05-03T00:42:19.070Z"
+  },
+  {
+    "id": 56307,
+    "coalition_id": 85,
+    "user_id": 85164,
+    "score": 1004,
+    "rank": 13,
+    "created_at": "2021-05-03T00:42:19.064Z",
+    "updated_at": "2021-05-03T00:42:19.064Z"
+  },
+  {
+    "id": 56306,
+    "coalition_id": 85,
+    "user_id": 86895,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:19.032Z",
+    "updated_at": "2021-05-03T00:42:19.032Z"
+  },
+  {
+    "id": 56305,
+    "coalition_id": 85,
+    "user_id": 85332,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:18.895Z",
+    "updated_at": "2021-05-03T00:42:18.895Z"
+  },
+  {
+    "id": 56304,
+    "coalition_id": 85,
+    "user_id": 85162,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:18.874Z",
+    "updated_at": "2021-05-03T00:42:18.874Z"
+  },
+  {
+    "id": 56303,
+    "coalition_id": 85,
+    "user_id": 85228,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:18.832Z",
+    "updated_at": "2021-05-03T00:42:18.832Z"
+  },
+  {
+    "id": 56300,
+    "coalition_id": 85,
+    "user_id": 86798,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:18.721Z",
+    "updated_at": "2021-05-03T00:42:18.721Z"
+  },
+  {
+    "id": 56288,
+    "coalition_id": 85,
+    "user_id": 87066,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:18.211Z",
+    "updated_at": "2021-05-03T00:42:18.211Z"
+  },
+  {
+    "id": 56286,
+    "coalition_id": 85,
+    "user_id": 86994,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:18.038Z",
+    "updated_at": "2021-05-03T00:42:18.038Z"
+  },
+  {
+    "id": 56268,
+    "coalition_id": 85,
+    "user_id": 86872,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:17.254Z",
+    "updated_at": "2021-05-03T00:42:17.254Z"
+  },
+  {
+    "id": 56266,
+    "coalition_id": 85,
+    "user_id": 85237,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:17.191Z",
+    "updated_at": "2021-05-03T00:42:17.191Z"
+  },
+  {
+    "id": 56264,
+    "coalition_id": 85,
+    "user_id": 85105,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:17.070Z",
+    "updated_at": "2021-05-03T00:42:17.070Z"
+  },
+  {
+    "id": 56262,
+    "coalition_id": 85,
+    "user_id": 85328,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:17.038Z",
+    "updated_at": "2021-05-03T00:42:17.038Z"
+  },
+  {
+    "id": 56261,
+    "coalition_id": 85,
+    "user_id": 86924,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:17.017Z",
+    "updated_at": "2021-05-03T00:42:17.017Z"
+  },
+  {
+    "id": 56260,
+    "coalition_id": 85,
+    "user_id": 86852,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:16.972Z",
+    "updated_at": "2021-05-03T00:42:16.972Z"
+  },
+  {
+    "id": 56259,
+    "coalition_id": 85,
+    "user_id": 86808,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:16.859Z",
+    "updated_at": "2021-05-03T00:42:16.859Z"
+  },
+  {
+    "id": 56258,
+    "coalition_id": 85,
+    "user_id": 85120,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:16.827Z",
+    "updated_at": "2021-05-03T00:42:16.827Z"
+  },
+  {
+    "id": 56257,
+    "coalition_id": 85,
+    "user_id": 86961,
+    "score": 714,
+    "rank": 21,
+    "created_at": "2021-05-03T00:42:16.768Z",
+    "updated_at": "2021-05-03T00:42:16.768Z"
+  },
+  {
+    "id": 56230,
+    "coalition_id": 85,
+    "user_id": 85135,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:15.430Z",
+    "updated_at": "2021-05-03T00:42:15.430Z"
+  },
+  {
+    "id": 56229,
+    "coalition_id": 85,
+    "user_id": 86806,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2021-05-03T00:42:15.427Z",
+    "updated_at": "2021-05-03T00:42:15.427Z"
+  },
+  {
+    "id": 56228,
+    "coalition_id": 85,
+    "user_id": 85259,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:15.399Z",
+    "updated_at": "2021-05-03T00:42:15.399Z"
+  },
+  {
+    "id": 56225,
+    "coalition_id": 85,
+    "user_id": 85093,
+    "score": 2247,
+    "rank": 5,
+    "created_at": "2021-05-03T00:42:15.250Z",
+    "updated_at": "2021-05-03T00:42:15.250Z"
+  },
+  {
+    "id": 56223,
+    "coalition_id": 85,
+    "user_id": 86886,
+    "score": 336,
+    "rank": 34,
+    "created_at": "2021-05-03T00:42:15.231Z",
+    "updated_at": "2021-05-03T00:42:15.231Z"
+  },
+  {
+    "id": 56222,
+    "coalition_id": 85,
+    "user_id": 86811,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:15.181Z",
+    "updated_at": "2021-05-03T00:42:15.181Z"
+  },
+  {
+    "id": 56221,
+    "coalition_id": 85,
+    "user_id": 86859,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:14.978Z",
+    "updated_at": "2021-05-03T00:42:14.978Z"
+  },
+  {
+    "id": 56220,
+    "coalition_id": 85,
+    "user_id": 86840,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:14.962Z",
+    "updated_at": "2021-05-03T00:42:14.962Z"
+  },
+  {
+    "id": 56219,
+    "coalition_id": 85,
+    "user_id": 86803,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:14.936Z",
+    "updated_at": "2021-05-03T00:42:14.936Z"
+  },
+  {
+    "id": 56218,
+    "coalition_id": 85,
+    "user_id": 85361,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:14.914Z",
+    "updated_at": "2021-05-03T00:42:14.914Z"
+  },
+  {
+    "id": 56217,
+    "coalition_id": 85,
+    "user_id": 86805,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-05-03T00:42:14.877Z",
+    "updated_at": "2021-05-03T00:42:14.877Z"
+  },
+  {
+    "id": 56216,
+    "coalition_id": 85,
+    "user_id": 85250,
+    "score": 42,
+    "rank": 90,
+    "created_at": "2021-05-03T00:42:14.768Z",
+    "updated_at": "2021-05-03T00:42:14.768Z"
+  },
+  {
+    "id": 50949,
+    "coalition_id": 85,
+    "user_id": 82675,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-01-13T07:25:05.122Z",
+    "updated_at": "2021-01-13T07:25:05.122Z"
+  },
+  {
+    "id": 50789,
+    "coalition_id": 85,
+    "user_id": 68825,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-01-07T11:27:16.551Z",
+    "updated_at": "2021-01-07T11:27:16.551Z"
+  },
+  {
+    "id": 50787,
+    "coalition_id": 85,
+    "user_id": 75359,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-01-07T11:27:16.387Z",
+    "updated_at": "2021-01-07T11:27:16.387Z"
+  },
+  {
+    "id": 50786,
+    "coalition_id": 85,
+    "user_id": 75653,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2021-01-07T11:27:16.293Z",
+    "updated_at": "2021-01-07T11:27:16.293Z"
+  },
+  {
+    "id": 50562,
+    "coalition_id": 85,
+    "user_id": 79642,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T07:24:54.014Z",
+    "updated_at": "2020-12-21T07:24:54.014Z"
+  },
+  {
+    "id": 50558,
+    "coalition_id": 85,
+    "user_id": 79546,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T03:30:01.600Z",
+    "updated_at": "2020-12-21T03:30:01.600Z"
+  },
+  {
+    "id": 50556,
+    "coalition_id": 85,
+    "user_id": 81783,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:26.596Z",
+    "updated_at": "2020-12-21T00:42:26.596Z"
+  },
+  {
+    "id": 50534,
+    "coalition_id": 85,
+    "user_id": 81322,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:25.756Z",
+    "updated_at": "2020-12-21T00:42:25.756Z"
+  },
+  {
+    "id": 50532,
+    "coalition_id": 85,
+    "user_id": 81409,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:25.737Z",
+    "updated_at": "2020-12-21T00:42:25.737Z"
+  },
+  {
+    "id": 50531,
+    "coalition_id": 85,
+    "user_id": 79651,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:25.595Z",
+    "updated_at": "2020-12-21T00:42:25.595Z"
+  },
+  {
+    "id": 50530,
+    "coalition_id": 85,
+    "user_id": 80404,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:25.542Z",
+    "updated_at": "2020-12-21T00:42:25.542Z"
+  },
+  {
+    "id": 50529,
+    "coalition_id": 85,
+    "user_id": 81820,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:25.442Z",
+    "updated_at": "2020-12-21T00:42:25.442Z"
+  },
+  {
+    "id": 50527,
+    "coalition_id": 85,
+    "user_id": 81384,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:25.369Z",
+    "updated_at": "2020-12-21T00:42:25.369Z"
+  },
+  {
+    "id": 50526,
+    "coalition_id": 85,
+    "user_id": 80381,
+    "score": 5098,
+    "rank": 1,
+    "created_at": "2020-12-21T00:42:25.322Z",
+    "updated_at": "2020-12-21T00:42:25.322Z"
+  },
+  {
+    "id": 50508,
+    "coalition_id": 85,
+    "user_id": 81765,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:24.502Z",
+    "updated_at": "2020-12-21T00:42:24.502Z"
+  },
+  {
+    "id": 50506,
+    "coalition_id": 85,
+    "user_id": 79615,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:24.392Z",
+    "updated_at": "2020-12-21T00:42:24.392Z"
+  },
+  {
+    "id": 50504,
+    "coalition_id": 85,
+    "user_id": 79695,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:24.258Z",
+    "updated_at": "2020-12-21T00:42:24.258Z"
+  },
+  {
+    "id": 50503,
+    "coalition_id": 85,
+    "user_id": 80460,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:24.118Z",
+    "updated_at": "2020-12-21T00:42:24.118Z"
+  },
+  {
+    "id": 50502,
+    "coalition_id": 85,
+    "user_id": 81302,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:24.114Z",
+    "updated_at": "2020-12-21T00:42:24.114Z"
+  },
+  {
+    "id": 50498,
+    "coalition_id": 85,
+    "user_id": 81760,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:23.965Z",
+    "updated_at": "2020-12-21T00:42:23.965Z"
+  },
+  {
+    "id": 50478,
+    "coalition_id": 85,
+    "user_id": 80423,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:23.052Z",
+    "updated_at": "2020-12-21T00:42:23.052Z"
+  },
+  {
+    "id": 50476,
+    "coalition_id": 85,
+    "user_id": 81363,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:22.975Z",
+    "updated_at": "2020-12-21T00:42:22.975Z"
+  },
+  {
+    "id": 50475,
+    "coalition_id": 85,
+    "user_id": 79696,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:22.872Z",
+    "updated_at": "2020-12-21T00:42:22.872Z"
+  },
+  {
+    "id": 50474,
+    "coalition_id": 85,
+    "user_id": 80442,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:22.839Z",
+    "updated_at": "2020-12-21T00:42:22.839Z"
+  },
+  {
+    "id": 50472,
+    "coalition_id": 85,
+    "user_id": 79584,
+    "score": 1948,
+    "rank": 8,
+    "created_at": "2020-12-21T00:42:22.745Z",
+    "updated_at": "2020-12-21T00:42:22.745Z"
+  },
+  {
+    "id": 50471,
+    "coalition_id": 85,
+    "user_id": 79589,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:22.727Z",
+    "updated_at": "2020-12-21T00:42:22.727Z"
+  },
+  {
+    "id": 50470,
+    "coalition_id": 85,
+    "user_id": 81405,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:22.721Z",
+    "updated_at": "2020-12-21T00:42:22.721Z"
+  },
+  {
+    "id": 50466,
+    "coalition_id": 85,
+    "user_id": 81402,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:22.461Z",
+    "updated_at": "2020-12-21T00:42:22.461Z"
+  },
+  {
+    "id": 50465,
+    "coalition_id": 85,
+    "user_id": 81378,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:22.434Z",
+    "updated_at": "2020-12-21T00:42:22.434Z"
+  },
+  {
+    "id": 50464,
+    "coalition_id": 85,
+    "user_id": 81713,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:22.427Z",
+    "updated_at": "2020-12-21T00:42:22.427Z"
+  },
+  {
+    "id": 50430,
+    "coalition_id": 85,
+    "user_id": 81448,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:20.875Z",
+    "updated_at": "2020-12-21T00:42:20.875Z"
+  },
+  {
+    "id": 50429,
+    "coalition_id": 85,
+    "user_id": 81758,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:20.869Z",
+    "updated_at": "2020-12-21T00:42:20.869Z"
+  },
+  {
+    "id": 50428,
+    "coalition_id": 85,
+    "user_id": 81780,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:20.827Z",
+    "updated_at": "2020-12-21T00:42:20.827Z"
+  },
+  {
+    "id": 50427,
+    "coalition_id": 85,
+    "user_id": 81689,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:20.795Z",
+    "updated_at": "2020-12-21T00:42:20.795Z"
+  },
+  {
+    "id": 50426,
+    "coalition_id": 85,
+    "user_id": 81818,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:20.735Z",
+    "updated_at": "2020-12-21T00:42:20.735Z"
+  },
+  {
+    "id": 50425,
+    "coalition_id": 85,
+    "user_id": 79681,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:20.712Z",
+    "updated_at": "2020-12-21T00:42:20.712Z"
+  },
+  {
+    "id": 50424,
+    "coalition_id": 85,
+    "user_id": 81367,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:20.661Z",
+    "updated_at": "2020-12-21T00:42:20.661Z"
+  },
+  {
+    "id": 50423,
+    "coalition_id": 85,
+    "user_id": 79597,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:20.530Z",
+    "updated_at": "2020-12-21T00:42:20.530Z"
+  },
+  {
+    "id": 50422,
+    "coalition_id": 85,
+    "user_id": 79636,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:20.508Z",
+    "updated_at": "2020-12-21T00:42:20.508Z"
+  },
+  {
+    "id": 50421,
+    "coalition_id": 85,
+    "user_id": 81399,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:20.503Z",
+    "updated_at": "2020-12-21T00:42:20.503Z"
+  },
+  {
+    "id": 50420,
+    "coalition_id": 85,
+    "user_id": 79690,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:20.311Z",
+    "updated_at": "2020-12-21T00:42:20.311Z"
+  },
+  {
+    "id": 50382,
+    "coalition_id": 85,
+    "user_id": 81734,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:18.586Z",
+    "updated_at": "2020-12-21T00:42:18.586Z"
+  },
+  {
+    "id": 50381,
+    "coalition_id": 85,
+    "user_id": 81744,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:18.558Z",
+    "updated_at": "2020-12-21T00:42:18.558Z"
+  },
+  {
+    "id": 50380,
+    "coalition_id": 85,
+    "user_id": 81822,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:18.533Z",
+    "updated_at": "2020-12-21T00:42:18.533Z"
+  },
+  {
+    "id": 50379,
+    "coalition_id": 85,
+    "user_id": 81426,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:18.473Z",
+    "updated_at": "2020-12-21T00:42:18.473Z"
+  },
+  {
+    "id": 50378,
+    "coalition_id": 85,
+    "user_id": 80449,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:18.305Z",
+    "updated_at": "2020-12-21T00:42:18.305Z"
+  },
+  {
+    "id": 50377,
+    "coalition_id": 85,
+    "user_id": 81369,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:18.299Z",
+    "updated_at": "2020-12-21T00:42:18.299Z"
+  },
+  {
+    "id": 50376,
+    "coalition_id": 85,
+    "user_id": 81403,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:18.271Z",
+    "updated_at": "2020-12-21T00:42:18.271Z"
+  },
+  {
+    "id": 50375,
+    "coalition_id": 85,
+    "user_id": 81728,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:18.264Z",
+    "updated_at": "2020-12-21T00:42:18.264Z"
+  },
+  {
+    "id": 50373,
+    "coalition_id": 85,
+    "user_id": 81332,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:18.108Z",
+    "updated_at": "2020-12-21T00:42:18.108Z"
+  },
+  {
+    "id": 50372,
+    "coalition_id": 85,
+    "user_id": 81768,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:18.072Z",
+    "updated_at": "2020-12-21T00:42:18.072Z"
+  },
+  {
+    "id": 50371,
+    "coalition_id": 85,
+    "user_id": 79662,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:17.995Z",
+    "updated_at": "2020-12-21T00:42:17.995Z"
+  },
+  {
+    "id": 50355,
+    "coalition_id": 85,
+    "user_id": 79598,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:17.361Z",
+    "updated_at": "2020-12-21T00:42:17.361Z"
+  },
+  {
+    "id": 50353,
+    "coalition_id": 85,
+    "user_id": 81819,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:17.328Z",
+    "updated_at": "2020-12-21T00:42:17.328Z"
+  },
+  {
+    "id": 50352,
+    "coalition_id": 85,
+    "user_id": 81810,
+    "score": 63,
+    "rank": 86,
+    "created_at": "2020-12-21T00:42:17.166Z",
+    "updated_at": "2020-12-21T00:42:17.166Z"
+  },
+  {
+    "id": 50351,
+    "coalition_id": 85,
+    "user_id": 81360,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:17.161Z",
+    "updated_at": "2020-12-21T00:42:17.161Z"
+  },
+  {
+    "id": 50350,
+    "coalition_id": 85,
+    "user_id": 81335,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:17.092Z",
+    "updated_at": "2020-12-21T00:42:17.092Z"
+  },
+  {
+    "id": 50349,
+    "coalition_id": 85,
+    "user_id": 81410,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:17.071Z",
+    "updated_at": "2020-12-21T00:42:17.071Z"
+  },
+  {
+    "id": 50318,
+    "coalition_id": 85,
+    "user_id": 79679,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:15.782Z",
+    "updated_at": "2020-12-21T00:42:15.782Z"
+  },
+  {
+    "id": 50317,
+    "coalition_id": 85,
+    "user_id": 81324,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:15.661Z",
+    "updated_at": "2020-12-21T00:42:15.661Z"
+  },
+  {
+    "id": 50316,
+    "coalition_id": 85,
+    "user_id": 81749,
+    "score": 2032,
+    "rank": 7,
+    "created_at": "2020-12-21T00:42:15.605Z",
+    "updated_at": "2020-12-21T00:42:15.605Z"
+  },
+  {
+    "id": 50315,
+    "coalition_id": 85,
+    "user_id": 79678,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:15.553Z",
+    "updated_at": "2020-12-21T00:42:15.553Z"
+  },
+  {
+    "id": 50314,
+    "coalition_id": 85,
+    "user_id": 81732,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:15.545Z",
+    "updated_at": "2020-12-21T00:42:15.545Z"
+  },
+  {
+    "id": 50313,
+    "coalition_id": 85,
+    "user_id": 79586,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:15.503Z",
+    "updated_at": "2020-12-21T00:42:15.503Z"
+  },
+  {
+    "id": 50312,
+    "coalition_id": 85,
+    "user_id": 81385,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:15.450Z",
+    "updated_at": "2020-12-21T00:42:15.450Z"
+  },
+  {
+    "id": 50311,
+    "coalition_id": 85,
+    "user_id": 79641,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:15.363Z",
+    "updated_at": "2020-12-21T00:42:15.363Z"
+  },
+  {
+    "id": 50310,
+    "coalition_id": 85,
+    "user_id": 79611,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:15.314Z",
+    "updated_at": "2020-12-21T00:42:15.314Z"
+  },
+  {
+    "id": 50308,
+    "coalition_id": 85,
+    "user_id": 81784,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:15.275Z",
+    "updated_at": "2020-12-21T00:42:15.275Z"
+  },
+  {
+    "id": 50306,
+    "coalition_id": 85,
+    "user_id": 81715,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:15.156Z",
+    "updated_at": "2020-12-21T00:42:15.156Z"
+  },
+  {
+    "id": 50300,
+    "coalition_id": 85,
+    "user_id": 81339,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:14.905Z",
+    "updated_at": "2020-12-21T00:42:14.905Z"
+  },
+  {
+    "id": 50280,
+    "coalition_id": 85,
+    "user_id": 80390,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:13.976Z",
+    "updated_at": "2020-12-21T00:42:13.976Z"
+  },
+  {
+    "id": 50279,
+    "coalition_id": 85,
+    "user_id": 81792,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:13.971Z",
+    "updated_at": "2020-12-21T00:42:13.971Z"
+  },
+  {
+    "id": 50278,
+    "coalition_id": 85,
+    "user_id": 79578,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:13.804Z",
+    "updated_at": "2020-12-21T00:42:13.804Z"
+  },
+  {
+    "id": 50277,
+    "coalition_id": 85,
+    "user_id": 81370,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:13.760Z",
+    "updated_at": "2020-12-21T00:42:13.760Z"
+  },
+  {
+    "id": 50276,
+    "coalition_id": 85,
+    "user_id": 79580,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:13.749Z",
+    "updated_at": "2020-12-21T00:42:13.749Z"
+  },
+  {
+    "id": 50275,
+    "coalition_id": 85,
+    "user_id": 81416,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:13.735Z",
+    "updated_at": "2020-12-21T00:42:13.735Z"
+  },
+  {
+    "id": 50270,
+    "coalition_id": 85,
+    "user_id": 81731,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:13.559Z",
+    "updated_at": "2020-12-21T00:42:13.559Z"
+  },
+  {
+    "id": 50266,
+    "coalition_id": 85,
+    "user_id": 79672,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:13.427Z",
+    "updated_at": "2020-12-21T00:42:13.427Z"
+  },
+  {
+    "id": 50263,
+    "coalition_id": 85,
+    "user_id": 81304,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-12-21T00:42:13.361Z",
+    "updated_at": "2020-12-21T00:42:13.361Z"
+  },
+  {
+    "id": 46312,
+    "coalition_id": 85,
+    "user_id": 74913,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-29T05:02:00.618Z",
+    "updated_at": "2020-09-29T05:02:00.618Z"
+  },
+  {
+    "id": 46283,
+    "coalition_id": 85,
+    "user_id": 74955,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:34.995Z",
+    "updated_at": "2020-09-28T01:00:34.995Z"
+  },
+  {
+    "id": 46282,
+    "coalition_id": 85,
+    "user_id": 74885,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:34.933Z",
+    "updated_at": "2020-09-28T01:00:34.933Z"
+  },
+  {
+    "id": 46281,
+    "coalition_id": 85,
+    "user_id": 74894,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:34.918Z",
+    "updated_at": "2020-09-28T01:00:34.918Z"
+  },
+  {
+    "id": 46280,
+    "coalition_id": 85,
+    "user_id": 74964,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:34.794Z",
+    "updated_at": "2020-09-28T01:00:34.794Z"
+  },
+  {
+    "id": 46279,
+    "coalition_id": 85,
+    "user_id": 74852,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:34.782Z",
+    "updated_at": "2020-09-28T01:00:34.782Z"
+  },
+  {
+    "id": 46278,
+    "coalition_id": 85,
+    "user_id": 75022,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:34.702Z",
+    "updated_at": "2020-09-28T01:00:34.702Z"
+  },
+  {
+    "id": 46277,
+    "coalition_id": 85,
+    "user_id": 75045,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:34.693Z",
+    "updated_at": "2020-09-28T01:00:34.693Z"
+  },
+  {
+    "id": 46276,
+    "coalition_id": 85,
+    "user_id": 75030,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:34.689Z",
+    "updated_at": "2020-09-28T01:00:34.689Z"
+  },
+  {
+    "id": 46275,
+    "coalition_id": 85,
+    "user_id": 74915,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:34.618Z",
+    "updated_at": "2020-09-28T01:00:34.618Z"
+  },
+  {
+    "id": 46264,
+    "coalition_id": 85,
+    "user_id": 74931,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:34.092Z",
+    "updated_at": "2020-09-28T01:00:34.092Z"
+  },
+  {
+    "id": 46260,
+    "coalition_id": 85,
+    "user_id": 75020,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:33.997Z",
+    "updated_at": "2020-09-28T01:00:33.997Z"
+  },
+  {
+    "id": 46244,
+    "coalition_id": 85,
+    "user_id": 74836,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:33.306Z",
+    "updated_at": "2020-09-28T01:00:33.306Z"
+  },
+  {
+    "id": 46240,
+    "coalition_id": 85,
+    "user_id": 75016,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:33.035Z",
+    "updated_at": "2020-09-28T01:00:33.035Z"
+  },
+  {
+    "id": 46239,
+    "coalition_id": 85,
+    "user_id": 75025,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:33.029Z",
+    "updated_at": "2020-09-28T01:00:33.029Z"
+  },
+  {
+    "id": 46238,
+    "coalition_id": 85,
+    "user_id": 74897,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:33.008Z",
+    "updated_at": "2020-09-28T01:00:33.008Z"
+  },
+  {
+    "id": 46237,
+    "coalition_id": 85,
+    "user_id": 75085,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:32.856Z",
+    "updated_at": "2020-09-28T01:00:32.856Z"
+  },
+  {
+    "id": 46236,
+    "coalition_id": 85,
+    "user_id": 74908,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:32.848Z",
+    "updated_at": "2020-09-28T01:00:32.848Z"
+  },
+  {
+    "id": 46235,
+    "coalition_id": 85,
+    "user_id": 75031,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:32.765Z",
+    "updated_at": "2020-09-28T01:00:32.765Z"
+  },
+  {
+    "id": 46204,
+    "coalition_id": 85,
+    "user_id": 75098,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:31.337Z",
+    "updated_at": "2020-09-28T01:00:31.337Z"
+  },
+  {
+    "id": 46203,
+    "coalition_id": 85,
+    "user_id": 75036,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:31.309Z",
+    "updated_at": "2020-09-28T01:00:31.309Z"
+  },
+  {
+    "id": 46202,
+    "coalition_id": 85,
+    "user_id": 75072,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:31.305Z",
+    "updated_at": "2020-09-28T01:00:31.305Z"
+  },
+  {
+    "id": 46201,
+    "coalition_id": 85,
+    "user_id": 74837,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:31.217Z",
+    "updated_at": "2020-09-28T01:00:31.217Z"
+  },
+  {
+    "id": 46200,
+    "coalition_id": 85,
+    "user_id": 75068,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:31.176Z",
+    "updated_at": "2020-09-28T01:00:31.176Z"
+  },
+  {
+    "id": 46199,
+    "coalition_id": 85,
+    "user_id": 74841,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:31.031Z",
+    "updated_at": "2020-09-28T01:00:31.031Z"
+  },
+  {
+    "id": 46198,
+    "coalition_id": 85,
+    "user_id": 74891,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:30.971Z",
+    "updated_at": "2020-09-28T01:00:30.971Z"
+  },
+  {
+    "id": 46197,
+    "coalition_id": 85,
+    "user_id": 74890,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:30.970Z",
+    "updated_at": "2020-09-28T01:00:30.970Z"
+  },
+  {
+    "id": 46196,
+    "coalition_id": 85,
+    "user_id": 74906,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:30.889Z",
+    "updated_at": "2020-09-28T01:00:30.889Z"
+  },
+  {
+    "id": 46195,
+    "coalition_id": 85,
+    "user_id": 74866,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:30.821Z",
+    "updated_at": "2020-09-28T01:00:30.821Z"
+  },
+  {
+    "id": 46194,
+    "coalition_id": 85,
+    "user_id": 74960,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:30.787Z",
+    "updated_at": "2020-09-28T01:00:30.787Z"
+  },
+  {
+    "id": 46193,
+    "coalition_id": 85,
+    "user_id": 74864,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:30.657Z",
+    "updated_at": "2020-09-28T01:00:30.657Z"
+  },
+  {
+    "id": 46192,
+    "coalition_id": 85,
+    "user_id": 74921,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:30.646Z",
+    "updated_at": "2020-09-28T01:00:30.646Z"
+  },
+  {
+    "id": 46191,
+    "coalition_id": 85,
+    "user_id": 75069,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:30.618Z",
+    "updated_at": "2020-09-28T01:00:30.618Z"
+  },
+  {
+    "id": 46190,
+    "coalition_id": 85,
+    "user_id": 74919,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:30.606Z",
+    "updated_at": "2020-09-28T01:00:30.606Z"
+  },
+  {
+    "id": 46189,
+    "coalition_id": 85,
+    "user_id": 74933,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:30.550Z",
+    "updated_at": "2020-09-28T01:00:30.550Z"
+  },
+  {
+    "id": 46187,
+    "coalition_id": 85,
+    "user_id": 75041,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:30.440Z",
+    "updated_at": "2020-09-28T01:00:30.440Z"
+  },
+  {
+    "id": 46142,
+    "coalition_id": 85,
+    "user_id": 76245,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:28.149Z",
+    "updated_at": "2020-09-28T01:00:28.149Z"
+  },
+  {
+    "id": 46141,
+    "coalition_id": 85,
+    "user_id": 76187,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:28.072Z",
+    "updated_at": "2020-09-28T01:00:28.072Z"
+  },
+  {
+    "id": 46139,
+    "coalition_id": 85,
+    "user_id": 76110,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:28.040Z",
+    "updated_at": "2020-09-28T01:00:28.040Z"
+  },
+  {
+    "id": 46138,
+    "coalition_id": 85,
+    "user_id": 76348,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:28.010Z",
+    "updated_at": "2020-09-28T01:00:28.010Z"
+  },
+  {
+    "id": 46137,
+    "coalition_id": 85,
+    "user_id": 76313,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:27.925Z",
+    "updated_at": "2020-09-28T01:00:27.925Z"
+  },
+  {
+    "id": 46134,
+    "coalition_id": 85,
+    "user_id": 76226,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:27.839Z",
+    "updated_at": "2020-09-28T01:00:27.839Z"
+  },
+  {
+    "id": 46135,
+    "coalition_id": 85,
+    "user_id": 76165,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:27.821Z",
+    "updated_at": "2020-09-28T01:00:27.821Z"
+  },
+  {
+    "id": 46133,
+    "coalition_id": 85,
+    "user_id": 76212,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:27.763Z",
+    "updated_at": "2020-09-28T01:00:27.763Z"
+  },
+  {
+    "id": 46130,
+    "coalition_id": 85,
+    "user_id": 76219,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:27.638Z",
+    "updated_at": "2020-09-28T01:00:27.638Z"
+  },
+  {
+    "id": 46127,
+    "coalition_id": 85,
+    "user_id": 76305,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:27.476Z",
+    "updated_at": "2020-09-28T01:00:27.476Z"
+  },
+  {
+    "id": 46125,
+    "coalition_id": 85,
+    "user_id": 76343,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:27.470Z",
+    "updated_at": "2020-09-28T01:00:27.470Z"
+  },
+  {
+    "id": 46090,
+    "coalition_id": 85,
+    "user_id": 76357,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:25.761Z",
+    "updated_at": "2020-09-28T01:00:25.761Z"
+  },
+  {
+    "id": 46089,
+    "coalition_id": 85,
+    "user_id": 76312,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:25.745Z",
+    "updated_at": "2020-09-28T01:00:25.745Z"
+  },
+  {
+    "id": 46088,
+    "coalition_id": 85,
+    "user_id": 76227,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:25.742Z",
+    "updated_at": "2020-09-28T01:00:25.742Z"
+  },
+  {
+    "id": 46087,
+    "coalition_id": 85,
+    "user_id": 76185,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:25.682Z",
+    "updated_at": "2020-09-28T01:00:25.682Z"
+  },
+  {
+    "id": 46086,
+    "coalition_id": 85,
+    "user_id": 76144,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:25.633Z",
+    "updated_at": "2020-09-28T01:00:25.633Z"
+  },
+  {
+    "id": 46085,
+    "coalition_id": 85,
+    "user_id": 76237,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:25.611Z",
+    "updated_at": "2020-09-28T01:00:25.611Z"
+  },
+  {
+    "id": 46084,
+    "coalition_id": 85,
+    "user_id": 76323,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:25.542Z",
+    "updated_at": "2020-09-28T01:00:25.542Z"
+  },
+  {
+    "id": 46083,
+    "coalition_id": 85,
+    "user_id": 76374,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:25.519Z",
+    "updated_at": "2020-09-28T01:00:25.519Z"
+  },
+  {
+    "id": 46082,
+    "coalition_id": 85,
+    "user_id": 76168,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:25.510Z",
+    "updated_at": "2020-09-28T01:00:25.510Z"
+  },
+  {
+    "id": 46081,
+    "coalition_id": 85,
+    "user_id": 76129,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:25.487Z",
+    "updated_at": "2020-09-28T01:00:25.487Z"
+  },
+  {
+    "id": 46080,
+    "coalition_id": 85,
+    "user_id": 76321,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:25.299Z",
+    "updated_at": "2020-09-28T01:00:25.299Z"
+  },
+  {
+    "id": 46058,
+    "coalition_id": 85,
+    "user_id": 76145,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:24.023Z",
+    "updated_at": "2020-09-28T01:00:24.023Z"
+  },
+  {
+    "id": 46057,
+    "coalition_id": 85,
+    "user_id": 76376,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:24.022Z",
+    "updated_at": "2020-09-28T01:00:24.022Z"
+  },
+  {
+    "id": 46056,
+    "coalition_id": 85,
+    "user_id": 76157,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:24.008Z",
+    "updated_at": "2020-09-28T01:00:24.008Z"
+  },
+  {
+    "id": 46055,
+    "coalition_id": 85,
+    "user_id": 76118,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:23.999Z",
+    "updated_at": "2020-09-28T01:00:23.999Z"
+  },
+  {
+    "id": 46054,
+    "coalition_id": 85,
+    "user_id": 76178,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:23.981Z",
+    "updated_at": "2020-09-28T01:00:23.981Z"
+  },
+  {
+    "id": 46053,
+    "coalition_id": 85,
+    "user_id": 76199,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:23.972Z",
+    "updated_at": "2020-09-28T01:00:23.972Z"
+  },
+  {
+    "id": 46052,
+    "coalition_id": 85,
+    "user_id": 76204,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:23.943Z",
+    "updated_at": "2020-09-28T01:00:23.943Z"
+  },
+  {
+    "id": 46038,
+    "coalition_id": 85,
+    "user_id": 74847,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:23.268Z",
+    "updated_at": "2020-09-28T01:00:23.268Z"
+  },
+  {
+    "id": 46035,
+    "coalition_id": 85,
+    "user_id": 74902,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:23.161Z",
+    "updated_at": "2020-09-28T01:00:23.161Z"
+  },
+  {
+    "id": 46034,
+    "coalition_id": 85,
+    "user_id": 74927,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:23.104Z",
+    "updated_at": "2020-09-28T01:00:23.104Z"
+  },
+  {
+    "id": 46031,
+    "coalition_id": 85,
+    "user_id": 74912,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:23.022Z",
+    "updated_at": "2020-09-28T01:00:23.022Z"
+  },
+  {
+    "id": 46028,
+    "coalition_id": 85,
+    "user_id": 75082,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:22.867Z",
+    "updated_at": "2020-09-28T01:00:22.867Z"
+  },
+  {
+    "id": 46027,
+    "coalition_id": 85,
+    "user_id": 75099,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:22.861Z",
+    "updated_at": "2020-09-28T01:00:22.861Z"
+  },
+  {
+    "id": 46024,
+    "coalition_id": 85,
+    "user_id": 74888,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:22.636Z",
+    "updated_at": "2020-09-28T01:00:22.636Z"
+  },
+  {
+    "id": 46023,
+    "coalition_id": 85,
+    "user_id": 75111,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-28T01:00:22.621Z",
+    "updated_at": "2020-09-28T01:00:22.621Z"
+  },
+  {
+    "id": 45063,
+    "coalition_id": 85,
+    "user_id": 78401,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-09-07T07:48:10.013Z",
+    "updated_at": "2020-09-07T07:48:10.013Z"
+  },
+  {
+    "id": 41291,
+    "coalition_id": 85,
+    "user_id": 72499,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-06-29T00:00:12.824Z",
+    "updated_at": "2020-06-29T00:00:12.824Z"
+  },
+  {
+    "id": 41289,
+    "coalition_id": 85,
+    "user_id": 72416,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-06-29T00:00:12.687Z",
+    "updated_at": "2020-06-29T00:00:12.687Z"
+  },
+  {
+    "id": 41288,
+    "coalition_id": 85,
+    "user_id": 72439,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-06-29T00:00:12.658Z",
+    "updated_at": "2020-06-29T00:00:12.658Z"
+  },
+  {
+    "id": 41287,
+    "coalition_id": 85,
+    "user_id": 72494,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-06-29T00:00:12.635Z",
+    "updated_at": "2020-06-29T00:00:12.635Z"
+  },
+  {
+    "id": 41286,
+    "coalition_id": 85,
+    "user_id": 72455,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-06-29T00:00:12.619Z",
+    "updated_at": "2020-06-29T00:00:12.619Z"
+  },
+  {
+    "id": 41285,
+    "coalition_id": 85,
+    "user_id": 72466,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-06-29T00:00:12.609Z",
+    "updated_at": "2020-06-29T00:00:12.609Z"
+  },
+  {
+    "id": 41283,
+    "coalition_id": 85,
+    "user_id": 72492,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-06-29T00:00:12.482Z",
+    "updated_at": "2020-06-29T00:00:12.482Z"
+  },
+  {
+    "id": 41280,
+    "coalition_id": 85,
+    "user_id": 72418,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-06-29T00:00:12.412Z",
+    "updated_at": "2020-06-29T00:00:12.412Z"
+  },
+  {
+    "id": 41274,
+    "coalition_id": 85,
+    "user_id": 72474,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-06-29T00:00:11.925Z",
+    "updated_at": "2020-06-29T00:00:11.925Z"
+  },
+  {
+    "id": 41271,
+    "coalition_id": 85,
+    "user_id": 72458,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-06-29T00:00:11.758Z",
+    "updated_at": "2020-06-29T00:00:11.758Z"
+  },
+  {
+    "id": 41269,
+    "coalition_id": 85,
+    "user_id": 72483,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-06-29T00:00:11.708Z",
+    "updated_at": "2020-06-29T00:00:11.708Z"
+  },
+  {
+    "id": 41153,
+    "coalition_id": 85,
+    "user_id": 74122,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-06-08T10:01:02.116Z",
+    "updated_at": "2020-06-08T10:01:02.116Z"
+  },
+  {
+    "id": 39923,
+    "coalition_id": 85,
+    "user_id": 74368,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-08T08:31:03.511Z",
+    "updated_at": "2020-04-08T08:31:03.511Z"
+  },
+  {
+    "id": 39918,
+    "coalition_id": 85,
+    "user_id": 69085,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:33.702Z",
+    "updated_at": "2020-04-06T02:02:33.702Z"
+  },
+  {
+    "id": 39912,
+    "coalition_id": 85,
+    "user_id": 68887,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:33.311Z",
+    "updated_at": "2020-04-06T02:02:33.311Z"
+  },
+  {
+    "id": 39907,
+    "coalition_id": 85,
+    "user_id": 69067,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:33.032Z",
+    "updated_at": "2020-04-06T02:02:33.032Z"
+  },
+  {
+    "id": 39906,
+    "coalition_id": 85,
+    "user_id": 69141,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:32.964Z",
+    "updated_at": "2020-04-06T02:02:32.964Z"
+  },
+  {
+    "id": 39902,
+    "coalition_id": 85,
+    "user_id": 68832,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:32.752Z",
+    "updated_at": "2020-04-06T02:02:32.752Z"
+  },
+  {
+    "id": 39895,
+    "coalition_id": 85,
+    "user_id": 69009,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:32.371Z",
+    "updated_at": "2020-04-06T02:02:32.371Z"
+  },
+  {
+    "id": 39891,
+    "coalition_id": 85,
+    "user_id": 68964,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:32.150Z",
+    "updated_at": "2020-04-06T02:02:32.150Z"
+  },
+  {
+    "id": 39889,
+    "coalition_id": 85,
+    "user_id": 68978,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:32.031Z",
+    "updated_at": "2020-04-06T02:02:32.031Z"
+  },
+  {
+    "id": 39883,
+    "coalition_id": 85,
+    "user_id": 68857,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:31.684Z",
+    "updated_at": "2020-04-06T02:02:31.684Z"
+  },
+  {
+    "id": 39879,
+    "coalition_id": 85,
+    "user_id": 69188,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:31.391Z",
+    "updated_at": "2020-04-06T02:02:31.391Z"
+  },
+  {
+    "id": 39877,
+    "coalition_id": 85,
+    "user_id": 69089,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:31.270Z",
+    "updated_at": "2020-04-06T02:02:31.270Z"
+  },
+  {
+    "id": 39873,
+    "coalition_id": 85,
+    "user_id": 68888,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:30.898Z",
+    "updated_at": "2020-04-06T02:02:30.898Z"
+  },
+  {
+    "id": 39869,
+    "coalition_id": 85,
+    "user_id": 68947,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:30.570Z",
+    "updated_at": "2020-04-06T02:02:30.570Z"
+  },
+  {
+    "id": 39864,
+    "coalition_id": 85,
+    "user_id": 69145,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:30.187Z",
+    "updated_at": "2020-04-06T02:02:30.187Z"
+  },
+  {
+    "id": 39861,
+    "coalition_id": 85,
+    "user_id": 68982,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:29.915Z",
+    "updated_at": "2020-04-06T02:02:29.915Z"
+  },
+  {
+    "id": 39857,
+    "coalition_id": 85,
+    "user_id": 69142,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:29.558Z",
+    "updated_at": "2020-04-06T02:02:29.558Z"
+  },
+  {
+    "id": 39853,
+    "coalition_id": 85,
+    "user_id": 68865,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:29.255Z",
+    "updated_at": "2020-04-06T02:02:29.255Z"
+  },
+  {
+    "id": 39849,
+    "coalition_id": 85,
+    "user_id": 69147,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:28.929Z",
+    "updated_at": "2020-04-06T02:02:28.929Z"
+  },
+  {
+    "id": 39846,
+    "coalition_id": 85,
+    "user_id": 68902,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:28.662Z",
+    "updated_at": "2020-04-06T02:02:28.662Z"
+  },
+  {
+    "id": 39842,
+    "coalition_id": 85,
+    "user_id": 69170,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:28.327Z",
+    "updated_at": "2020-04-06T02:02:28.327Z"
+  },
+  {
+    "id": 39835,
+    "coalition_id": 85,
+    "user_id": 68868,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:26.835Z",
+    "updated_at": "2020-04-06T02:02:26.835Z"
+  },
+  {
+    "id": 39833,
+    "coalition_id": 85,
+    "user_id": 69117,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:26.677Z",
+    "updated_at": "2020-04-06T02:02:26.677Z"
+  },
+  {
+    "id": 39829,
+    "coalition_id": 85,
+    "user_id": 69044,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:26.335Z",
+    "updated_at": "2020-04-06T02:02:26.335Z"
+  },
+  {
+    "id": 39823,
+    "coalition_id": 85,
+    "user_id": 68898,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:25.868Z",
+    "updated_at": "2020-04-06T02:02:25.868Z"
+  },
+  {
+    "id": 39820,
+    "coalition_id": 85,
+    "user_id": 69032,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:25.668Z",
+    "updated_at": "2020-04-06T02:02:25.668Z"
+  },
+  {
+    "id": 39816,
+    "coalition_id": 85,
+    "user_id": 68975,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:25.401Z",
+    "updated_at": "2020-04-06T02:02:25.401Z"
+  },
+  {
+    "id": 39812,
+    "coalition_id": 85,
+    "user_id": 68909,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:25.137Z",
+    "updated_at": "2020-04-06T02:02:25.137Z"
+  },
+  {
+    "id": 39808,
+    "coalition_id": 85,
+    "user_id": 68912,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:24.928Z",
+    "updated_at": "2020-04-06T02:02:24.928Z"
+  },
+  {
+    "id": 39806,
+    "coalition_id": 85,
+    "user_id": 68924,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:24.820Z",
+    "updated_at": "2020-04-06T02:02:24.820Z"
+  },
+  {
+    "id": 39801,
+    "coalition_id": 85,
+    "user_id": 68854,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:24.566Z",
+    "updated_at": "2020-04-06T02:02:24.566Z"
+  },
+  {
+    "id": 39796,
+    "coalition_id": 85,
+    "user_id": 68969,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:24.307Z",
+    "updated_at": "2020-04-06T02:02:24.307Z"
+  },
+  {
+    "id": 39794,
+    "coalition_id": 85,
+    "user_id": 69076,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:24.197Z",
+    "updated_at": "2020-04-06T02:02:24.197Z"
+  },
+  {
+    "id": 39790,
+    "coalition_id": 85,
+    "user_id": 69121,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:23.971Z",
+    "updated_at": "2020-04-06T02:02:23.971Z"
+  },
+  {
+    "id": 39784,
+    "coalition_id": 85,
+    "user_id": 69031,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:23.581Z",
+    "updated_at": "2020-04-06T02:02:23.581Z"
+  },
+  {
+    "id": 39781,
+    "coalition_id": 85,
+    "user_id": 69025,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:23.376Z",
+    "updated_at": "2020-04-06T02:02:23.376Z"
+  },
+  {
+    "id": 39775,
+    "coalition_id": 85,
+    "user_id": 69074,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:22.868Z",
+    "updated_at": "2020-04-06T02:02:22.868Z"
+  },
+  {
+    "id": 39773,
+    "coalition_id": 85,
+    "user_id": 69128,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:22.551Z",
+    "updated_at": "2020-04-06T02:02:22.551Z"
+  },
+  {
+    "id": 39770,
+    "coalition_id": 85,
+    "user_id": 67026,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:22.383Z",
+    "updated_at": "2020-04-06T02:02:22.383Z"
+  },
+  {
+    "id": 39766,
+    "coalition_id": 85,
+    "user_id": 69136,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:22.154Z",
+    "updated_at": "2020-04-06T02:02:22.154Z"
+  },
+  {
+    "id": 39759,
+    "coalition_id": 85,
+    "user_id": 68932,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:21.774Z",
+    "updated_at": "2020-04-06T02:02:21.774Z"
+  },
+  {
+    "id": 39758,
+    "coalition_id": 85,
+    "user_id": 69094,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:21.718Z",
+    "updated_at": "2020-04-06T02:02:21.718Z"
+  },
+  {
+    "id": 39751,
+    "coalition_id": 85,
+    "user_id": 69056,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:21.277Z",
+    "updated_at": "2020-04-06T02:02:21.277Z"
+  },
+  {
+    "id": 39749,
+    "coalition_id": 85,
+    "user_id": 68871,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:21.168Z",
+    "updated_at": "2020-04-06T02:02:21.168Z"
+  },
+  {
+    "id": 39743,
+    "coalition_id": 85,
+    "user_id": 68939,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:20.728Z",
+    "updated_at": "2020-04-06T02:02:20.728Z"
+  },
+  {
+    "id": 39739,
+    "coalition_id": 85,
+    "user_id": 69196,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:20.520Z",
+    "updated_at": "2020-04-06T02:02:20.520Z"
+  },
+  {
+    "id": 39736,
+    "coalition_id": 85,
+    "user_id": 68856,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:20.364Z",
+    "updated_at": "2020-04-06T02:02:20.364Z"
+  },
+  {
+    "id": 39732,
+    "coalition_id": 85,
+    "user_id": 68946,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:20.163Z",
+    "updated_at": "2020-04-06T02:02:20.163Z"
+  },
+  {
+    "id": 39730,
+    "coalition_id": 85,
+    "user_id": 69138,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:20.049Z",
+    "updated_at": "2020-04-06T02:02:20.049Z"
+  },
+  {
+    "id": 39723,
+    "coalition_id": 85,
+    "user_id": 69109,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:19.685Z",
+    "updated_at": "2020-04-06T02:02:19.685Z"
+  },
+  {
+    "id": 39720,
+    "coalition_id": 85,
+    "user_id": 69179,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:19.497Z",
+    "updated_at": "2020-04-06T02:02:19.497Z"
+  },
+  {
+    "id": 39715,
+    "coalition_id": 85,
+    "user_id": 69065,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:19.246Z",
+    "updated_at": "2020-04-06T02:02:19.246Z"
+  },
+  {
+    "id": 39712,
+    "coalition_id": 85,
+    "user_id": 69115,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:19.072Z",
+    "updated_at": "2020-04-06T02:02:19.072Z"
+  },
+  {
+    "id": 39708,
+    "coalition_id": 85,
+    "user_id": 68961,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:18.863Z",
+    "updated_at": "2020-04-06T02:02:18.863Z"
+  },
+  {
+    "id": 39704,
+    "coalition_id": 85,
+    "user_id": 68904,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2020-04-06T02:02:18.631Z",
+    "updated_at": "2020-04-06T02:02:18.631Z"
+  },
+  {
+    "id": 85,
+    "coalition_id": 85,
+    "user_id": 84333,
+    "score": 0,
+    "rank": 111,
+    "created_at": "2017-11-20T12:49:06.945Z",
+    "updated_at": "2021-04-21T05:26:18.105Z"
+  }
+]

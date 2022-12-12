@@ -4,3 +4,6 @@
 - graphql은 다음에 배워보는걸로...
 - recoil + react query + axios 로 해보자... 최대한 익숙한 포맷 + 불편했던 부분(recoil, fetch) 개선시도
 - 그래서 디자인 어케함?
+
+- 일단 api js파일로 좀 만들어 보는 중/ npx tsc로 컴파일... esmodule과 common js... 일단 type: modules로 esmodule 사용 가능. .mjs는 항상 esmodule, .cjs는 common js
+- private 멤버는 # 붙여서 선언 가능... es2019부터라서 일단 스킵
