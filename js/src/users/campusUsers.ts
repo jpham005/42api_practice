@@ -1,4 +1,4 @@
-import { apiRequestManager } from '../apiRequester.js';
+import { core } from '../core.js';
 import { User, UserApiDto } from '../model/user.model.js';
 import { apiDefines } from '../model/apiDefine.model.js';
 import * as fs from 'fs';
@@ -27,7 +27,7 @@ async function getAllFromServer() {
 
   try {
     for (let pageNumber: number = 1; ; pageNumber++) {
-      const temp = await apiRequestManager.send<UserApiDto[]>(
+      const temp = await core.sendApiRequest<UserApiDto[]>(
         `campus/${apiDefines.seoulCampusId}/users?page[number]=${pageNumber}&page[size]=${apiDefines.maxPageSize}&filter[kind]=student`
       );
 
@@ -78,27 +78,12 @@ async function getAllFromFile(
   }
 }
 
-function getCursusUser(users: User[]) {
-  const newUsers = users.filter((curr) => isCursusAccount(curr));
-  return newUsers;
-}
-
-function getActiveUser(users: User[]) {
-  const newUsers = users.filter((curr) => isActiveAccount(curr));
-  return newUsers;
-}
-
-function getSeoulUser(users: User[]) {
-  const newUsers = users.filter((curr) => isSeoulAccount(curr));
-  return newUsers;
-}
-
 async function save(
   users: User[],
   filePath: string = '/tmp/data/campusUsers.json'
 ) {
   try {
-    await apiRequestManager.writeJsonToFile(filePath, users);
+    await core.saveJsonToFile(filePath, users);
   } catch {
     console.error(`error: save`);
     throw new Error();
@@ -109,24 +94,5 @@ export const campusUsers = {
   getAll,
   getAllFromFile,
   getAllFromServer,
-  getCursusUser,
-  getActiveUser,
-  getSeoulUser,
   save,
-};
-
-// utils
-const isCursusAccount = (user: User) => {
-  const diffMs =
-    new Date(user.updatedAt).getTime() - new Date(user.createdAt).getTime();
-  const diffDay = diffMs / 1000 / 60 / 60 / 24;
-  return diffDay >= 40;
-};
-
-const isActiveAccount = (user: User) => {
-  return user.active === true;
-};
-
-const isSeoulAccount = (user: User) => {
-  return user.email.endsWith('@student.42seoul.kr');
 };
