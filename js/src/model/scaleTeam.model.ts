@@ -1,14 +1,14 @@
-type ScaleTeamFlag = {
+export type ScaleTeamFlag = {
   name: string;
   positive: boolean;
 };
 
-type ScaleTeamUser = {
+export type ScaleTeamUser = {
   id: number;
   login: string;
 };
 
-interface ScaleTeamDto {
+export interface ScaleTeamDto {
   id: number;
   comment: string;
   created_at: string;
@@ -49,7 +49,7 @@ interface ScaleTeamDto {
   };
 }
 
-interface ScaleTeam {
+export interface ScaleTeam {
   id: number;
   comment: string;
   createdAt: string;

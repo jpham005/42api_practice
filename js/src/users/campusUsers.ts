@@ -4,74 +4,56 @@ import { apiDefines } from '../model/apiDefine.model.js';
 import * as fs from 'fs';
 import { appDefine } from '../model/appDefine.model.js';
 
+// todo: should split params
+const campusUserUrl = `campus/${apiDefines.seoulCampusId}/users?&page[size]=${apiDefines.maxPageSize}&filter[kind]=student`;
+// todo: should implement interface
+const convertor = (userApiDto: UserApiDto): User => ({
+  id: userApiDto.id,
+  email: userApiDto.email,
+  login: userApiDto.login,
+  correctionPoint: userApiDto.correction_point,
+  poolYear: userApiDto.pool_year,
+  poolMonth: userApiDto.pool_month,
+  wallet: userApiDto.wallet,
+  active: userApiDto['active?'],
+  createdAt: userApiDto.created_at,
+  updatedAt: userApiDto.updated_at,
+});
+
 async function getAll(
   filePath: string = `${appDefine.default_data_dir}/campusUser.json`
 ) {
   try {
-    const fileData = await getAllFromFile(filePath);
-    return fileData;
+    const users = await core.getAll<User, UserApiDto>(
+      filePath,
+      campusUserUrl,
+      convertor
+    );
+    return users;
   } catch {
-    try {
-      console.log('tring to get user from 42 server...');
-      const serverData = await getAllFromServer();
-      return serverData;
-    } catch {
-      console.error(`error: getAll`);
-      throw new Error();
-    }
+    console.error(`error: campusUser.getAll`);
+    throw new Error();
   }
 }
 
 async function getAllFromServer() {
-  const users: User[] = [];
-
   try {
-    for (let pageNumber: number = 1; ; pageNumber++) {
-      const temp = await core.sendApiRequest<UserApiDto[]>(
-        `campus/${apiDefines.seoulCampusId}/users?page[number]=${pageNumber}&page[size]=${apiDefines.maxPageSize}&filter[kind]=student`
-      );
-
-      if (temp.length === 0) break;
-
-      users.push(
-        ...temp.map(
-          (curr): User => ({
-            id: curr.id,
-            email: curr.email,
-            login: curr.login,
-            correctionPoint: curr.correction_point,
-            poolYear: curr.pool_year,
-            poolMonth: curr.pool_month,
-            wallet: curr.wallet,
-            active: curr['active?'],
-            createdAt: curr.created_at,
-            updatedAt: curr.updated_at,
-          })
-        )
-      );
-    }
+    const users = await core.getAllFromServer<User, UserApiDto>(
+      campusUserUrl,
+      convertor
+    );
+    return users;
   } catch {
-    console.error(`error: getAllFromServer`);
+    console.error(`error: campusUser.getAllFromServer`);
     throw new Error();
   }
-
-  return users;
 }
 
 async function getAllFromFile(
   filePath: string = `${appDefine.default_data_dir}/campusUsers.json`
 ) {
   try {
-    const fileHandle = await fs.promises.open(filePath, 'r');
-    try {
-      const users = await fileHandle.readFile({ encoding: 'utf-8' }); // todo: data fetcher wrapper
-      const usersJson: User[] = JSON.parse(users);
-      return usersJson;
-    } catch {
-      throw new Error();
-    } finally {
-      await fileHandle.close();
-    }
+    core.getJsonFromFile<User>(filePath);
   } catch {
     console.error(`error: getAllFromFile`);
     throw new Error();

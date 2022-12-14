@@ -1,5 +1,5 @@
 import * as fs from 'fs';
-import { appDefine } from './model/appDefine.model';
+import { appDefine } from './model/appDefine.model.js';
 
 const clientId = process.env.CLIENT_ID;
 const clientSecret = process.env.CLIENT_SECRET;
@@ -45,11 +45,11 @@ async function getAccessToken() {
   }
 }
 
-let isFirst: boolean = true;
 async function sendApiRequest<ReturnType = any>(
   url: string
 ): Promise<ReturnType> {
   try {
+    let isFirst: boolean = true;
     const response = await fetch(`https://api.intra.42.fr/v2/${url}`, {
       headers: {
         Authorization: `Bearer ${accessToken}`,
@@ -71,8 +71,8 @@ async function sendApiRequest<ReturnType = any>(
 
     const responseJson: ReturnType = await response.json();
     return responseJson;
-  } catch {
-    console.error(`error: send`);
+  } catch (e) {
+    console.error(`error: send: ${e}`);
     throw new Error();
   }
 }
@@ -83,24 +83,33 @@ async function saveJsonToFile(filename: string = './data.json', json: any) {
     try {
       await fileHandle.writeFile(JSON.stringify(json, null, '  '));
     } catch {
-      console.error(`error: writeJsonToFile`);
+      console.error(`error: saveJsonToFile`);
     } finally {
       await fileHandle.close();
     }
-  } catch {
-    console.error(`error: writeJsonToFile`);
+  } catch (e) {
+    console.error(`error: saveJsonToFile: ${e}`);
     throw new Error();
   }
 }
 
-async function getAll<ReturnType>(filePath: string): Promise<ReturnType> {
+// todo: refactor getAll funcs. remove ReturnType[] generic
+
+async function getAll<ReturnType, ApiDto>(
+  filePath: string,
+  url: string,
+  dtoConvertor: (dto: ApiDto) => ReturnType
+): Promise<ReturnType[]> {
   try {
     const fileData = await getJsonFromFile<ReturnType>(filePath);
     return fileData;
   } catch {
     try {
-      console.log('tring to get user from 42 server...');
-      const serverData = await getAllFromServer<ReturnType>();
+      console.log('trying to get user from 42 server...');
+      const serverData = await getAllFromServer<ReturnType, ApiDto>(
+        url,
+        dtoConvertor
+      );
       return serverData;
     } catch {
       console.error(`error: getAll`);
@@ -109,50 +118,73 @@ async function getAll<ReturnType>(filePath: string): Promise<ReturnType> {
   }
 }
 
-async function getAllFromServer<ReturnType>(): Promise<ReturnType> {
-  const users: User[] = [];
+async function getAllFromServer<ReturnType, ApiDto>(
+  url: string,
+  dtoConvertor: (dto: ApiDto) => ReturnType
+): Promise<ReturnType[]> {
+  const json: ReturnType[] = [];
 
+  let pageNumber: number = 1;
+  let secondRun: number = 0;
   try {
-    for (let pageNumber: number = 1; ; pageNumber++) {
-      const temp = await core.sendApiRequest<UserApiDto[]>(
-        `campus/${apiDefines.seoulCampusId}/users?page[number]=${pageNumber}&page[size]=${apiDefines.maxPageSize}&filter[kind]=student`
-      );
+    for (; ; pageNumber++) {
+      let temp: ApiDto[];
+      try {
+        // todo: seperate here
+        temp = await core.sendApiRequest<ApiDto[]>(
+          `${url}&page[number]=${pageNumber}`
+        );
+      } catch {
+        secondRun++;
+        temp = await core.sendApiRequest<ApiDto[]>(
+          `${url}&page[number]=${pageNumber}`
+        );
+      }
 
       if (temp.length === 0) break;
 
-      users.push(
-        ...temp.map(
-          (curr): User => ({
-            id: curr.id,
-            email: curr.email,
-            login: curr.login,
-            correctionPoint: curr.correction_point,
-            poolYear: curr.pool_year,
-            poolMonth: curr.pool_month,
-            wallet: curr.wallet,
-            active: curr['active?'],
-            createdAt: curr.created_at,
-            updatedAt: curr.updated_at,
-          })
-        )
-      );
+      console.log(pageNumber);
+
+      try {
+        await saveJsonToFile(
+          `${appDefine.default_data_dir}/tmp/${pageNumber}.json`,
+          temp
+        );
+      } catch (e) {
+        console.error(`todo...: ${e}`);
+        try {
+          await saveJsonToFile(
+            `${appDefine.default_data_dir}/tmp/${pageNumber}.json`,
+            temp
+          );
+        } finally {
+        }
+      }
+
+      json.push(...temp.map((curr) => dtoConvertor(curr)));
     }
   } catch {
-    console.error(`error: getAllFromServer`);
+    await saveJsonToFile(
+      `${appDefine.default_data_dir}/errorDump.json`,
+      JSON.stringify(json)
+    );
+    console.error(`error: getAllFromServer at pageNumber ${pageNumber}`);
     throw new Error();
+  } finally {
+    console.log(`secondRun: ${secondRun}`);
   }
 
-  return users;
+  return json;
 }
 
 async function getJsonFromFile<ReturnType>(
   filePath: string
-): Promise<ReturnType> {
+): Promise<ReturnType[]> {
   try {
     const fileHandle = await fs.promises.open(filePath, 'r');
     try {
       const jsonString = await fileHandle.readFile({ encoding: 'utf-8' });
-      const json: ReturnType = JSON.parse(jsonString);
+      const json: ReturnType[] = JSON.parse(jsonString);
       return json;
     } catch {
       throw new Error();
@@ -168,6 +200,9 @@ async function getJsonFromFile<ReturnType>(
 export const core = {
   sendApiRequest,
   saveJsonToFile,
+  getAll,
+  getAllFromServer,
+  getJsonFromFile,
 };
 
 function isTokenErrorResponse(status: number): boolean {
