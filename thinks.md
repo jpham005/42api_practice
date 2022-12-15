@@ -12,3 +12,4 @@
 - api lib class 도입 생각해보자. data type과 convertor implement하는 방식? 오픈소스로 만들어 확장하는데 유리할 것
 - api 1000번 보내다가 터졌음... fetch에서 에러가 났는데, 네트워크 에러임... 과연 네트워크의 실패 확률에 걸린걸까? 아무튼 앞으론 관련 에러처리 잘 고려할것.<br/>적어도 dump 하거나 에러 로그를 찍는 등...
 - nohup, tail -f 조합
+- node heap overflow, json stringify limit... json stream

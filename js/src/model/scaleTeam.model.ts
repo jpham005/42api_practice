@@ -46,6 +46,7 @@ export interface ScaleTeamDto {
     locked_at: string;
     closed_at: string;
     project_session_id: number;
+    project_gitlab_path: string;
   };
 }
 
@@ -61,5 +62,6 @@ export interface ScaleTeam {
   filledAt: string;
   correcteds: ScaleTeamUser[];
   corrector: ScaleTeamUser;
-  teamId: number;
+  // teamId: number;
+  isPiscine: boolean;
 }

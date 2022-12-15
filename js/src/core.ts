@@ -81,7 +81,9 @@ async function saveJsonToFile(filename: string = './data.json', json: any) {
   try {
     const fileHandle = await fs.promises.open(filename, 'w');
     try {
-      await fileHandle.writeFile(JSON.stringify(json, null, '  '));
+      await fileHandle.writeFile(JSON.stringify(json, null, '  '), {
+        encoding: 'utf-8',
+      });
     } catch {
       console.error(`error: saveJsonToFile`);
     } finally {

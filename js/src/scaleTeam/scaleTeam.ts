@@ -16,6 +16,7 @@ const convertor = (scaleTeamDto: ScaleTeamDto) => ({
   correcteds: scaleTeamDto.correcteds,
   corrector: scaleTeamDto.corrector,
   teamId: scaleTeamDto.team.id,
+  isPiscine: true,
 });
 
 async function getAll(
