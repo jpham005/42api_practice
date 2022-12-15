@@ -1,6 +1,6 @@
 @import './font/Inter-3.19/Inter\ Web/inter.css';
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 1280px) {
   body {
     background-color: grey;
   }
@@ -26,9 +26,9 @@ main {
 }
 
 .titleContainer {
-  flex: 2;
   display: flex;
   margin: auto;
+  width: 35%;
   padding-left: 15%;
 }
 
@@ -37,17 +37,27 @@ main {
 }
 
 .menuContainer {
-  width: 40%;
-  height: 60%;
   display: flex;
-  background-color: white;
-  flex: 3;
+  width: 50%;
   flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+
+.menu {
+  --variable-padding: 7.5%;
+  --variable-margin: 5%;
+  background-color: white;
+  width: calc(75% - 2 * var(--variable-padding));
+  height: calc(70% - 2 * var(--variable-padding));
+  border-radius: 1%;
+  margin: auto calc(2 * var(--variable-margin)) auto var(--variable-margin);
+  padding: var(--variable-padding);
 }
 
 .ftlogoContainer {
   /* width: 20%; */
-  height: 20%;
+  /* height: 20%; */
 }
 
 .titleContainer .ftlogoContainer {
