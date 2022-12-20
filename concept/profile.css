@@ -1,0 +1,96 @@
+main {
+  height: calc(100% - 50px);
+  background-color: rgb(214, 210, 131);
+}
+
+.navContainer {
+  background-color: white;
+  display: flex;
+  width: 100%;
+  height: 49px;
+  border-bottom: 1px solid black;
+}
+
+.navIconContainer {
+  display: flex;
+  width: 100px;
+}
+
+.navIcon {
+  margin: auto;
+  width: 35px;
+  height: 35px;
+}
+
+.navSearchFormContainer {
+  margin: 0 auto;
+  width: calc(100% - 210px);
+  height: 100%;
+}
+
+.navSearchFormInput {
+  width: 100%;
+  height: calc(100% - 2px);
+  border: none;
+}
+
+.navSearchFormInput:focus {
+  outline: none;
+}
+
+.profileInfoContainer {
+  width: 100%;
+  height: 500px;
+}
+
+.profileImageContainer {
+  margin: auto;
+  width: 200px;
+  height: 220px;
+  object-fit: fill;
+}
+
+.profileImage {
+  margin: 10px 0 10px 0;
+  border-radius: 30px;
+  width: 100%;
+  height: 200px;
+}
+
+.profileNameContainer {
+  width: 100%;
+  height: 40px;
+  margin: auto;
+  font-size: x-large;
+}
+
+.profileName {
+  height: 100%;
+}
+
+.profileLogin {
+  margin: auto;
+  text-align: center;
+}
+
+.profileAdditionalInfoContainer {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 90%;
+  height: 240px;
+  margin: auto;
+  border-radius: 5px;
+  color: rgb(210, 203, 85);
+  text-align: center;
+  font-size: x-large;
+}
+
+.profileAdditionalInfo {
+}
+
+@media only screen and (min-width: 1200px) {
+  main {
+    --variable-padding: calc((100% - 1200px) / 2);
+    padding: 0 var(--variable-padding) 0 var(--variable-padding);
+    width: 1200px;
+  }
+}
