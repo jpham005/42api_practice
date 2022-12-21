@@ -41,5 +41,8 @@
   - point history
 
 - etc
+
   - exp calculator
   - blackhole calculator
+
+- filter comment with subject
