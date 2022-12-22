@@ -1,12 +1,12 @@
 main {
   margin: auto;
-  padding: 0 5% 0 5%;
-  width: 90%;
+  width: 100%;
   height: calc(100% - 50px);
-  background-color: rgb(214, 210, 131);
 }
 
 .navContainer {
+  top: 0;
+  position: sticky;
   background-color: white;
   display: flex;
   width: 100%;
@@ -41,15 +41,21 @@ main {
   outline: none;
 }
 
+.profileInfoBackground {
+  height: fit-content;
+  background-color: rgb(208, 188, 38);
+}
+
 .profileInfoContainer {
-  width: 100%;
+  padding: calc(2rem - 10px) 5% 2rem 5%;
+  width: 90%;
 }
 
 .profileImageContainer {
   margin: auto;
   width: 200px;
   height: 220px;
-  object-fit: fill;
+  object-fit: scale-down;
 }
 
 .profileImage {
@@ -74,18 +80,26 @@ main {
   font-size: 1.2rem;
   margin: auto;
   text-align: center;
+  text-overflow: ellipsis;
+}
+
+.blackholeIndicatorContainer {
+  width: 320px;
+  margin: auto;
+}
+
+.blackholeImage {
+  display: inline-block;
 }
 
 .profileAdditionalInfoContainer {
   --variable-padding: calc((100% - 320px) / 2);
   background-color: rgba(0, 0, 0, 0.6);
-  width: 100%;
   margin: auto;
   border-radius: 5px;
-  color: rgb(210, 203, 85);
+  color: rgb(233, 183, 17);
   font-size: 1.2rem;
   width: 320px;
-  min-width: 320px;
   padding: 0 var(--variable-padding) 0 var(--variable-padding);
 }
 
@@ -99,13 +113,25 @@ main {
 
 .profileInfoValue {
   font-size: 1.2rem;
+  padding: 0.6rem 0 0.6rem 0;
   color: ghostwhite;
 }
 
-@media only screen and (min-width: 1200px) {
-  main {
+.evalInfoBackground {
+  background-color: white;
+}
+
+.evalInfoContaienr {
+}
+
+@media only screen and (min-width: 1250px) {
+  /* main {
     --variable-padding: calc((100% - 1200px) / 2);
     padding: 0 var(--variable-padding) 0 var(--variable-padding);
+    width: 1200px;
+  } */
+
+  .profileInfoContainer {
     width: 1200px;
   }
 }
