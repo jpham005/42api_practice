@@ -2,6 +2,10 @@
 
 html,
 body {
+  --variable-grey: #dddddd;
+  --variable-darkblue: #222831;
+  --variable-navy: #30475e;
+  --variable-red: #f05454;
   width: 100%;
   height: 100%;
   font-size: 16px;
