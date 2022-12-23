@@ -16,3 +16,6 @@
 - css reload 안되는 조건들... 색 바꾸는걸론 안됨
 - border box!!!
 - editable css..?
+- image overflow, object fit cover
+- ::before imoji
+- 밖에서 패딩 넣기/안에서 마진 넣기
