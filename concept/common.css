@@ -2,8 +2,8 @@
 
 html,
 body {
-  --variable-grey: #dddddd;
-  --variable-darkblue: #222831;
+  --variable-white: #f5f5f5;
+  --variable-black: #121212;
   --variable-navy: #30475e;
   --variable-red: #f05454;
   width: 100%;
