@@ -19,3 +19,5 @@
 - image overflow, object fit cover
 - ::before imoji
 - 밖에서 패딩 넣기/안에서 마진 넣기
+- max-width! without media query
+- min margin -> padding
