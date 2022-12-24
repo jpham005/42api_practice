@@ -23,3 +23,4 @@
 - min margin -> padding
 - text visibility... (caused by 42 logo need black & white => change font size larger, add new color, trying to change 42 logo white...)
 - 오른손 잡이가 많으니 자주 쓸 버튼이 오른쪽에 가는게 낫지 않을까? (사이드 바 와 홈 버튼 간 배치)
+- need to use none-standard...
