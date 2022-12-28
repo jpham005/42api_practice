@@ -44,3 +44,8 @@
   - victory.js vs chart.js
   - coal page -> blackholed, population, evalcnt, score, rank, top contributer
   - update list: blackhole detail page, log time calender, evaluation detail page
+  - move coalition mark?
+- 42 health check?
+- immutable, muttable, persistent data structure(map)
+- blackhole few hours -> display as timer
+- rerender -> referch -> insane
