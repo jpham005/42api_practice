@@ -48,4 +48,4 @@
 - 42 health check?
 - immutable, muttable, persistent data structure(map)
 - blackhole few hours -> display as timer
-- rerender -> referch -> insane
+- rerender -> referch -> insane (at transcendence)
