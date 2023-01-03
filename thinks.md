@@ -49,3 +49,4 @@
 - immutable, muttable, persistent data structure(map)
 - blackhole few hours -> display as timer
 - rerender -> referch -> insane
+- docker compose device relative path bug...
