@@ -50,3 +50,9 @@
 - blackhole few hours -> display as timer
 - rerender -> referch -> insane
 - docker compose device relative path bug...
+- frontend testing????
+- proper design..how....
+- yarn run script?
+- emotion!!!!!! hard to make common css component... (need styled-component? or css in css...)
+- reading emotino official best practice
+- css too specific...
