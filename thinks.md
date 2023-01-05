@@ -56,3 +56,9 @@
 - emotion!!!!!! hard to make common css component... (need styled-component? or css in css...)
 - reading emotino official best practice
 - css too specific...
+- emotion relationship between css, classname... eventually, classname should be a string, so going on with string type.
+- align vertical tightly => grid?
+- center align => flex???
+- google oauth.... create my own login btn cause library looks too heavy... but too hard to do it.. should i use lib? or do cherry pick?
+- material design 참고 많이 하는데 material library가 나었을지도>
+- void 0? zzzzzz (while digging google auth lib)
