@@ -62,3 +62,5 @@
 - google oauth.... create my own login btn cause library looks too heavy... but too hard to do it.. should i use lib? or do cherry pick?
 - material design 참고 많이 하는데 material library가 나었을지도>
 - void 0? zzzzzz (while digging google auth lib)
+- dont know how to use gapi... for now, go with library
+- 인줄 알았더니 .d file 찾아서 가져옴. typescript 공부좀 해야할듯
