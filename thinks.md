@@ -64,3 +64,9 @@
 - void 0? zzzzzz (while digging google auth lib)
 - dont know how to use gapi... for now, go with library
 - 인줄 알았더니 .d file 찾아서 가져옴. typescript 공부좀 해야할듯
+- 페이지 전환효과 넣으면 좋겠다...
+- login caching?
+- help msg box...
+- html text 잘 출력시키기?
+- viewbox 중요한거였네...
+- tdd 드가자 (todo list format)
