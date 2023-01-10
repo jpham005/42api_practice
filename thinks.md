@@ -70,3 +70,6 @@
 - html text 잘 출력시키기?
 - viewbox 중요한거였네...
 - tdd 드가자 (todo list format)
+- 2중 oauth...힘드네...
+- custom hook 최고다! (google button 로직 분리, window width 반영하는 refresh 적용)
+- vercel 올리려니까 모노레포 힘드네

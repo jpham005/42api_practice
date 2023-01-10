@@ -1,0 +1,6 @@
+- jotai: sync state management
+- react query: async state management
+- emotion: css
+- react-router-dom: routing
+- vitest: testing
+- axios: for before/after fetching automization
