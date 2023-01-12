@@ -4,3 +4,6 @@
 - react-router-dom: routing
 - vitest: testing
 - axios: for before/after fetching automization
+- mock service worker: mock
+- testing library / react: testing
+- vitest: testing

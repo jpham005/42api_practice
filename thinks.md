@@ -13,7 +13,7 @@
 - api 1000번 보내다가 터졌음... fetch에서 에러가 났는데, 네트워크 에러임... 과연 네트워크의 실패 확률에 걸린걸까? 아무튼 앞으론 관련 에러처리 잘 고려할것.<br/>적어도 dump 하거나 에러 로그를 찍는 등...
 - nohup, tail -f 조합
 - node heap overflow, json stringify limit... json stream
-- css reload 안되는 조건들... 색 바꾸는걸론 안됨
+- css reload 안되는 조건들... 색 바꾸는걸론 안됨 (repaint)
 - border box!!!
 - editable css..?
 - image overflow, object fit cover
@@ -73,3 +73,11 @@
 - 2중 oauth...힘드네...
 - custom hook 최고다! (google button 로직 분리, window width 반영하는 refresh 적용)
 - vercel 올리려니까 모노레포 힘드네
+- commit 단위? 풀리퀘 단위?
+- msw로 테스팅 스크립트도 돌릴 수 있는듯?
+- axios typescript... (for interceptor) 어차피 이게 우선순위니까 굳이 검사해서 세팅하기보단 일괄세팅하자...
+- navigate vs return
+- login 로직 더 생각해봤어야하나... cookie는 redirection 전달 가능(사실 당연한거지만)
+- 서버 쪽 데이터에 대해 react router dom의 redirect를 loader와 합쳐 사용하라고 되어있는데... 상태를 전부 잃어버리는게 맞나?
+- google cookie 가 생긴다면 좀 편할텐데... 문서봐선 딱히 그런게 없는 것 같고... cookie관련 설정이 딱히 관련 없어보임...
+- react query 타입 개어렵네...
