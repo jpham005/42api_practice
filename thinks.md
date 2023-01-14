@@ -85,3 +85,5 @@
 - suspense 마려운데 experimental이라 패스
 - provieder와 context에 대해 알아봐야할듯...
 - class와 함수형 컴포넌트 차이와 호환시키는거 연습해보기
+- error boundary는 클래스 형만 가능.. react router dom의 에러 엘리먼트를 사용할지, 에러 바운더리를 만들어서 적용할지 고민해보자
+- react router dom에서 어떻게 다시 렌더링 시켜주는진 모르겠음.
