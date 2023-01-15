@@ -87,3 +87,8 @@
 - class와 함수형 컴포넌트 차이와 호환시키는거 연습해보기
 - error boundary는 클래스 형만 가능.. react router dom의 에러 엘리먼트를 사용할지, 에러 바운더리를 만들어서 적용할지 고민해보자
 - react router dom에서 어떻게 다시 렌더링 시켜주는진 모르겠음.
+- exam 필터링
+- react router dom 의 작동 원리?
+- 너무 어렵게 생각했나...
+- react router dom도 loader나 action이 비동기 요청 처리해줄 수 있어보임. 단, react query가 캐시와 refetch등에서 더 디테일하게 관리할 수 있을 듯
+- 어쨌거나 시키는 대로 하면 따라와지게끔 흐름 짜고, 아닌 경우는 예외처리정도만.
