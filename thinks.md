@@ -92,3 +92,7 @@
 - 너무 어렵게 생각했나...
 - react router dom도 loader나 action이 비동기 요청 처리해줄 수 있어보임. 단, react query가 캐시와 refetch등에서 더 디테일하게 관리할 수 있을 듯
 - 어쨌거나 시키는 대로 하면 따라와지게끔 흐름 짜고, 아닌 경우는 예외처리정도만.
+- comments!
+- 선언적 구조..
+- 필요한 만큼의 문서화?
+- hooks vs type guard function
