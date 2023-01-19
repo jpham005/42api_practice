@@ -96,3 +96,7 @@
 - 선언적 구조..
 - 필요한 만큼의 문서화?
 - hooks vs type guard function
+- 접근성... google 같은 경우 진짜 잘되어있긴 함. tab, shift tab, enter 조합으로 모든 요소가 사용 가능해야함(mdn)
+- setState로 인한 rerender보다, 동기적인 navigate가 먼저 실행(login)
+- https://designsystem.line.me/
+- redirect vs popup...
