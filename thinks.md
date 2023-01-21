@@ -100,3 +100,5 @@
 - setState로 인한 rerender보다, 동기적인 navigate가 먼저 실행(login)
 - https://designsystem.line.me/
 - redirect vs popup...
+- 80 line width? refreshTokenAtomGroup.derivedAtom.needLogin..
+- 같은 코드 있으면 => 한번의 복붙 || 같은 변수로 대입?
