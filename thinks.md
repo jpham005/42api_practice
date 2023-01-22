@@ -102,3 +102,4 @@
 - redirect vs popup...
 - 80 line width? refreshTokenAtomGroup.derivedAtom.needLogin..
 - 같은 코드 있으면 => 한번의 복붙 || 같은 변수로 대입?
+- 동아리 보여주는 기능..? 오픈 프로젝트 각
