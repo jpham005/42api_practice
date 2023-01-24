@@ -103,3 +103,10 @@
 - 80 line width? refreshTokenAtomGroup.derivedAtom.needLogin..
 - 같은 코드 있으면 => 한번의 복붙 || 같은 변수로 대입?
 - 동아리 보여주는 기능..? 오픈 프로젝트 각
+- css 하드코딩한 값들 의도를 기억해내기 어렵다... 장기간 유지보수 하려면 calc나 %의 css 표현이 많은게 좋을 듯.
+- instanceof 조심...
+- convention...
+- 컴포넌트 안쪽에 함수 넣기 vs 밖으로 빼기
+- git sucks...
+- unknown css proops.
+- rem vs pixel vs ratio(%)
