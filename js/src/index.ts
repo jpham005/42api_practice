@@ -32,8 +32,19 @@ const convertor = (scaleTeamDto: ScaleTeamDto) => ({
   isPiscine: getIsPiscine(scaleTeamDto.team.project_gitlab_path),
 });
 
-interface userEvalSum {
-  [key: string]: number;
+interface MonthlyCount {
+  1: number;
+  2: number;
+  3: number;
+  4: number;
+  5: number;
+  6: number;
+  7: number;
+  8: number;
+  9: number;
+  10: number;
+  11: number;
+  12: number;
 }
 
 async function main() {
@@ -53,78 +64,23 @@ async function main() {
     // });
   }
 
-  let users = new Map<string, number>();
-  let totalLen = 0;
-  let totalMark = 0;
-  let totalOutstanding = 0;
-  let mark = 0;
-  let cnt = 0;
-  let comments: string[] = [];
-  const searching = 'yoonsele';
-  const outstanding = 'Outstanding project';
+  const newScaleTeam = scaleTeams.filter((curr) => !curr.isPiscine);
 
-  scaleTeams.forEach((curr) => {
-    if (curr.isPiscine === true) {
-      return;
-    }
+  const monthlyCount: number[] = [];
 
-    if (!curr?.corrector?.login) {
-      console.log(curr.id);
-      console.log(curr.corrector);
-      return;
-    }
+  for (let i = 0; i < 12; i++) {
+    monthlyCount[i] = 0;
+  }
 
-    totalMark += curr.finalMark;
-    totalLen++;
+  newScaleTeam.forEach((curr) => {
+    const filledDate = new Date(curr.filledAt);
+    const filledMonth = filledDate.getMonth();
 
-    if (curr.corrector.login === searching) {
-      mark += curr.finalMark;
-      cnt++;
-    }
-
-    if (curr.flag.name === outstanding) {
-      totalOutstanding++;
-    }
-
-    if (curr.correcteds.find((user) => user.login === searching)) {
-      if (curr.flag.name === outstanding) {
-        comments.push(curr.comment);
-      }
-    }
-
-    const num = users?.get(curr?.corrector?.login);
-    users.set(
-      curr.corrector.login,
-      users.has(curr.corrector.login) ? num + 1 : 1
-    );
+    monthlyCount[filledMonth]++;
   });
 
-  console.log(
-    'total avg. eval cnt: ' + Math.floor(totalLen / users.size),
-    'total avg. final mark: ' + (totalMark / totalLen).toFixed(3)
-  );
-  console.log(
-    `${searching}'s eval cnt: ` + cnt,
-    `${searching}'s avg. final mark: ` + (mark / cnt).toFixed(3)
-  );
-
-  comments.forEach((comment) => console.log(comment + '\n'));
-
-  console.log(totalOutstanding / users.size, comments.length);
+  monthlyCount.forEach((curr, index) => console.log(`${index + 1}\t${curr}`));
 }
 
 // 2022 01 01 ~ 2022 12 12 11 59 59
-
-// main();
-
-async function test() {
-  const searching = 'jinam';
-
-  const users = await campusUsers.getAll('/tmp/data/campusUsers.json');
-  const user = users.find((user) => user.login === searching);
-
-  console.log(users[104]);
-}
-
-// test();
 main();
