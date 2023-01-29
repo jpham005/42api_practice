@@ -9,6 +9,9 @@ import {
   ScaleTeamDto,
   ScaleTeamUser,
 } from './model/scaleTeam.model.js';
+import { userFilter } from './users/userFilters.js';
+import { User } from './model/user.model.js';
+import { Core } from './newCore/Core.js';
 
 dotenv.config();
 
@@ -16,70 +19,91 @@ const getIsPiscine = (path: string) => {
   return path.search('c-piscine') != -1;
 };
 
-const convertor = (scaleTeamDto: ScaleTeamDto) => ({
-  id: scaleTeamDto.id,
-  comment: scaleTeamDto.comment,
-  createdAt: scaleTeamDto.created_at,
-  updatedAt: scaleTeamDto.updated_at,
-  feedback: scaleTeamDto.feedback,
-  finalMark: scaleTeamDto.final_mark,
-  flag: scaleTeamDto.flag,
-  beginAt: scaleTeamDto.begin_at,
-  filledAt: scaleTeamDto.filled_at,
-  correcteds: scaleTeamDto.correcteds,
-  corrector: scaleTeamDto.corrector,
-  teamId: scaleTeamDto.team.id,
-  isPiscine: getIsPiscine(scaleTeamDto.team.project_gitlab_path),
-});
-
-interface MonthlyCount {
-  1: number;
-  2: number;
-  3: number;
-  4: number;
-  5: number;
-  6: number;
-  7: number;
-  8: number;
-  9: number;
-  10: number;
-  11: number;
-  12: number;
+interface CustomUser extends User {
+  cursus_users: [
+    {
+      grade: string;
+      blackholed_at: string;
+    }
+  ];
 }
+/*
+    {
+      grade: 'Learner',
+      level: 3.95,
+      skills: [Array],
+      blackholed_at: '2022-10-18T01:00:00.000Z',
+      id: 145524,
+      begin_at: '2021-11-08T01:00:00.000Z',
+      end_at: '2022-10-19T01:00:14.665Z',
+      cursus_id: 21,
+      has_coalition: true,
+      created_at: '2021-11-03T10:15:25.855Z',
+      updated_at: '2022-10-19T01:00:13.670Z',
+      user: [Object],
+      cursus: [Object]
+    }
+    */
 
 async function main() {
-  const scaleTeams: ScaleTeam[] = [];
+  const sender = new Core();
 
-  for (let i = 1; i < 1032; i++) {
-    const curr: ScaleTeamDto[] = JSON.parse(
-      await fs.promises.readFile(`/tmp/data/tmp/${i}.json`, {
-        encoding: 'utf-8',
-      })
-    );
+  const cursusUsers: User[] = JSON.parse(
+    await fs.promises.readFile('/tmp/data/cursusUsers.json', {
+      encoding: 'utf-8',
+    })
+  );
 
-    scaleTeams.push(...curr.map((single) => convertor(single)));
+  console.log(`cursus user count: ${cursusUsers.length}`);
 
-    // await fileHandle.writeFile(JSON.stringify(curr.map(), null, 2), {
-    //   encoding: 'utf-8',
-    // });
-  }
+  const activeUsers: User[] = [];
+  const deactiveUsers: User[] = [];
 
-  const newScaleTeam = scaleTeams.filter((curr) => !curr.isPiscine);
+  cursusUsers.forEach((curr) => {
+    if (curr.active === true) {
+      activeUsers.push(curr);
+      return;
+    }
 
-  const monthlyCount: number[] = [];
-
-  for (let i = 0; i < 12; i++) {
-    monthlyCount[i] = 0;
-  }
-
-  newScaleTeam.forEach((curr) => {
-    const filledDate = new Date(curr.filledAt);
-    const filledMonth = filledDate.getMonth();
-
-    monthlyCount[filledMonth]++;
+    deactiveUsers.push(curr);
   });
 
-  monthlyCount.forEach((curr, index) => console.log(`${index + 1}\t${curr}`));
+  console.log(`active users: ${activeUsers.length}`);
+  console.log(`deactive users: ${deactiveUsers.length}`);
+
+  const errorFile = await fs.promises.open('/tmp/data/errorDump.json');
+  const deactiveFile = await fs.promises.open('/tmp/data/deactiveUsers.json');
+
+  for (const curr of deactiveUsers) {
+    const response: CustomUser = await sender.sendApiRequest(
+      `users/${curr.id}`
+    );
+
+    if (response.cursus_users === undefined) {
+      await errorFile.appendFile(`${response.id}\n`);
+    }
+
+    for (const currCursus of response.cursus_users) {
+      if (currCursus.grade.toUpperCase() === 'learner'.toUpperCase()) {
+        await deactiveFile.appendFile(
+          JSON.stringify(
+            {
+              id: response.id,
+              login: response.login,
+              blackholed_at: currCursus.blackholed_at,
+            },
+            null,
+            '  '
+          ),
+          {
+            encoding: 'utf-8',
+          }
+        );
+      } else {
+        console.log('is Piscine');
+      }
+    }
+  }
 }
 
 // 2022 01 01 ~ 2022 12 12 11 59 59
