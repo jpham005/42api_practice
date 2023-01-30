@@ -114,3 +114,7 @@
 - fe 기술 부채 갚으려고 했는데, 팀원이 적으니 그것도 쉽지 않은듯...
 - 팀을 뽑냐 혼자 만드냐...
 - background-position의 %비율은 background와 width의 차이의 비율이다. background-size: 200으로 하면, 100% width를 간접적으로 사용할 수 있다.
+- how browser render fonts
+- hmr updatE?
+- convention: skip todo commit
+- children type!!!!!!!!!!!!!!!!!!
