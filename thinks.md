@@ -118,3 +118,11 @@
 - hmr updatE?
 - convention: skip todo commit
 - children type!!!!!!!!!!!!!!!!!!
+- ussRef 는 아무 값이나 쓸 수 있지만, html element를 위해선 null을 넣는게 맞다. mount되고 rendering 되기 전엔 element도 없기 때문.
+- emotion media qurey 부분은 facepaint의 사용을 권장하는데, 여기서 facepaint가 타입 지원이 약해 자동완성이(검사) 안된다.
+- 전반적으로 object style을 권장하지만, template string이 아직은 더 편하게 사용가능하게 느껴짐.
+- react event 동기적이어야
+- react에서 NodeJS.Time 같은 타입을 사용 가능한 이유는,
+  1. vite가 node의 타입 파일을 가져옴
+  2. setTimeout같은 javascript 표준에 있는 함수에 대해선, nodejs나 브라우저나 같은 리턴타입을 사용할 것을 알 수 있음
+  3. 고로 표준에 정의된 부분에 대해선, node의 타입을 사용해도 된다.
